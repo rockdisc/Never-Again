@@ -1,0 +1,31 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasTag("Report")
+        - not:
+            - file.inFolder("Templates")
+    order:
+      - file.name
+      - MediaType
+      - Author
+      - Rating
+      - Status
+    sort:
+      - property: Rating
+        direction: DESC
+    image: note.banner
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.hasTag("Report")
+        - not:
+            - file.inFolder("Templates")
+    order:
+      - file.name
+      - MediaType
+      - Author
+      - Status
+      - Rating

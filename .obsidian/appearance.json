@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Black",
+  "showRibbon": false,
+  "baseFontSizeAction": true,
+  "baseFontSize": 27,
+  "enabledCssSnippets": [
+    "dashboard",
+    "timesNewRoman"
+  ],
+  "textFontFamily": "",
+  "showViewHeader": true,
+  "interfaceFontFamily": "",
+  "theme": "obsidian"
+}

@@ -1,0 +1,20 @@
+properties:
+  note.Type:
+    displayName: SpiritType
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.hasTag("Ors/NPC")
+        - file.hasTag("Ors/Orsian/player")
+        - file.hasTag("Ors/Arouran/player")
+    order:
+      - file.name
+      - Name
+      - Type
+      - Faction
+      - ThemeSong
+    sort:
+      - property: Type
+        direction: DESC
