@@ -30,8 +30,6 @@ actions:
 > - [ ] Write Institalionalized 
 > - [ ] Write place for a grave 
 > - [ ] Write City 
-> - [ ] Gimp 
-> - [ ] Krita 
 > - [ ] Fix Browser Wallpaper 
 > - [ ] Figure out drawing pad
 > - [ ] Make the oneshot 
