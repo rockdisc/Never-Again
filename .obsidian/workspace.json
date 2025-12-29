@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d981db1fb7d57ac1",
+            "id": "945dd039c11eb9a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-DND/Misadventurers/2-Main/Gods.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gods"
+              "title": "Home"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-DND/Misadventurers/2-Main/Gods.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Gods"
+              "title": "Graph of Home"
             }
           },
           {
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-DND/Misadventurers/2-Main/Gods.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gods"
+              "title": "Outline of Home"
             }
           },
           {
@@ -256,10 +256,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "4-DND/Misadventurers/2-Main/Gods.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Gods"
+              "title": "File properties for Home"
             }
           },
           {
@@ -299,8 +299,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d981db1fb7d57ac1",
+  "active": "945dd039c11eb9a9",
   "lastOpenFiles": [
+    "4-DND/Misadventurers/2-Main/Gods.md",
     "Home.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Power.md",
     "2-Main/Misc/Email.md",
@@ -328,7 +329,6 @@
     "2-Main/1-Ramblings/Dream Journal.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Free Body Diagram.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Center of Mass.md",
-    "3-Journal/2025-10/2025-10-02.md",
     "3-Journal/2025-10",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
