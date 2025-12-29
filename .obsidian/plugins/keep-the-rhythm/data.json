@@ -241,7 +241,7 @@
       },
       {
         "date": "2025-12-17",
-        "filePath": "2-Main/0-SORT THIS/Power.md",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Power.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -342,14 +342,22 @@
           },
           {
             "timeKey": "20:55",
-            "w": 4,
-            "c": 15
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 15
+      },
+      {
+        "date": "2025-12-28",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Power.md",
+        "wordCountStart": 18,
+        "charCountStart": 97,
+        "changes": [],
+        "id": 16
       }
     ],
-    "wholeVaultWordCount": 157379,
-    "wholeVaultCharCount": 2209784
+    "wholeVaultWordCount": 157375,
+    "wholeVaultCharCount": 2209769
   }
 }
