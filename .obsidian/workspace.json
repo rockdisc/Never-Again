@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Misadventurers/2-Main/Gods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Gods"
             }
           }
         ]
@@ -109,7 +109,7 @@
       {
         "id": "951971e22cde6866",
         "type": "tabs",
-        "dimension": 41.98369565217391,
+        "dimension": 30.268199233716476,
         "children": [
           {
             "id": "6a5db40099275fa8",
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "4-DND/Misadventurers/2-Main/Gods.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -159,12 +159,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3856430786272262,
+                  "scale": 0.35447986893387734,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Gods"
             }
           },
           {
@@ -199,20 +199,33 @@
         "currentTab": 1
       },
       {
-        "id": "e4d98db223c26287",
+        "id": "e5c8593f511f9781",
         "type": "tabs",
-        "dimension": 58.01630434782609,
+        "dimension": 38.69731800766284,
         "children": [
           {
-            "id": "dcba0ebaac96919c",
+            "id": "3617ac676c3efe19",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
+          },
+          {
+            "id": "39b382c10dbe4dcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md"
+                "file": "4-DND/Misadventurers/2-Main/Gods.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-info",
-              "title": "File properties for Dynamics"
+              "icon": "lucide-list",
+              "title": "Outline of Gods"
             }
           },
           {
@@ -229,20 +242,24 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e4d98db223c26287",
+        "type": "tabs",
+        "dimension": 31.03448275862069,
+        "children": [
           {
-            "id": "39b382c10dbe4dcf",
+            "id": "dcba0ebaac96919c",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "file-properties",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "4-DND/Misadventurers/2-Main/Gods.md"
               },
-              "icon": "lucide-list",
-              "title": "Outline of Dynamics"
+              "icon": "lucide-info",
+              "title": "File properties for Gods"
             }
           },
           {
@@ -254,19 +271,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "3617ac676c3efe19",
-            "type": "leaf",
-            "state": {
-              "type": "keep-the-rhythm",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -292,7 +299,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f190fb4b8554b149",
+  "active": "d981db1fb7d57ac1",
   "lastOpenFiles": [
     "Home.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Power.md",
