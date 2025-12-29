@@ -17,7 +17,6 @@ actions:
     command: daily-notes
 
 ```
-
 ## To-do
 
 > [!todo]  Today
@@ -35,11 +34,9 @@ actions:
 > - [ ] Krita 
 > - [ ] Fix Browser Wallpaper 
 > - [ ] Figure out drawing pad
-> - [ ] Put notes in git 
 > - [ ] Make the oneshot 
 > - [ ] Draw a town on paper or online 
 > - [ ] Make a story of a random traveler "everyone has their own story" a traveling god  
-> - [ ] Find new lightbulbs
    
 > [!warning] Homework
 > 
