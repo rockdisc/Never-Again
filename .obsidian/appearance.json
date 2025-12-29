@@ -1,6 +1,6 @@
 {
   "cssTheme": "Black",
-  "showRibbon": false,
+  "showRibbon": true,
   "baseFontSizeAction": true,
   "baseFontSize": 27,
   "enabledCssSnippets": [

@@ -246,6 +246,16 @@
             }
           },
           {
+            "id": "0da96bb9f92f2c28",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "3617ac676c3efe19",
             "type": "leaf",
             "state": {
@@ -278,13 +288,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "keep-the-rhythm:Word Count Stats": false
+      "keep-the-rhythm:Word Count Stats": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d981db1fb7d57ac1",
+  "active": "f190fb4b8554b149",
   "lastOpenFiles": [
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Power.md",
     "Home.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Power.md",
     "2-Main/Misc/Email.md",
     "5-School/11/5-AP Physics 1/Unit 3/Unit 3 Review.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
