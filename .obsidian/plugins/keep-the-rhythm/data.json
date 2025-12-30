@@ -418,7 +418,13 @@
         "filePath": "1-Rough/Ch 2 Meeting.md",
         "wordCountStart": 452,
         "charCountStart": 2364,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "19:10",
+            "w": -3,
+            "c": -25
+          }
+        ],
         "id": 19
       },
       {
@@ -431,12 +437,17 @@
             "timeKey": "19:05",
             "w": 1,
             "c": 5
+          },
+          {
+            "timeKey": "19:10",
+            "w": 1,
+            "c": 16
           }
         ],
         "id": 20
       }
     ],
-    "wholeVaultWordCount": 157363,
-    "wholeVaultCharCount": 2209719
+    "wholeVaultWordCount": 157361,
+    "wholeVaultCharCount": 2209710
   }
 }

@@ -15,6 +15,8 @@ Die- Tell him to fake his death to escape the people hunting him down and caused
 
 Chokhmah- To tell him to establish the [[Small Magical Organization|Kabbalah]] as well has telling him to choose to be a god along with enlighten. 
 
+CONTROICTION??
+
 Enlighten- To turn into a god and what to be the god of while meaning spiritual freedom, to free the people in the Land of Giants
 
 Hunt- To tell him that only after all of this is when he can kill that person. 
