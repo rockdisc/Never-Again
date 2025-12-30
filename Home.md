@@ -35,7 +35,6 @@ actions:
 > - [ ] Make the oneshot 
 > - [ ] Draw a town on paper or online 
 > - [ ] Make a story of a random traveler "everyone has their own story" a traveling god  
-> - [ ] Get weather module for waybar 
 > - [ ] customize waybar 
    
 > [!warning] Homework

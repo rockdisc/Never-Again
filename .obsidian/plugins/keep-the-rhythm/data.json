@@ -351,6 +351,11 @@
             "c": 11
           },
           {
+            "timeKey": "19:05",
+            "w": -7,
+            "c": -39
+          },
+          {
             "timeKey": "20:55",
             "w": 0,
             "c": 0
@@ -393,9 +398,45 @@
         "charCountStart": 179,
         "changes": [],
         "id": 17
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "wordCountStart": 1109,
+        "charCountStart": 5794,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 452,
+        "charCountStart": 2364,
+        "changes": [],
+        "id": 19
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "1-Rough/Oscar Lear.md",
+        "wordCountStart": 448,
+        "charCountStart": 2445,
+        "changes": [
+          {
+            "timeKey": "19:05",
+            "w": 1,
+            "c": 5
+          }
+        ],
+        "id": 20
       }
     ],
-    "wholeVaultWordCount": 157369,
-    "wholeVaultCharCount": 2209750
+    "wholeVaultWordCount": 157363,
+    "wholeVaultCharCount": 2209719
   }
 }
