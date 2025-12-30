@@ -445,6 +445,22 @@
           }
         ],
         "id": 20
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "Home.md",
+        "wordCountStart": 191,
+        "charCountStart": 1194,
+        "changes": [],
+        "id": 21
+      },
+      {
+        "date": "2025-12-29",
+        "filePath": "1-Rough/Escape the Tavern.md",
+        "wordCountStart": 195,
+        "charCountStart": 1042,
+        "changes": [],
+        "id": 22
       }
     ],
     "wholeVaultWordCount": 157361,
