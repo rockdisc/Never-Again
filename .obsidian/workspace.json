@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "97c4c0b78e6eb1c3",
+            "id": "753c3aa7b3ee933e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Things I want to write.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Things I want to write"
             }
           },
           {
@@ -291,7 +291,7 @@
       {
         "id": "e4d98db223c26287",
         "type": "tabs",
-        "dimension": 31.03448275862069,
+        "dimension": 31.034482758620687,
         "children": [
           {
             "id": "dcba0ebaac96919c",
@@ -342,11 +342,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5877243d16fe17cf",
+  "active": "80dc8d62b4416fac",
   "lastOpenFiles": [
     "2-Main/0-SORT THIS/Institutionalized.md",
-    "2-Main/0-SORT THIS/Things I want to write.md",
     "Home.md",
+    "2-Main/0-SORT THIS/Things I want to write.md",
     "1-Rough/Escape the Tavern.md",
     "1-Rough/Ch 2 Meeting.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
