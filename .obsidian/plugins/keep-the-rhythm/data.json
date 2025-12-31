@@ -4,18 +4,18 @@
     "enabledLanguages": [
       "LATIN"
     ],
-    "dailyWritingGoal": 500,
+    "dailyWritingGoal": "2000",
     "startOfTheWeek": "SUNDAY",
     "heatmapNavigation": true,
     "heatmapConfig": {
-      "roundCells": true,
+      "roundCells": false,
       "hideMonthLabels": false,
       "hideWeekdayLabels": false,
       "intensityMode": "gradual",
       "intensityStops": {
         "low": 100,
         "medium": 500,
-        "high": 1000
+        "high": 2000
       },
       "colors": {
         "light": {
@@ -567,12 +567,17 @@
             "timeKey": "15:15",
             "w": -14,
             "c": -60
+          },
+          {
+            "timeKey": "15:30",
+            "w": -5,
+            "c": -31
           }
         ],
         "id": 29
       }
     ],
-    "wholeVaultWordCount": 158836,
-    "wholeVaultCharCount": 2229103
+    "wholeVaultWordCount": 158831,
+    "wholeVaultCharCount": 2229072
   }
 }

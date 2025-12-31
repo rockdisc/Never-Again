@@ -49,7 +49,8 @@
               "title": "Things I want to write"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Things I want to write.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Things I want to write"
             }
           },
           {
@@ -327,11 +328,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "702dfa8f1d515b11",
+  "active": "80dc8d62b4416fac",
   "lastOpenFiles": [
+    "Home.md",
     "4-DND/Oneshots/Escape the Tavern.md",
     "6-Images/Elfsong Tavern.png",
-    "Home.md",
     "2-Main/0-SORT THIS/Things I want to write.md",
     "2-Main/0-SORT THIS/Institutionalized.md",
     "1-Rough/Ch 2 Meeting.md",
