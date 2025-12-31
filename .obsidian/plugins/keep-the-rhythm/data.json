@@ -489,6 +489,11 @@
         "charCountStart": 0,
         "changes": [
           {
+            "timeKey": "12:40",
+            "w": 4,
+            "c": 37
+          },
+          {
             "timeKey": "22:15",
             "w": 8,
             "c": 66
@@ -516,7 +521,7 @@
         "id": 25
       }
     ],
-    "wholeVaultWordCount": 157415,
-    "wholeVaultCharCount": 2210077
+    "wholeVaultWordCount": 157419,
+    "wholeVaultCharCount": 2210114
   }
 }
