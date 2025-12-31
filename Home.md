@@ -26,15 +26,12 @@ actions:
 > - [ ] Neoplatonism 
 > - [ ] Hermeticism
 > - [ ] Write Ch 2
-> - [ ] Rename Mc, first name Oscar, figure out last most likely lear
 > - [ ] Write Institalionalized 
 > - [ ] Write place for a grave 
 > - [ ] Write City 
 > - [ ] Fix Browser Wallpaper 
 > - [ ] Figure out drawing pad
 > - [ ] Make the oneshot 
-> - [ ] Draw a town on paper or online 
-> - [ ] Make a story of a random traveler "everyone has their own story" a traveling god  
    
 > [!warning] Homework
 > 

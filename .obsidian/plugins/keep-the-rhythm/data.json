@@ -495,14 +495,28 @@
           },
           {
             "timeKey": "22:20",
-            "w": 7,
-            "c": 44
+            "w": 56,
+            "c": 309
           }
         ],
         "id": 24
+      },
+      {
+        "date": "2025-12-30",
+        "filePath": "Home.md",
+        "wordCountStart": 187,
+        "charCountStart": 1168,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -39,
+            "c": -201
+          }
+        ],
+        "id": 25
       }
     ],
-    "wholeVaultWordCount": 157432,
-    "wholeVaultCharCount": 2210141
+    "wholeVaultWordCount": 157415,
+    "wholeVaultCharCount": 2210077
   }
 }

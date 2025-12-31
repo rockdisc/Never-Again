@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Things I want to write.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Things I want to write"
+              "title": "Graph of Home"
             }
           },
           {
@@ -262,13 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/0-SORT THIS/Things I want to write.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Things I want to write"
+              "title": "Outline of Home"
             }
           },
           {
@@ -299,10 +299,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/0-SORT THIS/Things I want to write.md"
+                "file": "Home.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Things I want to write"
+              "title": "File properties for Home"
             }
           },
           {
@@ -342,7 +342,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80dc8d62b4416fac",
+  "active": "5877243d16fe17cf",
   "lastOpenFiles": [
     "2-Main/0-SORT THIS/Institutionalized.md",
     "2-Main/0-SORT THIS/Things I want to write.md",
