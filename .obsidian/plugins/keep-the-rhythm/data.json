@@ -61,9 +61,7 @@
     "highestStreak": 0,
     "highestStreakStartDate": "",
     "highestStreakEndDate": "",
-    "daysWithCompletedGoal": [
-      "2025-12-31"
-    ],
+    "daysWithCompletedGoal": [],
     "dailyActivity": [
       {
         "date": "2025-12-16",
@@ -575,9 +573,33 @@
           }
         ],
         "id": 29
+      },
+      {
+        "date": "2025-12-31",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
+        "wordCountStart": 230,
+        "charCountStart": 1413,
+        "changes": [
+          {
+            "timeKey": "15:50",
+            "w": 34,
+            "c": 193
+          },
+          {
+            "timeKey": "15:55",
+            "w": 52,
+            "c": 301
+          },
+          {
+            "timeKey": "16:00",
+            "w": 12,
+            "c": 58
+          }
+        ],
+        "id": 30
       }
     ],
-    "wholeVaultWordCount": 158831,
-    "wholeVaultCharCount": 2229072
+    "wholeVaultWordCount": 158933,
+    "wholeVaultCharCount": 2229649
   }
 }
