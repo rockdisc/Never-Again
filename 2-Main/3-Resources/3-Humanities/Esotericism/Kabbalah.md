@@ -25,4 +25,6 @@ The world was created in the process of Tzimtzum, a wiggle of Ein Sof, as it shi
 ## Symbolism 
 There is said to be 4 worlds in a descending chain of existence: emanation, creation, formation, and action. Below those is the fifth world, the material. They are the process of origin, or creation. 
 
-Man is said to create and provide harmony into existence as they have a connection to the divine. He has 5 parts of his soul, the animal part for carvings, the spirit for morality, 
+Man is said to create and provide harmony into existence as they have a connection to the divine. He has 5 parts of his soul, the animal part for carvings, the spirit for morality, the higher part for intellect and lets one go into the afterlife, the part letting one know about god, and one that lets one be a part of god. 
+
+As above, so below. 
