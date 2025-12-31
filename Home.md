@@ -20,7 +20,6 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Put all of my notes in that I have in other places 
 > - [ ] Do Kabbalah 
 > - [ ] Gnosticism 
 > - [ ] Neoplatonism 
