@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "773cfc2d84b2d82c",
+        "id": "b103870872fd27a7",
         "type": "tabs",
         "children": [
           {
-            "id": "744ff4e3e2e91a2a",
+            "id": "d5af309b7b6c84ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "New tab"
             }
           }
         ]
@@ -136,7 +132,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph view"
             }
           },
           {
@@ -196,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "e5c8593f511f9781",
@@ -209,13 +204,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
           },
           {
@@ -300,9 +294,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "744ff4e3e2e91a2a",
+  "active": "d5af309b7b6c84ae",
   "lastOpenFiles": [
-    "3-Journal/2026-01-01.md",
+    "3-Journal/2026/2026-01/2026-01-01.md",
+    "3-Journal/2026/2026-01",
+    "3-Journal/2026",
     "Home.md",
     "3-Journal/2025",
     "1-Rough/Arouran Users.md",
@@ -331,14 +327,11 @@
     "3-Journal/2025/2025-10/2025-10-04.md",
     "1-Rough/External Dropoff/test.md",
     "1-Rough/External Dropoff/test.md~",
-    "2-Main/0-SORT THIS/Main.md",
     "3-Journal/2025/2025-10",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.11 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.12 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.8 hapc.pdf",
     "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "4-DND/DM Screen.canvas",
     "6-Images/Desmos Finding Roots Example.png",
