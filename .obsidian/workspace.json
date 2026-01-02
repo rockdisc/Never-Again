@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2026-01-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-01-01"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2026-01-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2026-01-01"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "e5c8593f511f9781",
@@ -204,28 +204,18 @@
         "dimension": 38.69731800766284,
         "children": [
           {
-            "id": "3617ac676c3efe19",
-            "type": "leaf",
-            "state": {
-              "type": "keep-the-rhythm",
-              "state": {},
-              "icon": "calendar-days",
-              "title": "Keep the Rhythm"
-            }
-          },
-          {
             "id": "39b382c10dbe4dcf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2026-01-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of 2026-01-01"
             }
           },
           {
@@ -242,8 +232,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "d951656b6864fd84",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e4d98db223c26287",
@@ -299,10 +300,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5877243d16fe17cf",
+  "active": "d951656b6864fd84",
   "lastOpenFiles": [
-    "1-Rough/Arouran Users.md",
     "Home.md",
+    "3-Journal/2026-01-01.md",
+    "3-Journal/2025",
+    "1-Rough/Arouran Users.md",
     "2-Main/0-SORT THIS/Things I want to write.md",
     "2-Main/0-SORT THIS/The Invisible Indian.md",
     "2-Main/0-SORT THIS/Fascination with Killing.md",
@@ -325,19 +328,17 @@
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Acceleration.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Net Force.md",
     "2-Main/Misc/Linux X Windows.md",
-    "3-Journal/2025-10/2025-10-04.md",
+    "3-Journal/2025/2025-10/2025-10-04.md",
     "1-Rough/External Dropoff/test.md",
     "1-Rough/External Dropoff/test.md~",
     "2-Main/0-SORT THIS/Main.md",
-    "3-Journal/2025-10/2025-10-03.md",
-    "3-Journal/2025-10",
+    "3-Journal/2025/2025-10",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.11 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.12 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.8 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.9&10 hapc.pdf",
     "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "4-DND/DM Screen.canvas",
     "6-Images/Desmos Finding Roots Example.png",
