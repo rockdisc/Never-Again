@@ -714,14 +714,19 @@
           },
           {
             "timeKey": "20:50",
-            "w": 39,
-            "c": 191
+            "w": 119,
+            "c": 562
+          },
+          {
+            "timeKey": "20:55",
+            "w": 60,
+            "c": 293
           }
         ],
         "id": 39
       }
     ],
-    "wholeVaultWordCount": 159008,
-    "wholeVaultCharCount": 2229508
+    "wholeVaultWordCount": 159141,
+    "wholeVaultCharCount": 2230147
   }
 }
