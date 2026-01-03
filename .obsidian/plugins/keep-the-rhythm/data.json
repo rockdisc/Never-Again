@@ -698,12 +698,23 @@
         "filePath": "Home.md",
         "wordCountStart": 125,
         "charCountStart": 855,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "20:55",
+            "w": 16,
+            "c": 65
+          },
+          {
+            "timeKey": "21:00",
+            "w": 8,
+            "c": 35
+          }
+        ],
         "id": 37
       },
       {
         "date": "2026-01-02",
-        "filePath": "3-Journal/2026-01-02.md",
+        "filePath": "3-Journal/2026/2026-01/2026-01-02.md",
         "wordCountStart": 43,
         "charCountStart": 247,
         "changes": [
@@ -724,9 +735,25 @@
           }
         ],
         "id": 39
+      },
+      {
+        "date": "2026-01-02",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 40
+      },
+      {
+        "date": "2026-01-02",
+        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "wordCountStart": 449,
+        "charCountStart": 2339,
+        "changes": [],
+        "id": 41
       }
     ],
-    "wholeVaultWordCount": 159141,
-    "wholeVaultCharCount": 2230147
+    "wholeVaultWordCount": 159167,
+    "wholeVaultCharCount": 2230260
   }
 }

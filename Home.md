@@ -20,23 +20,25 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Gnosticism 
-> - [ ] Neoplatonism 
-> - [ ] Hermeticism
-> - [ ] Write Ch 2
-> - [ ] Write Institalionalized 
-> - [ ] Write place for a grave 
-> - [ ] Write City 
 > - [ ] Figure out drawing pad
-> - [ ] Make the oneshot 
-   
+> - [ ] Start working on a map 
+> - [ ] Prep 6 de
+> - [ ] Finish Ch 2, it will be the last I work on the book 
+> - [ ] Start writing The Man in The Woods 
+> - [ ] Neoplatonism 
+
 > [!warning] Homework
 > 
 
 > [!warning]  Run On
+> - [ ] Gnosticism 
+> - [ ] Hermeticism
+> - [ ] Write Institalionalized 
+> - [ ] Write place for a grave 
+> - [ ] Write City 
+> - [ ] Make the oneshot 
 
-> [!info] Later 
-> - [ ] Do physics video  
+> [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
 
 > [!hint]  Long Term  
