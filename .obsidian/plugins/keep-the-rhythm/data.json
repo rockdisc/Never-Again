@@ -789,6 +789,14 @@
           }
         ],
         "id": 45
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
+        "wordCountStart": 365,
+        "charCountStart": 2155,
+        "changes": [],
+        "id": 47
       }
     ],
     "wholeVaultWordCount": 158975,
