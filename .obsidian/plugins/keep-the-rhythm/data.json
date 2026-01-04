@@ -415,7 +415,7 @@
       },
       {
         "date": "2025-12-29",
-        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 2 Meeting.md",
         "wordCountStart": 452,
         "charCountStart": 2364,
         "changes": [
@@ -746,11 +746,35 @@
       },
       {
         "date": "2026-01-02",
-        "filePath": "1-Rough/Ch 2 Meeting.md",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 2 Meeting.md",
         "wordCountStart": 449,
         "charCountStart": 2339,
         "changes": [],
         "id": 41
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
+        "wordCountStart": 881,
+        "charCountStart": 4561,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
+        "wordCountStart": 1109,
+        "charCountStart": 5797,
+        "changes": [],
+        "id": 43
+      },
+      {
+        "date": "2026-01-03",
+        "filePath": "2-Main/2-Areas/1-Writing/Poet's Land/Ch 2 Meeting.md",
+        "wordCountStart": 449,
+        "charCountStart": 2339,
+        "changes": [],
+        "id": 44
       }
     ],
     "wholeVaultWordCount": 159167,
