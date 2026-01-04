@@ -22,9 +22,8 @@ actions:
 > [!todo]  Today
 > - [ ] Figure out drawing pad
 > - [ ] Start working on a map 
-> - [ ] Prep 6 debate 
+> - [ ] Prep 9 debate 
 > - [ ] Neoplatonism
-> - [ ] Finish Ch 2, it will be the last I work on the book 
 > - [ ] Start writing The Man in The Woods  
 
 > [!warning] Homework
