@@ -800,7 +800,7 @@
       },
       {
         "date": "2026-01-03",
-        "filePath": "3-Journal/2026-01-03.md",
+        "filePath": "3-Journal/2026/2026-01/2026-01-03.md",
         "wordCountStart": 55,
         "charCountStart": 317,
         "changes": [
@@ -811,14 +811,14 @@
           },
           {
             "timeKey": "21:00",
-            "w": 71,
-            "c": 341
+            "w": 83,
+            "c": 404
           }
         ],
         "id": 48
       }
     ],
-    "wholeVaultWordCount": 159217,
-    "wholeVaultCharCount": 2230250
+    "wholeVaultWordCount": 159216,
+    "wholeVaultCharCount": 2230253
   }
 }
