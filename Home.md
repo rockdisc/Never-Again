@@ -25,6 +25,7 @@ actions:
 > - [ ] Prep 9 debate 
 > - [ ] Neoplatonism
 > - [ ] Start writing The Man in The Woods  
+> - [ ] Get Colleges in again 
 
 > [!warning] Homework
 > 
