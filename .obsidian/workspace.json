@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "101709dabd6660ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-Main/0-SORT THIS/Drawing 2026-01-04 14.21.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-04 14.21.44.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Colleges to Apply to"
+              "title": "Graph of Home"
             }
           },
           {
@@ -329,13 +341,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faae752c2c2a346e",
+  "active": "8568b18690a1df7e",
   "lastOpenFiles": [
-    "5-School/12/Senior Year Classes.md",
+    "2-Main/0-SORT THIS/Drawing 2026-01-04 14.21.44.excalidraw.md",
+    "Home.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
+    "5-School/12/Senior Year Classes.md",
     "3-Journal/2026/2026-01/2026-01-03.md",
     "5-School/12",
-    "Home.md",
     "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Ch 2 Meeting.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
@@ -362,7 +375,6 @@
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Work & Energy.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Newton's Laws of Motion.md",
     "5-School/11/5-AP Physics 1/Unit 3",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Acceleration.md",
     "1-Rough/External Dropoff/test.md~",
     "3-Journal/2025/2025-10",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
