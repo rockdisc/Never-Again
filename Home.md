@@ -20,7 +20,6 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Figure out drawing pad
 > - [ ] Start working on a map 
 > - [ ] Prep 9 debate 
 > - [ ] Neoplatonism
