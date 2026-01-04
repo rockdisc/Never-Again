@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "5-School/12/Senior Year Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Senior Year Classes"
+            }
+          },
+          {
+            "id": "faae752c2c2a346e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
                 "mode": "source",
                 "source": false
@@ -35,7 +49,8 @@
               "title": "Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,11 +329,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a473a842ac7e48",
+  "active": "faae752c2c2a346e",
   "lastOpenFiles": [
-    "Home.md",
+    "5-School/12/Senior Year Classes.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
     "3-Journal/2026/2026-01/2026-01-03.md",
+    "5-School/12",
+    "Home.md",
     "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Ch 2 Meeting.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
@@ -346,13 +363,11 @@
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Newton's Laws of Motion.md",
     "5-School/11/5-AP Physics 1/Unit 3",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Acceleration.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/0-General/Net Force.md",
     "1-Rough/External Dropoff/test.md~",
     "3-Journal/2025/2025-10",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
     "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.11 hapc.pdf",
     "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "4-DND/DM Screen.canvas",
     "6-Images/Desmos Finding Roots Example.png",
