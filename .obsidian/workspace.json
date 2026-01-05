@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32f91bd5b04d7daf",
+        "id": "f92c2912a186bf3d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec6827c69426fbe1",
+            "id": "c9874a1fba295560",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Journal/2026-01-04.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-04"
+              "title": "Home"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2026-01-04.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2026-01-04"
+              "title": "Graph of Home"
             }
           },
           {
@@ -300,10 +300,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec6827c69426fbe1",
+  "active": "c9874a1fba295560",
   "lastOpenFiles": [
-    "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
     "3-Journal/2026-01-04.md",
+    "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
     "Home.md",
     "2-Main/0-SORT THIS/Drawing 2026-01-04 14.21.44.excalidraw.md",
     "5-School/12/Senior Year Classes.md",
