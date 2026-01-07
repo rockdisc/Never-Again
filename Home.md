@@ -21,7 +21,6 @@ actions:
 
 > [!todo]  Today
 > - [ ] Start working on a map 
-> - [ ] Prep 18 debate 
 > - [ ] Neoplatonism
 > - [ ] Start writing The Man in The Woods  
 > - [ ] Get Colleges in again 

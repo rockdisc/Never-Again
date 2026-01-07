@@ -894,7 +894,7 @@
       },
       {
         "date": "2026-01-04",
-        "filePath": "3-Journal/2026-01-04.md",
+        "filePath": "3-Journal/2026/2026-01/2026-01-04.md",
         "wordCountStart": 47,
         "charCountStart": 274,
         "changes": [
@@ -916,11 +916,17 @@
         "filePath": "Home.md",
         "wordCountStart": 136,
         "charCountStart": 908,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": -5,
+            "c": -24
+          }
+        ],
         "id": 57
       }
     ],
-    "wholeVaultWordCount": 159258,
-    "wholeVaultCharCount": 2230569
+    "wholeVaultWordCount": 159253,
+    "wholeVaultCharCount": 2230545
   }
 }
