@@ -1,5 +1,6 @@
 
-### AP English Language Arts 
+
+### Forensics 
 
 ### Spanish 2 
 
@@ -7,4 +8,4 @@
 
 ### AP Physics 1 
 
-### Advanced Debate 
+### AP English Language Arts 

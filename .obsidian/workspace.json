@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2026-01-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-01-07"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2026-01-07.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2026-01-07"
             }
           },
           {
@@ -302,8 +302,14 @@
   },
   "active": "dcbaf13143a89cbe",
   "lastOpenFiles": [
-    "3-Journal/2026-01-06.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Conservation of Momentum.md",
+    "3-Journal/2026-01-07.md",
     "Home.md",
+    "Templates/Odd School Schedule 11-1.md",
+    "Templates/MedRep.md",
+    "Templates/Even School Schedule 11-1.md",
+    "Templates/JEntry.md",
+    "3-Journal/2026-01-06.md",
     "3-Journal/2026/2026-01/2026-01-04.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
     "2-Main/0-SORT THIS/Drawing 2026-01-04 14.21.44.excalidraw.md",
@@ -327,12 +333,6 @@
     "4-DND/Oneshots/Escape the Tavern.md",
     "6-Images/Elfsong Tavern.png",
     "1-Rough/Oscar Lear.md",
-    "4-DND/Misadventurers/2-Main/Gods.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Power.md",
-    "2-Main/Misc/Email.md",
-    "5-School/11/5-AP Physics 1/Unit 3/Unit 3 Review.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Force.md",
     "5-School/11/5-AP Physics 1/Unit 3",
     "1-Rough/External Dropoff/test.md~",
     "3-Journal/2025/2025-10",
