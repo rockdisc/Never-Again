@@ -20,7 +20,6 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Start working on a map 
 > - [ ] Neoplatonism
 > - [ ] Start writing The Man in The Woods  
 > - [ ] Get Colleges in again 
