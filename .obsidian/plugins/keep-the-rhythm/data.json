@@ -1030,14 +1030,24 @@
         "changes": [
           {
             "timeKey": "22:00",
-            "w": 70,
-            "c": 311
+            "w": 86,
+            "c": 386
+          },
+          {
+            "timeKey": "22:05",
+            "w": 89,
+            "c": 430
+          },
+          {
+            "timeKey": "22:10",
+            "w": 72,
+            "c": 337
           }
         ],
         "id": 69
       }
     ],
-    "wholeVaultWordCount": 159040,
-    "wholeVaultCharCount": 2228854
+    "wholeVaultWordCount": 159211,
+    "wholeVaultCharCount": 2229673
   }
 }
