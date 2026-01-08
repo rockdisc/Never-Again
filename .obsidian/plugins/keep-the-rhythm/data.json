@@ -1016,25 +1016,6 @@
       },
       {
         "date": "2026-01-07",
-        "filePath": "3-Journal/2026-01-07.md",
-        "wordCountStart": 232,
-        "charCountStart": 1431,
-        "changes": [
-          {
-            "timeKey": "16:45",
-            "w": -165,
-            "c": -965
-          },
-          {
-            "timeKey": "21:15",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 67
-      },
-      {
-        "date": "2026-01-07",
         "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Conservation of Momentum.md",
         "wordCountStart": 79,
         "charCountStart": 554,
@@ -1042,7 +1023,7 @@
         "id": 68
       }
     ],
-    "wholeVaultWordCount": 158958,
-    "wholeVaultCharCount": 2228476
+    "wholeVaultWordCount": 158964,
+    "wholeVaultCharCount": 2228520
   }
 }
