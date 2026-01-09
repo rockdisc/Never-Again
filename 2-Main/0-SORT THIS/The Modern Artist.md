@@ -1,2 +1,4 @@
 
-Modern Art has become a joke to many, but that is not truly the case. To understand why modern art is the way it is, with towers made of buckets of sand falling dowm
+Modern Art has become a joke to many, but that is not truly the case. To understand why modern art is the way it is, with towers made of buckets of sand falling down, and paintings like "Who's Afraid of Red, Yellow, and Blue", a painting that is only a red, yellow, and blue stripe, we have to go back in history and talk about the Avant-Garde. 
+
+We have to travel through the museum fulled with painting of old and their own histories, then we will get to the painting encompassing all of modern art and look at the placard to know its story, and finally, when our eyes and brains are ready, look at the painting to see its beautiful meaning that placed it in the best stop of the museum. 
