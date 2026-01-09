@@ -1075,12 +1075,22 @@
             "timeKey": "22:00",
             "w": 38,
             "c": 254
+          },
+          {
+            "timeKey": "22:05",
+            "w": 161,
+            "c": 765
+          },
+          {
+            "timeKey": "22:10",
+            "w": 45,
+            "c": 201
           }
         ],
         "id": 72
       }
     ],
-    "wholeVaultWordCount": 159062,
-    "wholeVaultCharCount": 2228812
+    "wholeVaultWordCount": 159268,
+    "wholeVaultCharCount": 2229778
   }
 }
