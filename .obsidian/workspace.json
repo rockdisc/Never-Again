@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "686d803758f1953c",
+        "id": "6ce6d4297f7202ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c87177c2d2e6cd",
+            "id": "6e238f37237f4c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -300,12 +300,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6c87177c2d2e6cd",
+  "active": "6e238f37237f4c2e",
   "lastOpenFiles": [
     "3-Journal/2026-01-11.md",
     "Home.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
-    "3-Journal/2026-01-08.md",
+    "3-Journal/2026/2026-01/2026-01-08.md",
     "3-Journal/2026/2026-01/2026-01-07.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Conservation of Momentum.md",
     "Templates/Odd School Schedule 11-1.md",
