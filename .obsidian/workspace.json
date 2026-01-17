@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "87925af20b14e57e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,6 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,7 +164,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Home"
             }
           },
           {
@@ -312,7 +300,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87925af20b14e57e",
+  "active": "6e238f37237f4c2e",
   "lastOpenFiles": [
     "Home.md",
     "3-Journal/2026-01-11.md",
