@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "87925af20b14e57e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           },
           {
-            "id": "19e66634e00d000d",
+            "id": "d2a9ea317c069907",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -136,7 +149,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph view"
             }
           },
           {
@@ -300,10 +312,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e238f37237f4c2e",
+  "active": "87925af20b14e57e",
   "lastOpenFiles": [
-    "3-Journal/2026-01-11.md",
     "Home.md",
+    "3-Journal/2026-01-11.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
     "3-Journal/2026/2026-01/2026-01-08.md",
     "3-Journal/2026/2026-01/2026-01-07.md",
