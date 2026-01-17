@@ -23,7 +23,6 @@ actions:
 > - [ ] Neoplatonism
 > - [ ] Start writing The Man in The Woods  
 > - [ ] Get Colleges in again 
-> - [ ] Talk to councler about TA
 > - [ ] Make A pocket notebook 
 
 > [!warning] Homework
