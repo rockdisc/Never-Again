@@ -35,6 +35,7 @@ actions:
 > - [ ] Write place for a grave 
 > - [ ] Write City 
 > - [ ] Make the oneshot 
+> - [ ] Write about Buddism and Ego death
 
 > [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
