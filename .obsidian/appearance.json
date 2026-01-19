@@ -2,7 +2,7 @@
   "cssTheme": "Black",
   "showRibbon": false,
   "baseFontSizeAction": true,
-  "baseFontSize": 27,
+  "baseFontSize": 23,
   "enabledCssSnippets": [
     "dashboard",
     "timesNewRoman"

@@ -1226,14 +1226,24 @@
           },
           {
             "timeKey": "10:15",
-            "w": 66,
-            "c": 439
+            "w": 71,
+            "c": 460
+          },
+          {
+            "timeKey": "10:20",
+            "w": 86,
+            "c": 537
+          },
+          {
+            "timeKey": "10:25",
+            "w": 19,
+            "c": 154
           }
         ],
         "id": 81
       }
     ],
-    "wholeVaultWordCount": 159906,
-    "wholeVaultCharCount": 2233125
+    "wholeVaultWordCount": 160016,
+    "wholeVaultCharCount": 2233837
   }
 }
