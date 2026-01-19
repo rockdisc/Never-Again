@@ -7,6 +7,8 @@ Actually changed my life and the way I view the world
 [[Mushi-shi]]- Life is beautiful 
 [[Bleach]]- I can see spirits, I can touch them, that's all. 
 [[Frienen]]- The journey ends 
+[[Sing About Me, I Am Dying of Thirst]]- One of the best songs of all time. 
+
 
 # Best Media 
 Really good things that I recommend everyone consume and I can re-watch or re-read to have a lot of ideas. 
