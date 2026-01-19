@@ -1,0 +1,6 @@
+#Personization 
+
+| Title                 | Medium   | Date | Author     | Genre                    | Category           | Score  | Desc                                                                                                             | Quotes                                                                 |
+| --------------------- | -------- | ---- | ---------- | ------------------------ | ------------------ | ------ | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [[Lord of Mysteries]] | Webnovel |      | Cuttlefish | Mystery, Fantasy, Isekai | Generational Media | 99/100 | This novel became my entire life, the things it makes me feel cannot be described, if you forgot, read it again. | "I won't lose much, just myself"<br><br>"Master are you scared?" "Yes" |
+|                       |          |      |            |                          |                    |        |                                                                                                                  |                                                                        |
