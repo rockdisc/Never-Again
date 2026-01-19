@@ -20,10 +20,9 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Neoplatonism
-> - [ ] Start writing The Man in The Woods  
-> - [ ] Get Colleges in again 
 > - [ ] Make A pocket notebook 
+> - [ ] Write down all of my favorite Anime 
+> - [ ] Write worldbuilding or speech
 
 > [!warning] Homework
 > 
@@ -31,6 +30,9 @@ actions:
 > [!warning]  Run On
 > - [ ] Gnosticism 
 > - [ ] Hermeticism
+> - [ ] Neoplatonism
+> - [ ] Start writing The Man in The Woods  
+> - [ ] Get Colleges in again 
 > - [ ] Write Institalionalized 
 > - [ ] Write place for a grave 
 > - [ ] Write City 
