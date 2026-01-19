@@ -1218,12 +1218,22 @@
             "timeKey": "10:05",
             "w": 57,
             "c": 1224
+          },
+          {
+            "timeKey": "10:10",
+            "w": -7,
+            "c": -907
+          },
+          {
+            "timeKey": "10:15",
+            "w": 66,
+            "c": 439
           }
         ],
         "id": 81
       }
     ],
-    "wholeVaultWordCount": 159847,
-    "wholeVaultCharCount": 2233593
+    "wholeVaultWordCount": 159906,
+    "wholeVaultCharCount": 2233125
   }
 }

@@ -34,6 +34,19 @@
               "icon": "lucide-file",
               "title": "Media I like"
             }
+          },
+          {
+            "id": "120d36bdc733e3d9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
+                "viewName": "Cards"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Media Reports"
+            }
           }
         ],
         "currentTab": 1
@@ -317,8 +330,9 @@
   },
   "active": "431573dea55ca0d3",
   "lastOpenFiles": [
-    "Home.md",
+    "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "2-Main/0-SORT THIS/Media I like.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Desiderata.md",
     "3-Journal/2026-01-11.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
@@ -346,14 +360,12 @@
     "3-Journal/2026",
     "3-Journal/2025",
     "1-Rough/Arouran Users.md",
-    "2-Main/0-SORT THIS/Things I want to write.md",
     "6-Images/Elfsong Tavern.png",
     "5-School/11/5-AP Physics 1/Unit 3",
     "1-Rough/External Dropoff/test.md~",
     "3-Journal/2025/2025-10",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
-    "5-School/11/4-HAPC/Unit 1/1.13&14 hapc.pdf",
     "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "4-DND/DM Screen.canvas",
     "6-Images/Desmos Finding Roots Example.png",
