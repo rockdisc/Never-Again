@@ -136,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +163,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph view"
             }
           },
           {
@@ -300,11 +299,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e238f37237f4c2e",
+  "active": "a8d855dae45ef459",
   "lastOpenFiles": [
+    "Home.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "2-Main/0-SORT THIS/Media I like.md",
-    "Home.md",
     "2-Main/0-SORT THIS/Desiderata.md",
     "3-Journal/2026-01-11.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
