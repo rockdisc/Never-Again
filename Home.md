@@ -21,7 +21,6 @@ actions:
 
 > [!todo]  Today
 > - [ ] Make A pocket notebook 
-> - [ ] Write down all of my favorite Anime 
 > - [ ] Write worldbuilding or speech
 
 > [!warning] Homework

@@ -1252,11 +1252,31 @@
         "filePath": "Home.md",
         "wordCountStart": 153,
         "charCountStart": 1009,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": -9,
+            "c": -45
+          }
+        ],
         "id": 82
+      },
+      {
+        "date": "2026-01-19",
+        "filePath": "2-Main/0-SORT THIS/Grip, Twist, and Split.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 14,
+            "c": 75
+          }
+        ],
+        "id": 83
       }
     ],
-    "wholeVaultWordCount": 160032,
-    "wholeVaultCharCount": 2233915
+    "wholeVaultWordCount": 160037,
+    "wholeVaultCharCount": 2233945
   }
 }
