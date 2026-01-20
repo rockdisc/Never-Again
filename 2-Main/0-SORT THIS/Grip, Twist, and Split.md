@@ -1,3 +1,3 @@
 #Rough #Writing/CSULT
 
-This is the fourth time I have seen this man today. 
+This was the fourth time I had seen this man today. First was at the city gates, then on a bench near center of the city, after was him passing by outside my inn window, finally here talking to the lady at the market stall next to me. I started noticing him from the bench, underestimating coincidences is an easy way to leave my life of work. Almost never have they truly been by happenstance. The man did not seem to notice me though, or if he did, his long, tan felt hat blocked me from noticing. Like the rest of his clothes, it was weathered and had the color beaten out of it. Being honest, I was not doing much better, though it would be considered a good thing. Standing out too much is a much fars
