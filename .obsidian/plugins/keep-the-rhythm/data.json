@@ -1294,9 +1294,28 @@
           }
         ],
         "id": 83
+      },
+      {
+        "date": "2026-01-20",
+        "filePath": "2-Main/0-SORT THIS/The Spider Spins its Webs Away From Prying Eyes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:45",
+            "w": 40,
+            "c": 214
+          },
+          {
+            "timeKey": "22:50",
+            "w": 98,
+            "c": 499
+          }
+        ],
+        "id": 84
       }
     ],
-    "wholeVaultWordCount": 160278,
-    "wholeVaultCharCount": 2235166
+    "wholeVaultWordCount": 160416,
+    "wholeVaultCharCount": 2235879
   }
 }

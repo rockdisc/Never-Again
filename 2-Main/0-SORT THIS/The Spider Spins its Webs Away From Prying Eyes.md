@@ -1,0 +1,4 @@
+#Writing/CSULT 
+
+"Why were you awake?" I asked getting more comfortable in my chair. The woman in front of my was of the fickle variety; this is her second day here yet she it but to give a straightforward answer. 
+"How many spiders do you think are in this inn? It does not matter the specific, but I am sure it is not what you see on the average. Only when cleaning or going out of our way to do something unnatural is when we find the truth. They are cunning creatures, they know your schedule, adapt to it, they hide when in sight and hunt when unseen. Their webs are built far from prying eyes. Yet humans are more cunning." She peered into my eyes as though looking through all of me and past that as well. 
