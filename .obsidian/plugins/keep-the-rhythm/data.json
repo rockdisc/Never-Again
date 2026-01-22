@@ -1356,9 +1356,31 @@
         "charCountStart": 964,
         "changes": [],
         "id": 88
+      },
+      {
+        "date": "2026-01-21",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Identities.md",
+        "wordCountStart": 126,
+        "charCountStart": 915,
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 36,
+            "c": 245
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2026-01-21",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Functions.md",
+        "wordCountStart": 110,
+        "charCountStart": 763,
+        "changes": [],
+        "id": 90
       }
     ],
-    "wholeVaultWordCount": 160545,
-    "wholeVaultCharCount": 2236538
+    "wholeVaultWordCount": 160581,
+    "wholeVaultCharCount": 2236783
   }
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Identities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Trigonometric Identities"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Identities.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Trigonometric Identities"
             }
           },
           {
@@ -330,11 +330,13 @@
   },
   "active": "6e238f37237f4c2e",
   "lastOpenFiles": [
+    "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Functions.md",
+    "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Identities.md",
+    "Home.md",
     "2-Main/0-SORT THIS/The Spider Spins its Webs Away From Prying Eyes.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Asymptote.md",
     "2-Main/0-SORT THIS/Grip, Twist, and Split.md",
-    "Home.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "2-Main/0-SORT THIS/Media I like.md",
     "2-Main/0-SORT THIS/Desiderata.md",
@@ -356,8 +358,6 @@
     "5-School/12",
     "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
     "2-Main/2-Areas/1-Writing/Poet's Land/Ch 2 Meeting.md",
-    "2-Main/2-Areas/1-Writing/Poet's Land/Ch 1 Pitiful Miracle.md",
-    "2-Main/2-Areas/1-Writing/Poet's Land/Chapter 1.md",
     "3-Journal/2026/2026-01",
     "3-Journal/2026",
     "3-Journal/2025",

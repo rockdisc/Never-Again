@@ -6,7 +6,7 @@ Trig functions are periodic, like [[Wave Mechanics|waves]] they repeat. The peri
 
 For $y= \sin \theta$, domain is all the inputs, all real numbers($\mathbb{R}$), and the range is the output which can only be $-1 \le y \le 1$. This is the same for $y=\cos \theta$ 
 
-For $y=\tan \theta$ the range is $\mathbb{R}$, the domain would be all real numbers if not for when $\cos \theta = 0$ when it would be undefined. This is from [[Basic Trigonometric Identities]] ![[Basic Trigonometric Identities#^d8c891]]
+For $y=\tan \theta$ the range is $\mathbb{R}$, the domain would be all real numbers if not for when $\cos \theta = 0$ when it would be undefined. This is from [[Trigonometric Identities]] ![[Trigonometric Identities#^d8c891]]
 So the domain is $\mathbb{R}$ except for $\frac{\pi}{2} \pm \pi n$. 
 
 ## Transformations 

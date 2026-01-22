@@ -9,7 +9,7 @@ $$
 
 ^d8c891
 
-and flipped to make $\cot$
+and flipped to make $\cot$, this is from the [[Unit Circle]] and the [[Pythagorean Theorem]]. 
 
 ## Pythagorean 
 
@@ -34,6 +34,14 @@ $$
 1 + \cot^2 \theta = \csc^2 \theta 
 $$
 
+
+## Sum and Difference Identities 
+$$
+\sin (\alpha+\beta)=\sin \alpha \cos \beta+\cos \alpha \sin \beta
+$$
+$$
+\sin (\alpha+\beta)=\sin \alpha \cos \beta+\cos \alpha \sin \beta
+$$
 ## Cofunction 
 
 $$
