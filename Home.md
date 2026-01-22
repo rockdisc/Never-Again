@@ -23,6 +23,7 @@ actions:
 > - [ ] Make A pocket notebook 
 > - [ ] Write worldbuilding or speech
 > - [ ] Edit the Wallpaper to get rid of upscaling marks 
+> - [ ] Get onenote app
 
 > [!warning] Homework
 > 
