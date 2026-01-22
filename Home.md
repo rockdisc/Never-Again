@@ -22,6 +22,7 @@ actions:
 > [!todo]  Today
 > - [ ] Make A pocket notebook 
 > - [ ] Write worldbuilding or speech
+> - [ ] Edit the Wallpaper to get rid of upscaling marks 
 
 > [!warning] Homework
 > 
