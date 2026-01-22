@@ -40,8 +40,33 @@ $$
 \sin (\alpha+\beta)=\sin \alpha \cos \beta+\cos \alpha \sin \beta
 $$
 $$
-\sin (\alpha+\beta)=\sin \alpha \cos \beta+\cos \alpha \sin \beta
+\sin (\alpha-\beta)=\sin \alpha \cos \beta-\cos \alpha \sin \beta
 $$
+
+$$
+\cos(\alpha+\beta)=\cos \alpha \cos \beta-\sin \alpha \sin \beta
+$$
+$$
+\cos(\alpha-\beta)=\cos \alpha \cos \beta+\sin \alpha \sin \beta
+$$
+A way to remember it is that $\sin$ likes to make friends so it shares with $\cos$ while $\cos$ is weird and more reserved, so it says with its own guys. And because $\cos$ is weird, the signs are reversed. 
+
+## Double Angle Identities 
+Derived from having the same angle in the above equations 
+
+$$
+\sin(2\theta)=2\sin \cos \theta
+$$
+$$
+\cos(2\theta)=\cos^2\theta-\sin^2 \theta 
+$$
+$$
+\cos(2\theta)= 1-2\sin \theta
+$$
+$$
+\cos(2\theta)=2\cos^2\theta-1 
+$$
+
 ## Cofunction 
 
 $$
