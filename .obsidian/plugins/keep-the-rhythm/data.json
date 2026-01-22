@@ -1318,9 +1318,47 @@
           }
         ],
         "id": 84
+      },
+      {
+        "date": "2026-01-21",
+        "filePath": "2-Main/0-SORT THIS/The Spider Spins its Webs Away From Prying Eyes.md",
+        "wordCountStart": 267,
+        "charCountStart": 1377,
+        "changes": [],
+        "id": 85
+      },
+      {
+        "date": "2026-01-21",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Asymptote.md",
+        "wordCountStart": 14,
+        "charCountStart": 91,
+        "changes": [],
+        "id": 86
+      },
+      {
+        "date": "2026-01-21",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
+        "wordCountStart": 180,
+        "charCountStart": 1408,
+        "changes": [
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": -5
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2026-01-21",
+        "filePath": "Home.md",
+        "wordCountStart": 144,
+        "charCountStart": 964,
+        "changes": [],
+        "id": 88
       }
     ],
     "wholeVaultWordCount": 160545,
-    "wholeVaultCharCount": 2236543
+    "wholeVaultCharCount": 2236538
   }
 }
