@@ -1450,7 +1450,7 @@
       },
       {
         "date": "2026-01-23",
-        "filePath": "2-Main/0-SORT THIS/Great Bleach Quotes.md",
+        "filePath": "2-Main/0-SORT THIS/Great Bleach Poems.md",
         "wordCountStart": 0,
         "charCountStart": 0,
         "changes": [
@@ -1471,14 +1471,19 @@
           },
           {
             "timeKey": "16:45",
-            "w": 4,
-            "c": 24
+            "w": 12,
+            "c": 71
+          },
+          {
+            "timeKey": "16:50",
+            "w": 6,
+            "c": 52
           }
         ],
         "id": 95
       }
     ],
-    "wholeVaultWordCount": 160724,
-    "wholeVaultCharCount": 2237683
+    "wholeVaultWordCount": 160738,
+    "wholeVaultCharCount": 2237782
   }
 }

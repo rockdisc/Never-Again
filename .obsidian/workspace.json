@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/Great Bleach Quotes.md",
+                "file": "2-Main/0-SORT THIS/Great Bleach Poems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Great Bleach Quotes"
+              "title": "Great Bleach Poems"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Great Bleach Quotes.md",
+                "file": "2-Main/0-SORT THIS/Great Bleach Poems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Great Bleach Quotes"
+              "title": "Graph of Great Bleach Poems"
             }
           },
           {
@@ -317,6 +317,9 @@
   },
   "active": "6419661d50308821",
   "lastOpenFiles": [
+    "6-Images/x7iHt42_d.webp",
+    "6-Images/t5bj3fw_d.webp",
+    "6-Images/nLYiKLR_d.webp",
     "6-Images/W4EM2zd_d.webp",
     "6-Images/waDOIYZ_d.webp",
     "6-Images/v33nska_d.webp",
@@ -326,7 +329,7 @@
     "6-Images/jn8JXRU_d.webp",
     "6-Images/UZUHZOh_d.webp",
     "Home.md",
-    "2-Main/0-SORT THIS/Great Bleach Quotes.md",
+    "2-Main/0-SORT THIS/Great Bleach Poems.md",
     "2-Main/3-Resources/2-STEM/Math/Trig/Trigonometric Identities.md",
     "2-Main/0-SORT THIS/Grip, Twist, and Split.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Conservation of Momentum.md",
@@ -355,15 +358,12 @@
     "3-Journal/2026/2026-01",
     "3-Journal/2026",
     "3-Journal/2025",
-    "6-Images/Elfsong Tavern.png",
     "5-School/11/5-AP Physics 1/Unit 3",
     "1-Rough/External Dropoff/test.md~",
     "3-Journal/2025/2025-10",
     "5-School/11/5-AP Physics 1/Unit 1/Science cv buggies lab.pdf",
     "5-School/11/4-HAPC/Unit 1/1.7 hapc.pdf",
-    "6-Images/3a8beb14cd64d7451f9f9e4f965713d3e7e62cbb.svg",
     "4-DND/DM Screen.canvas",
-    "6-Images/Desmos Finding Roots Example.png",
     "Home.canvas",
     "1-Rough/Story Outline.canvas"
   ]

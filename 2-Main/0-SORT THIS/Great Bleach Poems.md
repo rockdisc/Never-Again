@@ -1,3 +1,5 @@
+#Poetry #Personization 
+
 ![[UZUHZOh_d.webp|500]]
 
 ![[jn8JXRU_d.webp|500]]
@@ -14,6 +16,11 @@
 
 ![[W4EM2zd_d.webp|500]]
 
+![[nLYiKLR_d.webp|500]]
+
+![[t5bj3fw_d.webp|500]]
+
+![[x7iHt42_d.webp|500]]
 
 
 
