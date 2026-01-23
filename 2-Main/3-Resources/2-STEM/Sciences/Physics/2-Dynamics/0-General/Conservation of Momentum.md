@@ -30,7 +30,7 @@ $$
 ### Impulse-momentum Theorem
 
 $$
-F \Delta t= \Delta P = mv_{f}-mv_{i}
+F \Delta t= \Delta p = mv_{f}-mv_{i}
 $$
 
 ^c7e5b0

@@ -1415,7 +1415,13 @@
         "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Conservation of Momentum.md",
         "wordCountStart": 79,
         "charCountStart": 554,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 91
       }
     ],
