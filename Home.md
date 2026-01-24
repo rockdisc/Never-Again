@@ -21,8 +21,8 @@ actions:
 
 > [!todo]  Today
 > - [ ] Make A pocket notebook 
-> - [ ] Write worldbuilding or speech
-> - [ ] Edit the Wallpaper to get rid of upscaling marks 
+> - [ ] Write OO
+> - [ ] Write Info and get picture ready 
 > - [ ] Get onenote app
 
 > [!warning] Homework
