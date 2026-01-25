@@ -21,9 +21,9 @@ actions:
 
 > [!todo]  Today
 > - [ ] Make A pocket notebook 
+> - [ ] Organize Backpack
 > - [ ] Write OO
-> - [ ] Write Info and get picture ready 
-> - [ ] Get onenote app
+> - [ ] Write Info and get picture ready
 
 > [!warning] Homework
 > 
