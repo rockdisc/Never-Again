@@ -20,8 +20,6 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Make A pocket notebook 
-> - [ ] Organize Backpack
 > - [ ] Write OO
 > - [ ] Write Info and get picture ready
 
