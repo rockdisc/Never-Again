@@ -1557,9 +1557,55 @@
           }
         ],
         "id": 99
+      },
+      {
+        "date": "2026-01-26",
+        "filePath": "Home.md",
+        "wordCountStart": 145,
+        "charCountStart": 953,
+        "changes": [],
+        "id": 100
+      },
+      {
+        "date": "2026-01-26",
+        "filePath": "2-Main/0-SORT THIS/Where Are You From?.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "01:00",
+            "w": 63,
+            "c": 330
+          },
+          {
+            "timeKey": "01:05",
+            "w": 60,
+            "c": 295
+          }
+        ],
+        "id": 101
+      },
+      {
+        "date": "2026-01-26",
+        "filePath": "2-Main/0-SORT THIS/Wizard Towers.md",
+        "wordCountStart": 33,
+        "charCountStart": 213,
+        "changes": [
+          {
+            "timeKey": "01:05",
+            "w": 53,
+            "c": 314
+          },
+          {
+            "timeKey": "01:10",
+            "w": 15,
+            "c": 97
+          }
+        ],
+        "id": 102
       }
     ],
-    "wholeVaultWordCount": 160756,
-    "wholeVaultCharCount": 2237902
+    "wholeVaultWordCount": 160948,
+    "wholeVaultCharCount": 2238943
   }
 }
