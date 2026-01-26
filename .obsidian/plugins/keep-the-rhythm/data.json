@@ -1598,14 +1598,24 @@
           },
           {
             "timeKey": "01:10",
-            "w": 15,
-            "c": 97
+            "w": 43,
+            "c": 236
+          },
+          {
+            "timeKey": "01:15",
+            "w": 41,
+            "c": 1202
+          },
+          {
+            "timeKey": "01:20",
+            "w": 14,
+            "c": 529
           }
         ],
         "id": 102
       }
     ],
-    "wholeVaultWordCount": 160948,
-    "wholeVaultCharCount": 2238943
+    "wholeVaultWordCount": 161030,
+    "wholeVaultCharCount": 2240808
   }
 }
