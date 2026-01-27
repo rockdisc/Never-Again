@@ -20,7 +20,7 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Write OO
+> - [ ] Memorize OO
 > - [ ] Write Info and get picture ready
 
 > [!warning] Homework
