@@ -35,7 +35,8 @@
               "title": "Wizard Towers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Wizard Towers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Wizard Towers"
             }
           },
           {
@@ -314,11 +315,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "586715fa34b09302",
+  "active": "44324058094597d2",
   "lastOpenFiles": [
+    "Home.md",
     "2-Main/0-SORT THIS/Wizard Towers.md",
     "2-Main/2-Areas/3-Speech/Infos/Head Number 7.md",
-    "Home.md",
     "2-Main/0-SORT THIS/How Do I Live.md",
     "2-Main/0-SORT THIS/Where Are You From?.md",
     "2-Main/0-SORT THIS/Great Bleach Poems.md",
