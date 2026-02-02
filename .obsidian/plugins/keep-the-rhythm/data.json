@@ -1726,9 +1726,31 @@
         "charCountStart": 2494,
         "changes": [],
         "id": 112
+      },
+      {
+        "date": "2026-02-01",
+        "filePath": "2-Main/0-SORT THIS/The Spider Spins its Webs Away From Prying Eyes.md",
+        "wordCountStart": 267,
+        "charCountStart": 1377,
+        "changes": [],
+        "id": 113
+      },
+      {
+        "date": "2026-02-01",
+        "filePath": "2-Main/0-SORT THIS/The Modern Artist.md",
+        "wordCountStart": 133,
+        "charCountStart": 691,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 154,
+            "c": 830
+          }
+        ],
+        "id": 114
       }
     ],
-    "wholeVaultWordCount": 161037,
-    "wholeVaultCharCount": 2240856
+    "wholeVaultWordCount": 161191,
+    "wholeVaultCharCount": 2241686
   }
 }
