@@ -21,6 +21,7 @@ actions:
 
 > [!todo]  Today
 > - [ ] Write Info and get picture ready
+> - [ ] Get Oneshot ready and printed 
 
 > [!warning] Homework
 > 
