@@ -10,7 +10,7 @@ The start of expressionism and rejection of realism
 
 Avant-Garde
 
-Body 2: Looking at the placard
+Body 2: Looking at the placardH
 Why it is important to know the story of a piece
 
 Training your eyes and brain to understand, have an example of before and after knowing a bit of information
