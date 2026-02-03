@@ -1761,9 +1761,50 @@
         "charCountStart": 974,
         "changes": [],
         "id": 115
+      },
+      {
+        "date": "2026-02-02",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
+        "wordCountStart": 138,
+        "charCountStart": 855,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2026-02-02",
+        "filePath": "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Witlan.md",
+        "wordCountStart": 1050,
+        "charCountStart": 8280,
+        "changes": [
+          {
+            "timeKey": "22:15",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "22:20",
+            "w": 27,
+            "c": 185
+          }
+        ],
+        "id": 117
+      },
+      {
+        "date": "2026-02-02",
+        "filePath": "2-Main/0-SORT THIS/The Modern Artist.md",
+        "wordCountStart": 287,
+        "charCountStart": 1522,
+        "changes": [
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 118
       }
     ],
-    "wholeVaultWordCount": 161191,
-    "wholeVaultCharCount": 2241687
+    "wholeVaultWordCount": 161218,
+    "wholeVaultCharCount": 2241873
   }
 }
