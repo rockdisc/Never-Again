@@ -35,8 +35,7 @@
               "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/The Modern Artist.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of The Modern Artist"
             }
           },
           {
@@ -315,11 +314,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "442cc67ed675a817",
+  "active": "586715fa34b09302",
   "lastOpenFiles": [
+    "Home.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Witlan.md",
     "2-Main/2-Areas/2-Worldbuilding/Poet's Land/1-Main/Locations/Matieral World/Presford.md",
-    "Home.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
     "2-Main/0-SORT THIS/The Spider Spins its Webs Away From Prying Eyes.md",
     "2-Main/0-SORT THIS/Wizard Towers.md",

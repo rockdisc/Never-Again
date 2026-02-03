@@ -1,4 +1,12 @@
 
+You walk into an art museum, renaissance paintings, statues depicting humans with perfect anatomical accuracy, and finally when you get near the end, the biggest and most important exhibit the museum wants you to remember, a giant canvas the size of a wall filled with red yellow and blue [PICTURE]. What is that? 
+There are a lot of ways to describe modern art, to the public a few come to mind. Useless, meaningless, excuse for money-laundering, or a disgrace on the history of art. 
+
+The age old question of what makes a good piece of art 
+
+
+
+
 Hook:
 Modern Art has become a joke to many, but that is not truly the case. To understand why modern art is the way it is, with towers made of buckets of sand falling down, and paintings like "Who's Afraid of Red, Yellow, and Blue", a painting that is only a red, yellow, and blue stripe, we have to go back in history and talk about the Avant-Garde.
 
