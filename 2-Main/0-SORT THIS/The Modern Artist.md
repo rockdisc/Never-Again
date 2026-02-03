@@ -1,14 +1,24 @@
 
 You walk into an art museum, renaissance paintings, statues depicting humans with perfect anatomical accuracy, and finally when you get near the end, the biggest and most important exhibit the museum wants you to remember, a giant canvas the size of a wall filled with red yellow and blue [PICTURE]. What is that? 
-There are a lot of ways to describe modern art, to the public a few come to mind. Useless, meaningless, excuse for money-laundering, or a disgrace on the history of art. 
+There are a lot of ways to describe modern art, to the public a few come to mind. Useless, meaningless, excuse for money-laundering, or a disgrace on the history of art. But is that really the case? Why do enthusiasts like them so much?
+FRAMING DEVICE 
+What it good art, how to look at art, looking at art
 
 The age old question of what makes a good piece of art 
+- Look at this piece from Thomas Kincaid, and Another modern piece, why is Kincaid so hated?
+- Impressionism vs realism, effort or experience? 
+How to look
+- The meaning and story around it, Lucifer and the story of the artist Jean-Michel Basquiat and Untitled
+- Is it really money laundering, or something else? 
+Lets look at pieces
+- Levitating mass 
+- Come back to "Who's Afraid of Red, Yellow, and Blue", people not being able to get that color correct after tearing it 
 
 
 
 
 Hook:
-Modern Art has become a joke to many, but that is not truly the case. To understand why modern art is the way it is, with towers made of buckets of sand falling down, and paintings like "Who's Afraid of Red, Yellow, and Blue", a painting that is only a red, yellow, and blue stripe, we have to go back in history and talk about the Avant-Garde.
+Modern Art has become a joke to many, but that is not truly the case. To understand why modern art is the way it is, with towers made of buckets of sand falling down, and paintings like , a painting that is only a red, yellow, and blue stripe, we have to go back in history and talk about the Avant-Garde.
 
 Thesis:
 We have to travel through the museum filled with painting of old and their own histories, then we will get to the painting encompassing all of modern art and look at the placard to know its story, and finally, when our eyes and brains are ready, look at the painting to see its beautiful meaning that placed it in the best stop of the museum. 
