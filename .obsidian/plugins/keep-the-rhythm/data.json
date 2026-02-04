@@ -1130,7 +1130,7 @@
       },
       {
         "date": "2026-01-11",
-        "filePath": "3-Journal/2026-01-11.md",
+        "filePath": "3-Journal/2026/2026-01/2026-01-11.md",
         "wordCountStart": 43,
         "charCountStart": 247,
         "changes": [
@@ -1822,9 +1822,39 @@
           }
         ],
         "id": 118
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "Home.md",
+        "wordCountStart": 147,
+        "charCountStart": 974,
+        "changes": [],
+        "id": 119
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "2-Main/0-SORT THIS/The Modern Artist.md",
+        "wordCountStart": 481,
+        "charCountStart": 2640,
+        "changes": [],
+        "id": 121
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "3-Journal/2026-02-04.md",
+        "wordCountStart": 51,
+        "charCountStart": 323,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 37,
+            "c": 211
+          }
+        ],
+        "id": 122
       }
     ],
-    "wholeVaultWordCount": 161412,
-    "wholeVaultCharCount": 2242991
+    "wholeVaultWordCount": 161268,
+    "wholeVaultCharCount": 2242094
   }
 }
