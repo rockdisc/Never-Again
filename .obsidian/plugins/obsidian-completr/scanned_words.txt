@@ -34116,6 +34116,7 @@ corner
 coincidences
 conversation
 cycles
+cake
 entire
 endless
 everything
@@ -64397,6 +64398,7 @@ JaI
 Jewelry
 Junior
 Jean
+Journal
 quarter
 questions
 quickly
