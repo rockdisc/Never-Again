@@ -1852,14 +1852,60 @@
           },
           {
             "timeKey": "17:40",
-            "w": 9,
-            "c": 68
+            "w": 17,
+            "c": 111
           }
         ],
         "id": 122
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+        "wordCountStart": 80,
+        "charCountStart": 586,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": -1,
+            "c": -7
+          },
+          {
+            "timeKey": "17:45",
+            "w": 36,
+            "c": 203
+          },
+          {
+            "timeKey": "17:50",
+            "w": 19,
+            "c": 113
+          }
+        ],
+        "id": 123
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Displacement.md",
+        "wordCountStart": 32,
+        "charCountStart": 197,
+        "changes": [
+          {
+            "timeKey": "17:40",
+            "w": 2,
+            "c": 17
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Average Angular Velocity.md",
+        "wordCountStart": 10,
+        "charCountStart": 84,
+        "changes": [],
+        "id": 125
       }
     ],
-    "wholeVaultWordCount": 161286,
-    "wholeVaultCharCount": 2242214
+    "wholeVaultWordCount": 161350,
+    "wholeVaultCharCount": 2242583
   }
 }

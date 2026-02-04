@@ -8126,6 +8126,7 @@ Shit
 Stats
 Standing
 Sum
+Spin
 Interesting
 In
 If
@@ -24218,6 +24219,7 @@ stall
 substantial
 symbolisms
 statues
+swept
 vast
 very
 vibrant
@@ -28813,6 +28815,7 @@ avant
 anatomical
 accuracy
 artist
+angular
 mirages
 miles
 man
@@ -34117,6 +34120,7 @@ coincidences
 conversation
 cycles
 cake
+clockwise
 entire
 endless
 everything
@@ -44918,6 +44922,7 @@ reserved
 rejection
 realism
 renaissance
+rotational
 yellow
 yet
 you
@@ -50810,6 +50815,7 @@ kQZ
 kFL
 kVEV
 kBTb
+kinematics
 North
 No
 Newton
@@ -53798,6 +53804,7 @@ Angle
 Afraid
 Avant
 Abstract
+Angular
 Rough
 Readers
 Radkeha
@@ -55584,6 +55591,7 @@ RFD
 Redo
 Rename
 Recapped
+Rotational
 Gyles
 Giants
 God
