@@ -1876,8 +1876,18 @@
           },
           {
             "timeKey": "17:50",
-            "w": 19,
-            "c": 113
+            "w": 41,
+            "c": 252
+          },
+          {
+            "timeKey": "17:55",
+            "w": 45,
+            "c": 267
+          },
+          {
+            "timeKey": "18:00",
+            "w": 3,
+            "c": 19
           }
         ],
         "id": 123
@@ -1903,9 +1913,17 @@
         "charCountStart": 84,
         "changes": [],
         "id": 125
+      },
+      {
+        "date": "2026-02-04",
+        "filePath": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Torque.md",
+        "wordCountStart": 78,
+        "charCountStart": 429,
+        "changes": [],
+        "id": 126
       }
     ],
-    "wholeVaultWordCount": 161350,
-    "wholeVaultCharCount": 2242583
+    "wholeVaultWordCount": 161422,
+    "wholeVaultCharCount": 2243013
   }
 }

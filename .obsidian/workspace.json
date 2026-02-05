@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dynamics"
+              "title": "Backlinks for Angular Motion"
             }
           },
           {
@@ -202,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/Dynamics.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dynamics"
+              "title": "Outgoing links from Angular Motion"
             }
           },
           {
@@ -238,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Angular Motion"
             }
           },
           {
@@ -286,10 +286,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Angular Motion"
             }
           },
           {
@@ -331,8 +331,9 @@
   },
   "active": "acc068d88648fe1e",
   "lastOpenFiles": [
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Average Angular Velocity.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Torque.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Average Angular Velocity.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Displacement.md",
     "3-Journal/2026-02-04.md",
     "Home.md",
@@ -368,7 +369,6 @@
     "3-Journal/2026/2026-01/2026-01-11.md",
     "3-Journal/2026/2026-01/2026-01-08.md",
     "3-Journal/2026/2026-01/2026-01-07.md",
-    "Templates/Odd School Schedule 11-1.md",
     "5-School/12",
     "3-Journal/2026/2026-01",
     "3-Journal/2026",

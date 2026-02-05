@@ -28,3 +28,16 @@ This also goes into dynamics with things like $F=ma$ turning into:
 $$
 \sum\tau=I \alpha
 $$
+$\tau$ is [[Torque]]. I is rotational inertia. 
+## Rotational Inertia 
+The smaller it is, the faster it rolls. It can be represented as: 
+$$
+I=\sum mr^2
+$$
+for a point mass, though there are several different for different shapes. These can be derived by looking at the shape and seeing the relationship between the edges to the [[Center of Mass]].
+
+### Parallel Axis Theorem 
+$$
+I_{x}=I_{cm}+m\Delta x^2
+$$
+This shows that the sm
