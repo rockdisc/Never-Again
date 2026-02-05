@@ -40,4 +40,16 @@ for a point mass, though there are several different for different shapes. These
 $$
 I_{x}=I_{cm}+m\Delta x^2
 $$
-This shows that the sm
+This shows that the least the inertia will be is when the axis of rotation is at the center of mass. 
+
+# Relationship between Angular and Linear Motion 
+$$
+\begin{align}
+s=\Delta\theta \cdot r  \\
+s=\Delta x \\
+  \Delta x= \Delta\theta \cdot r \\
+v=\omega r \\
+a=\alpha r
+\end{align}
+$$
+These combined with mixing [[Torque]] and [[Force]], which can easily be done by using two different equations to find the missing shared variables. 
