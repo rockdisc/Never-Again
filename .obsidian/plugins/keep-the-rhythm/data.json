@@ -1828,7 +1828,13 @@
         "filePath": "Home.md",
         "wordCountStart": 147,
         "charCountStart": 974,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": -2,
+            "c": -9
+          }
+        ],
         "id": 119
       },
       {
@@ -1966,7 +1972,7 @@
         "id": 128
       }
     ],
-    "wholeVaultWordCount": 161725,
-    "wholeVaultCharCount": 2244530
+    "wholeVaultWordCount": 161534,
+    "wholeVaultCharCount": 2243386
   }
 }
