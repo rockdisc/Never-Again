@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "acc068d88648fe1e",
+            "id": "1eef718b00d5c24a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+                "file": "2-Main/0-SORT THIS/Desiderata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angular Motion"
-            }
-          },
-          {
-            "id": "1ef898ade2ef2a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/0-SORT THIS/LaTeX Tutorial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LaTeX Tutorial"
+              "title": "Desiderata"
             }
           }
         ],
@@ -160,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+                "file": "2-Main/0-SORT THIS/Desiderata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Angular Motion"
+              "title": "Backlinks for Desiderata"
             }
           },
           {
@@ -179,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+                "file": "2-Main/0-SORT THIS/Desiderata.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Angular Motion"
+              "title": "Graph of Desiderata"
             }
           },
           {
@@ -216,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+                "file": "2-Main/0-SORT THIS/Desiderata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Angular Motion"
+              "title": "Outgoing links from Desiderata"
             }
           },
           {
@@ -252,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+                "file": "2-Main/0-SORT THIS/Desiderata.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Angular Motion"
+              "title": "Outline of Desiderata"
             }
           },
           {
@@ -300,10 +286,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md"
+                "file": "2-Main/0-SORT THIS/Desiderata.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Angular Motion"
+              "title": "File properties for Desiderata"
             }
           },
           {
@@ -343,14 +329,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acc068d88648fe1e",
+  "active": "1eef718b00d5c24a",
   "lastOpenFiles": [
+    "3-Journal/2026-02-04.md",
     "2-Main/0-SORT THIS/LaTeX Tutorial.md",
-    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Torque.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Motion.md",
+    "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Torque.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Average Angular Velocity.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/1-Angular Motion/Angular Displacement.md",
-    "3-Journal/2026-02-04.md",
     "Home.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
     "3-Journal/2026/2026-02",
