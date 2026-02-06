@@ -20,7 +20,6 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Get Oneshot ready and printed 
 > - [ ] Upgrade my info speech 
 
 > [!warning] Homework
@@ -33,9 +32,6 @@ actions:
 > - [ ] Start writing The Man in The Woods  
 > - [ ] Get Colleges in again 
 > - [ ] Write Institalionalized 
-> - [ ] Write place for a grave 
-> - [ ] Write City 
-> - [ ] Make the oneshot 
 > - [ ] Write about Buddism and Ego death
 
 > [!info] Later   

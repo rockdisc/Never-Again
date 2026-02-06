@@ -1976,7 +1976,13 @@
         "filePath": "Home.md",
         "wordCountStart": 145,
         "charCountStart": 965,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "21:35",
+            "w": -23,
+            "c": -118
+          }
+        ],
         "id": 130
       },
       {
@@ -1999,6 +2005,16 @@
             "timeKey": "21:10",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "21:30",
+            "w": 113,
+            "c": 520
+          },
+          {
+            "timeKey": "21:35",
+            "w": 119,
+            "c": 598
           }
         ],
         "id": 131
@@ -2010,9 +2026,23 @@
         "charCountStart": 20091,
         "changes": [],
         "id": 132
+      },
+      {
+        "date": "2026-02-05",
+        "filePath": "3-Journal/2025/2025-07/2025-07-30.md",
+        "wordCountStart": 306,
+        "charCountStart": 1580,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": 0,
+            "c": -5
+          }
+        ],
+        "id": 133
       }
     ],
-    "wholeVaultWordCount": 161572,
-    "wholeVaultCharCount": 2243611
+    "wholeVaultWordCount": 161781,
+    "wholeVaultCharCount": 2244606
   }
 }
