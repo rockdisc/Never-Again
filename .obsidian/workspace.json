@@ -35,8 +35,7 @@
               "title": "2026-02-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3-Journal/2026-02-05.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2026-02-05"
+              "title": "Graph of Home"
             }
           },
           {
@@ -315,10 +314,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c6d1c1754e68112",
+  "active": "682204d0ccd5c7b1",
   "lastOpenFiles": [
-    "Home.md",
     "3-Journal/2026-02-05.md",
+    "Home.md",
     "3-Journal/2026/2026-02/2026-02-04.md",
     "2-Main/0-SORT THIS/Desiderata.md",
     "2-Main/0-SORT THIS/LaTeX Tutorial.md",
