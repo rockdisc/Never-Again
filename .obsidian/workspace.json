@@ -35,7 +35,8 @@
               "title": "2026-02-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +81,7 @@
             }
           },
           {
-            "id": "b89721a483b2f77f",
+            "id": "4faa8421507bbda4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -150,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "3-Journal/2026-02-05.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of 2026-02-05"
             }
           },
           {
@@ -314,7 +315,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "682204d0ccd5c7b1",
+  "active": "9c6d1c1754e68112",
   "lastOpenFiles": [
     "3-Journal/2026-02-05.md",
     "Home.md",
