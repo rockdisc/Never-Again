@@ -1847,7 +1847,7 @@
       },
       {
         "date": "2026-02-04",
-        "filePath": "3-Journal/2026-02-04.md",
+        "filePath": "3-Journal/2026/2026-02/2026-02-04.md",
         "wordCountStart": 51,
         "charCountStart": 323,
         "changes": [
@@ -1970,9 +1970,31 @@
           }
         ],
         "id": 128
+      },
+      {
+        "date": "2026-02-05",
+        "filePath": "Home.md",
+        "wordCountStart": 145,
+        "charCountStart": 965,
+        "changes": [],
+        "id": 130
+      },
+      {
+        "date": "2026-02-05",
+        "filePath": "3-Journal/2026-02-05.md",
+        "wordCountStart": 43,
+        "charCountStart": 296,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 31,
+            "c": 170
+          }
+        ],
+        "id": 131
       }
     ],
-    "wholeVaultWordCount": 161534,
-    "wholeVaultCharCount": 2243386
+    "wholeVaultWordCount": 161567,
+    "wholeVaultCharCount": 2243573
   }
 }
