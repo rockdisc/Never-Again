@@ -23,7 +23,6 @@ actions:
 > - [ ] Upgrade my info speech 
 
 > [!warning] Homework
-> - [ ] Read till 64 on [[Between the World and Me]]
 > - [ ] Do the Physics Mastery
 
 > [!warning]  Run On
