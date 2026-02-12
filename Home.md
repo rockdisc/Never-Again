@@ -23,7 +23,7 @@ actions:
 > - [ ] Make my POI 
 > - [ ] Write something, preferably start CSULT 
 > - [ ] Clean and Organize 
-> - [ ] Try coding again, Arrodes
+> - [ ] Try coding again, Arrodes, maybe with OpenClaw 
 
 > [!warning] Homework
 > - [ ] Do the Physics Mastery 
