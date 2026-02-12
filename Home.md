@@ -20,18 +20,22 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Upgrade my info speech 
+> - [ ] Make my POI 
+> - [ ] Write something, preferably start CSULT 
+> - [ ] Clean and Organize 
+> - [ ] Try coding again, Arrodes
 
 > [!warning] Homework
-> - [ ] Do the Physics Mastery
+> - [ ] Do the Physics Mastery 
+> - [ ] ELA Reading 
+> - [ ] Math Review 
+> - [ ] Congress Research 
 
 > [!warning]  Run On
 > - [ ] Gnosticism 
 > - [ ] Hermeticism
 > - [ ] Neoplatonism
-> - [ ] Start writing The Man in The Woods  
-> - [ ] Get Colleges in again 
-> - [ ] Write Institalionalized 
+> - [ ] Get Colleges in again  
 > - [ ] Write about Buddism and Ego death
 
 > [!info] Later   
