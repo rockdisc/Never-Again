@@ -20,16 +20,16 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Make my POI 
+> - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
 > - [ ] Write something, preferably start CSULT 
 > - [ ] Clean and Organize 
-> - [ ] Try coding again, Arrodes, maybe with OpenClaw 
 
 > [!warning] Homework
 > - [ ] Do the Physics Mastery 
 > - [ ] ELA Reading 
 > - [ ] Math Review 
 > - [ ] Congress Research 
+> - [ ] Math Tutor Homework 
 
 > [!warning]  Run On
 > - [ ] Gnosticism 
