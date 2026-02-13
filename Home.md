@@ -1,6 +1,7 @@
- ---
+---
 banner: "![[1373839.png]]"
 ---
+
 
 ```meta-bind-button
 label: Daily Note

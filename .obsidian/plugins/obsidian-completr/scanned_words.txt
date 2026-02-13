@@ -20412,6 +20412,7 @@ theta
 translate
 toothbrush
 timers
+tomar
 be
 bright
 but
@@ -30629,6 +30630,7 @@ meditated
 misfires
 melodramatic
 memorized
+mas
 for
 find
 face
@@ -32273,6 +32275,7 @@ fatigue
 fuzzy
 fists
 fireworks
+fotos
 can
 covered
 clad
@@ -34263,6 +34266,7 @@ corrections
 currents
 compile
 contaminate
+colonialism
 entire
 endless
 everything
@@ -40350,6 +40354,7 @@ Tony
 Trying
 Transported
 Timed
+Tutor
 goat
 going
 get
@@ -60088,6 +60093,7 @@ Diner
 Discussion
 Desk
 Disheveled
+Debi
 Keter
 Knowing
 Kyling

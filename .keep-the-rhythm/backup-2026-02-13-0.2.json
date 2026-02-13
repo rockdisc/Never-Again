@@ -2443,20 +2443,6 @@
           }
         ],
         "id": 176
-      },
-      {
-        "date": "2026-02-13",
-        "filePath": "Home.md",
-        "wordCountStart": 150,
-        "charCountStart": 1008,
-        "changes": [
-          {
-            "timeKey": "15:00",
-            "w": 0,
-            "c": 0
-          }
-        ],
-        "id": 177
       }
     ],
     "wholeVaultWordCount": 161952,
