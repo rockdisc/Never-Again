@@ -30,7 +30,6 @@ actions:
 > - [ ] ELA Reading 
 > - [ ] Math Review 
 > - [ ] Congress Research 
-> - [ ] Math Tutor Homework 
 
 > [!warning]  Run On
 > - [ ] Gnosticism 
