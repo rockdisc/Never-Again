@@ -1,7 +1,7 @@
 #Tech #Personization 
 
 # 0 Intro 
-You are probably here because you messed up an update or something similar to that and all of my data is gone, lucky for you, I thought of this and am now making this. First things first, download the zip file and open it, it will have all of my pictures and everything. It should be hiding in the files for this folder. 
+You are probably here because you messed up an update or something similar to that and all of my data is gone, lucky for you, I thought of this and am now making this. First things first, download the zip file and open it, it will have all of my pictures and everything. It should be in the backup ssd I have. 
 Next go through all of the things below to get all of my ricing in, do this in the order they are written in case something were to go wrong, again. 
 
 # 1 Deblout
@@ -367,3 +367,25 @@ windowrule = scrolltouchpad 1.5, tag:terminal
 # See https://wiki.hyprland.org/Configuring/Gestures/
  gesture = 3, horizontal, workspace
 ```
+
+# 3 Packages 
+
+## 3.1 Mandatory & Utility 
+Vivaldi 
+Gimp 
+Krita 
+OpenTabletDriver 
+Piper 
+
+
+## 3.2 Fun 
+PortProton 
+Steam(ONLY AFTER PortProton)
+Wine and TMNations Forever 
+
+
+## 3.3 Rice Farm 
+Cava 
+Astroterm 
+cbonsai 
+discordo 
