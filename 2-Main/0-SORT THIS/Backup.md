@@ -10,4 +10,6 @@ Next go through all of the things below to get all of my ricing in, do this in t
 ```bash 
 $ bash <(curl -fsSL https://raw.githubusercontent.com/DanielCoffey1/a-la-carchy/master/a-la-carchy.sh)
 ```
-This is a la carte, a way of debloating Omarchy. 
+This is a la carte, a way of debloating Omarchy. Mainly we want to get rid of all web-apps aside from discord and most other packages installed here, honestly the only reason I am still using Omarchy is because copying all of this to arch is too much of a paint. 
+
+# 
