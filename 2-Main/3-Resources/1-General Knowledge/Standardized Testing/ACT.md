@@ -51,4 +51,53 @@ Try to eliminate half your answer choices, and do not second guess yourself most
 About 20% of answers are no change. Read full sentence. Make sure your whole answer choices are correct. Least redundant is shorter answers. 
 
 
-### 2.3.1 Specific English Rules to know 
+### 2.3.3 Specific English Rules to know 
+
+#### 2.3.3.1 From Book 
+
+The predicate verb (main verb of a sentence) is the action that the subject (noun) is
+performing or having performed on it; it can also set up a description of them. To keep things
+simple, you can think of verbs as action words.
+Action verbs describe both physical, external actions and internal, mental actions.
+examples: eject, resist, radiate, organize, stoke, cauterize, deliberate, sing, persist, celebrate
+Linking verbs work like an equals sign between the subject and predicate
+examples: to be, to become, to appear (a certain way), to smell (a certain way), etc.
+State-of-Being verbs describe a subject’s state or feeling, including things they like or dislike.
+examples: want, need, prefer, love, hate, like, dislike, seem, understand, know, believe, involve, realize
+Helping verbs are used to change another verb’s tense, voice, or mood.
+• Main helping verbs: be, do, have
+These are used to change the main verb's tense (had seen, have washed, am going)
+• Modal verbs: can, could, dare, may, might, must, should, will, would
+These are used to indicate hypothetical or past scenarios (could tell, might go, will rain)
+
+Every verb has an infinitive form (to + verb) that we conjugate to match the subject's number
+(plural or singular) and the sentence's time line (tense).
+infinitive:
+to dance (to + verb is the unconjugated form of a verb)
+conjugated: I/you/we/they dance. (plural + present) | He/She/It will dance. (singular + future)
+incorrect: Because he were disqualified, he were being drops from the final event. (total chaos!)
+correct: Because he was disqualified, he has been dropped from the final event. (ordered)
+
+A verb is an action. An -ing word is the activity that the verb does. That activity is a thing called
+a gerund, which means it functions as a noun in the sentence.
+
+gerund (noun): Launching a rocket is expensive. (subject of the sentence)
+present participle: The cow was mooing menacingly. (part of the verb phrase "was mooing")
+gerund (noun): I looked into making a quiche. (object of the preposition "into")
+present participle: The soaring deficit is a predictable result. ("soaring" acts as an adjective)
+gerund (noun): I appreciate your lending me the car. ("lending" is the object of "your")
+
+Comma, Introductory, list, FANBOYS, Dependent clause first, 
+• Do NOT put a comma between two clauses that share a subject (if subject is not repeated).
+incorrect:The house is affordable, but is near a landfill.(subject not repeated + comma)
+correct:The house is affordable but is near a landfill.(subject not repeated + no comma)
+correct:The house is affordable, but it is near a landfill. (repeated subject + comma)
+Do NOT put a comma directly before or after a preposition.*
+incorrect: After surfing, at the peninsula, since dawn, Lisa met Eric at, Nic's Deli, for a breakfast burrito, before heading to, campus, for class.
+correct: After surfing at the peninsula since dawn, Lisa met Eric at Nic's Deli for a breakfast burrito before heading to campus for class.
+Do NOT put a comma directly before or after the word "that." *
+incorrect:Ed was disappointed to learn, that Petunia had called him a toad.
+incorrect:Ed was disappointed to learn that, Petunia had called him a toad.
+correct:Ed was disappointed to learn that Petunia had called him a toad.
+The * have exceptions.  
+
