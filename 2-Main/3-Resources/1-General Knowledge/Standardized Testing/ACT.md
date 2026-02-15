@@ -38,12 +38,17 @@ Then optional:
 Science is 40 questions in 40 minutes 
 
 ## 2.3 English 
+
+### 2.3.1 General 
 38-43% is Grammar, such as commas. Another is Production of writing, adding and removing text and transitions. The rest is knowledge of language like tone. Of the 5 passages, 1-2 will be unscored, not the first or last.
 LIST PASSAGES!!
 
+28 on first take, higher by 2. 
+
+### 2.3.2 Test Taking Tips 
 There are a lot of question stems that are useless, recognize them and know which ones are useful. 
 Try to eliminate half your answer choices, and do not second guess yourself most of the time. 
 About 20% of answers are no change. Read full sentence. Make sure your whole answer choices are correct. Least redundant is shorter answers. 
-28 on first take. 
 
-Write rules for: Whom, Commas, Semi-colons, 
+
+### 2.3.1 Specific English Rules to know 
