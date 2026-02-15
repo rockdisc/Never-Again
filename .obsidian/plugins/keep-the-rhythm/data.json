@@ -2603,11 +2603,17 @@
         "filePath": "Home.md",
         "wordCountStart": 161,
         "charCountStart": 1069,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "00:15",
+            "w": -4,
+            "c": -21
+          }
+        ],
         "id": 182
       }
     ],
-    "wholeVaultWordCount": 163034,
-    "wholeVaultCharCount": 2255442
+    "wholeVaultWordCount": 163030,
+    "wholeVaultCharCount": 2255421
   }
 }

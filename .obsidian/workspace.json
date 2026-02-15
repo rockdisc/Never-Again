@@ -35,8 +35,7 @@
               "title": "Desiderata"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Desiderata.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Desiderata"
+              "title": "Graph of Home"
             }
           },
           {
@@ -315,10 +314,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd293ca3574d28cf",
+  "active": "6f16fdb242d64e75",
   "lastOpenFiles": [
-    "Home.md",
     "2-Main/0-SORT THIS/Desiderata.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Backup.md",
     "Backup 2-14-26.zip",
     "6-Images/Backup 2-14-26.zip",
