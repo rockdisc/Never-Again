@@ -19,7 +19,7 @@ After we have everything taken away that we do not need, lets customize the thin
 I know the Monitors were probably pissing you off, here is the fix: Put it in monitors 
 
 
-Put this in Look and feel 
+Put this in Look and feel, this is different now, I got to find how to do it. 
 ``` conf
 # Change the default Omarchy look'n'feel
 
