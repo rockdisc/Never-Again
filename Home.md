@@ -23,6 +23,7 @@ actions:
 > [!todo]  Today
 > - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
 > - [ ] Fix Spicetify 
+> - [ ] Get the pokemon games and emulators 
 > - [ ] Use my anime list or some other note taking thing to start tracking anime so that I can use ani-cli 
 > - [ ] Write something, preferably start CSULT 
 > - [ ] Clean and Organize, most likely by redoing all of my notes with the category property 
