@@ -24,13 +24,11 @@ actions:
 > - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
 > - [ ] Fix Opacity 
 > - [ ] Fix Spicetify 
-> - [ ] Make own Obsidian theme 
 > - [ ] Write something, preferably start CSULT 
 > - [ ] Clean and Organize, most likely by redoing all of my notes with the category property 
 
 > [!warning] Homework
 > - [ ] Do the Physics Mastery 
-> - [ ] ELA Reading 
 > - [ ] Math Review 
 > - [ ] Congress Research 
 

@@ -2571,12 +2571,17 @@
             "timeKey": "18:40",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "19:15",
+            "w": -10,
+            "c": -54
           }
         ],
         "id": 180
       }
     ],
-    "wholeVaultWordCount": 163044,
-    "wholeVaultCharCount": 2255496
+    "wholeVaultWordCount": 163034,
+    "wholeVaultCharCount": 2255442
   }
 }
