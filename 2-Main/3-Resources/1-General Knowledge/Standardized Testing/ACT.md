@@ -27,4 +27,19 @@ There are 45 questions with 50 minutes to do them. The first 30 or so questions 
 
 ## 2.1 Prep 
 2 hours in a class, per week, and do 2 hours outside of class. 
-I will also be teaching people, that will be
+I will also be teaching people, that will be an hour most likely. 
+
+## 2.2 Format 
+English 50 questions in 35 minutes 
+Math 45 questions in 50 minutes 
+10-15 minute break 
+Reading 36 questions in 40 minutes 
+Then optional:
+Science is 40 questions in 40 minutes 
+
+## 2.3 English 
+38-43% is Grammar, such as commas. Another is Production of writing, adding and removing text and transitions. The rest is knowledge of language like tone. Of the 5 passages, 1-2 will be unscored, not the first or last.
+LIST PASSAGES!!
+
+There are a lot of question stems that are useless, recognize them and know which ones are useful. 
+Try to eliminate half your answer choices, and do not second guess yourself most of the time. 

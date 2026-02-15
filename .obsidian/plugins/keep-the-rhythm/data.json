@@ -2664,14 +2664,19 @@
           },
           {
             "timeKey": "14:05",
-            "w": 13,
-            "c": 58
+            "w": 92,
+            "c": 512
+          },
+          {
+            "timeKey": "14:10",
+            "w": 37,
+            "c": 211
           }
         ],
         "id": 184
       }
     ],
-    "wholeVaultWordCount": 163078,
-    "wholeVaultCharCount": 2255659
+    "wholeVaultWordCount": 163193,
+    "wholeVaultCharCount": 2256322
   }
 }
