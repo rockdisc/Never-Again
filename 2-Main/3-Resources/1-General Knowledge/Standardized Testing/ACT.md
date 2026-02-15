@@ -49,6 +49,17 @@ LIST PASSAGES!!
 There are a lot of question stems that are useless, recognize them and know which ones are useful. 
 Try to eliminate half your answer choices, and do not second guess yourself most of the time. 
 About 20% of answers are no change. Read full sentence. Make sure your whole answer choices are correct. Least redundant is shorter answers. 
+Use Process of Elimination 
+Know common question stems: useless, useful, and checklist. 
+
+  
+Rules for maximizing ROI on the ACT English section
+
+- 1. Spending too much time on a single problem has an opportunity cost. Specifically, it costs you the opportunity to spend that time attempting to solve other, higher-ROI problems.
+- 2. It's okay to get stumped by a difficult problem. Just make sure you don't stay stumped. Enter a guess and move on to the next question.
+- 3. notIt's okay to get stuck because that's the same as staying stumped. That's what happens when you're stumped but refuse to move on to the next question.
+- 4. It's okay to bail on a problem (i.e., enter a guess and move on). If you find yourself struggling or taking too long to solve a problem, it's probably in your best interest to stop, enter your best guess, and move on to a higher-ROI question. Bailing on a problem may feel like admitting defeat, but it's actually it's a strategic decision to focus on higher-ROI problems.
+- 5. In some cases, you can to solve an ACT English problem without knowing all the relevant grammar rules. However, if you realize a problem is testing a grammar rule you're sure you don't know, it's better to bail on that problem sooner than later.
 
 
 ### 2.3.3 Specific English Rules to know 
@@ -100,4 +111,20 @@ incorrect:Ed was disappointed to learn, that Petunia had called him a toad.
 incorrect:Ed was disappointed to learn that, Petunia had called him a toad.
 correct:Ed was disappointed to learn that Petunia had called him a toad.
 The * have exceptions.  
+
+Information is RELEVANT if it:
+1. adds information that relates to the topic in a specific way
+2. advances or supports the central idea of the passage
+3. enhances the impact or clarifies the intended meaning of the rest of the paragraph in which it
+appears
+4. adds information that is helpful to a reader where it appears in the passage
+5. helps the paragraph to achieve its purpose as it relates to the central idea of the passage
+Information is NOT relevant it:
+a. adds information that only relates to the topic in a general way
+b. does not advance or support the central idea of the passage
+c. undermines the impact or obscures the intended meaning of nearby sentences
+d. adds information that is unhelpful to a reader at that specific point in the passage
+
+Who = subject case (like he, she, they, or I = a person who performs an action)
+Whom = object case (like him, her, them, or me = a person to whom something happens)
 
