@@ -43,7 +43,7 @@ LIST PASSAGES!!
 
 There are a lot of question stems that are useless, recognize them and know which ones are useful. 
 Try to eliminate half your answer choices, and do not second guess yourself most of the time. 
-About 20% of answers are no change. Read full sentence. 
+About 20% of answers are no change. Read full sentence. Make sure your whole answer choices are correct. 
 28 on first take. 
 
 Write rules for: Whom, Commas, Semi-colons, 
