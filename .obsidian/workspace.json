@@ -35,8 +35,7 @@
               "title": "ACT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACT"
+              "title": "Graph of Home"
             }
           },
           {
@@ -315,8 +314,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e1ce22013995b2e",
+  "active": "6f16fdb242d64e75",
   "lastOpenFiles": [
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "Home.md",
     "2-Main/0-SORT THIS/Desiderata.md",
     "2-Main/0-SORT THIS/Backup.md",
@@ -344,7 +344,6 @@
     "3-Journal/2025/2025-07/2025-07-04.md",
     "3-Journal/2025/2025-07/2025-07-02.md",
     "3-Journal/2025/2025-07/2025-07-01.md",
-    "3-Journal/2025/2025-06/2025-06-30.md",
     "3-Journal/2026/2026-02",
     "6-Images/x7iHt42_d.webp",
     "6-Images/t5bj3fw_d.webp",

@@ -22,13 +22,10 @@ actions:
 
 > [!todo]  Today
 > - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
-> - [ ] Fix Spicetify 
-> - [ ] Get the pokemon games and emulators 
 > - [ ] Write something, preferably start CSULT 
 > - [ ] Clean and Organize, most likely by redoing all of my notes with the category property 
 
 > [!warning] Homework
-> - [ ] Do the Physics Mastery 
 > - [ ] Math Review 
 > - [ ] Congress Research 
 
