@@ -25,7 +25,6 @@ actions:
 > - [ ] Write something, preferably start CSULT 
 
 > [!warning] Homework
-> - [ ] Math Review 
 > - [ ] Congress Research 
 
 > [!warning]  Run On
