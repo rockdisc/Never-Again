@@ -23,6 +23,7 @@ actions:
 > [!todo]  Today
 > - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
 > - [ ] Write something, preferably start CSULT 
+> - [ ] Create personal AI 
 
 > [!warning] Homework
 > - [ ] Congress Research 
