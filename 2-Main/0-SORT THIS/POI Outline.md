@@ -3,6 +3,8 @@
 # 0 Overview 
 I want to talk about cultural appropriation, gentrification, and change. Ideas for sources I have is debi tirar mas fotos or the short film for it as an intro. 
 
+I think I can tie this all into a town getting transformed from old cultural roots to stale modern architecture. I can do this by at the start cutting between 
+
 ## 0.1 Sources 
 
 #### Debi tirar mas fotos (short film)
