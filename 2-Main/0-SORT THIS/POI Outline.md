@@ -4,7 +4,7 @@
 I want to talk about cultural appropriation, gentrification, and change. Ideas for sources I have is debi tirar mas fotos or the short film for it as an intro. 
 
 I think I can tie this all into a town getting transformed from old cultural roots to stale modern architecture. I can do this by at the start cutting between old and new. I use Unmaking as a switch 
-
+Maybe 3 buildings or something like that and I take 3 stories. I start with dtmf and go on walking thinking of the old city. Indians, African Americans, and indigenous Americans. 
 
 ## 0.1 Sources 
 
@@ -18,6 +18,10 @@ Highkey just take it from that time on.
 
 #### Unmaking 
 https://medium.com/@2701469/who-lived-here-before-me-583b229c37b5
+
+
+#### Yoga 
+https://www.self.com/story/yoga-indian-cultural-appropriation
 #### I Lost My Talk
 Rita Joe
 
