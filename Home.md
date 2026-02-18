@@ -35,6 +35,7 @@ actions:
 > - [ ] Hinduism  
 > - [ ] Get Colleges in again  
 > - [ ] Write about Buddism and Ego death
+> - [ ] Try Doom Emacs 
 
 > [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
