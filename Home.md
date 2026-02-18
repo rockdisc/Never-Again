@@ -32,6 +32,7 @@ actions:
 > - [ ] Write something, preferably start CSULT 
 > - [ ] Hermeticism
 > - [ ] Neoplatonism
+> - [ ] Hinduism  
 > - [ ] Get Colleges in again  
 > - [ ] Write about Buddism and Ego death
 

@@ -40,12 +40,12 @@ Science is 40 questions in 40 minutes
 ## 2.3 English 
 
 ### 2.3.1 General 
-38-43% is Grammar, such as commas. Another is Production of writing, adding and removing text and transitions. The rest is knowledge of language like tone. Of the 5 passages, 1-2 will be unscored, not the first or last.
-LIST PASSAGES!!
-
-28 on first take, higher by 2. 
+Of the 50 questions: 38-43% is Grammar, such as commas. Another is Production of writing, adding and removing text and transitions. The rest is knowledge of language like tone. Of the 5 passages, 1-2 will be unscored, not the first or last. There are 2-3 informational passages, this can be in science or humanities. 1-2 argumentative passages. And there will be 1 narrative. Assume 7 minutes per passage, this should be 2 minutes of reading, and 5 of answering questions. 
+When I took this one at the start of second time prepping, I got a 28, which is higher by two. 
 
 ### 2.3.2 Test Taking Tips 
+Most of the question stems will be "Which is most grammatically correct?" And these stems have no use, skim over them and get to what it is telling you to look at. There are though 
+
 There are a lot of question stems that are useless, recognize them and know which ones are useful. 
 Try to eliminate half your answer choices, and do not second guess yourself most of the time. 
 About 20% of answers are no change. Read full sentence. Make sure your whole answer choices are correct. Least redundant is shorter answers. 
