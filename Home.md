@@ -36,7 +36,7 @@ actions:
 > - [ ] Get Colleges in again  
 > - [ ] Write about Buddism and Ego death
 > - [ ] Try Doom Emacs 
-> - [ ] Download msu
+> - [ ] Download music and anime 
 
 > [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
