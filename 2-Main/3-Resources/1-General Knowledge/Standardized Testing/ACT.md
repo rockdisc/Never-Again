@@ -44,23 +44,12 @@ Of the 50 questions: 38-43% is Grammar, such as commas. Another is Production of
 When I took this one at the start of second time prepping, I got a 28, which is higher by two. 
 
 ### 2.3.2 Test Taking Tips 
-Most of the question stems will be "Which is most grammatically correct?" And these stems have no use, skim over them and get to what it is telling you to look at. There are though 
+Most of the question stems will be "Which is most grammatically correct?" And these stems have no use, skim over them and get to what it is telling you to look at. There are though some that are useful, and some that are really useful. Useful ones will isolate a few things you can look for in the text. And the really useful ones are checklists, honestly some of them you do not even need to look at the text to find the right answer for. 
+Use the other test taking strategies here as well, process of elimination, and narrowing it down to 2 answers. 20% of your answers will be no change. 
 
-There are a lot of question stems that are useless, recognize them and know which ones are useful. 
-Try to eliminate half your answer choices, and do not second guess yourself most of the time. 
-About 20% of answers are no change. Read full sentence. Make sure your whole answer choices are correct. Least redundant is shorter answers. 
-Use Process of Elimination 
-Know common question stems: useless, useful, and checklist. 
-
-  
-Rules for maximizing ROI on the ACT English section
-
-- 1. Spending too much time on a single problem has an opportunity cost. Specifically, it costs you the opportunity to spend that time attempting to solve other, higher-ROI problems.
-- 2. It's okay to get stumped by a difficult problem. Just make sure you don't stay stumped. Enter a guess and move on to the next question.
-- 3. notIt's okay to get stuck because that's the same as staying stumped. That's what happens when you're stumped but refuse to move on to the next question.
-- 4. It's okay to bail on a problem (i.e., enter a guess and move on). If you find yourself struggling or taking too long to solve a problem, it's probably in your best interest to stop, enter your best guess, and move on to a higher-ROI question. Bailing on a problem may feel like admitting defeat, but it's actually it's a strategic decision to focus on higher-ROI problems.
-- 5. In some cases, you can to solve an ACT English problem without knowing all the relevant grammar rules. However, if you realize a problem is testing a grammar rule you're sure you don't know, it's better to bail on that problem sooner than later.
-
+Rules for maximizing return on interest on the ACT English section
+- Do not spend too much time on a single problem, especially if you do not know, guess and move on. 
+- Its okay to bail on a problem if it takes too much time, just answer and move on, like if you do not know a grammar rule. 
 
 ### 2.3.3 Specific English Rules to know 
 
