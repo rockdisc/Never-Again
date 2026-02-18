@@ -49,8 +49,7 @@
               "title": "ACT"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACT"
+              "title": "Graph of Home"
             }
           },
           {
@@ -329,10 +328,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e1ce22013995b2e",
+  "active": "6f16fdb242d64e75",
   "lastOpenFiles": [
-    "Home.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+    "Home.md",
     "2-Main/0-SORT THIS/POI Outline.md",
     "2-Main/0-SORT THIS/Desiderata.md",
     "2-Main/0-SORT THIS/Backup.md",
