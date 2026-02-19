@@ -37,6 +37,8 @@ actions:
 > - [ ] Write about Buddism and Ego death
 > - [ ] Try Doom Emacs 
 > - [ ] Download music and anime 
+> - [ ] Download podcasts and audiobooks 
+> - [ ] Set up extra laptop 
 
 > [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
