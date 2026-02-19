@@ -2949,14 +2949,24 @@
           },
           {
             "timeKey": "23:25",
-            "w": 14,
-            "c": 62
+            "w": 93,
+            "c": 1607
+          },
+          {
+            "timeKey": "23:30",
+            "w": 125,
+            "c": 1442
+          },
+          {
+            "timeKey": "23:35",
+            "w": 0,
+            "c": 25
           }
         ],
         "id": 196
       }
     ],
-    "wholeVaultWordCount": 164586,
-    "wholeVaultCharCount": 2264209
+    "wholeVaultWordCount": 164790,
+    "wholeVaultCharCount": 2267221
   }
 }
