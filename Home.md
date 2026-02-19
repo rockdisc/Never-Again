@@ -39,6 +39,7 @@ actions:
 > - [ ] Download music and anime 
 > - [ ] Download podcasts and audiobooks 
 > - [ ] Set up extra laptop 
+> - [ ] Reinstall Spicetify 
 
 > [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
