@@ -2941,12 +2941,22 @@
             "timeKey": "23:10",
             "w": 70,
             "c": 359
+          },
+          {
+            "timeKey": "23:15",
+            "w": 22,
+            "c": 114
+          },
+          {
+            "timeKey": "23:25",
+            "w": 14,
+            "c": 62
           }
         ],
         "id": 196
       }
     ],
-    "wholeVaultWordCount": 164550,
-    "wholeVaultCharCount": 2264033
+    "wholeVaultWordCount": 164586,
+    "wholeVaultCharCount": 2264209
   }
 }
