@@ -3113,6 +3113,7 @@ Explanation
 Elimination
 Enter
 Eric
+Editor
 Classic
 Consept
 Character
@@ -4708,6 +4709,8 @@ Customizing
 Castle
 Cava
 Comma
+ChatGPT
+CLI
 Modern
 Mini
 My
@@ -11452,6 +11455,7 @@ PortProton
 Papa
 PASSAGES
 Petunia
+Podcasts
 Worldbuilding
 WWII
 Wake
@@ -12780,6 +12784,7 @@ Wicdors
 Wallpapers
 Wine
 Whom
+Wikipedia
 would
 wasteland
 walking
@@ -17130,6 +17135,7 @@ noisy
 numb
 notIt
 narrowing
+ncmpcpp
 imagined
 is
 in
@@ -20460,6 +20466,7 @@ transformed
 transitions
 tense
 toad
+themed
 be
 bright
 but
@@ -22177,6 +22184,7 @@ ballad
 bail
 breakfast
 burrito
+breaks
 so
 sand
 spend
@@ -24372,6 +24380,10 @@ scenarios
 soaring
 surfing
 skim
+storage
+setup
+spicetify
+shiny
 vast
 very
 vibrant
@@ -30718,6 +30730,7 @@ monitors
 maximizing
 mooing
 menacingly
+mpd
 for
 find
 face
@@ -34367,6 +34380,9 @@ clause
 comma
 clarifies
 checklists
+configuration
+cli
+cmus
 entire
 endless
 everything
@@ -37538,6 +37554,7 @@ loneliness
 labors
 lending
 landfill
+lean
 on
 other
 of
@@ -45219,6 +45236,7 @@ redundant
 relevant
 radiate
 rocket
+rofi
 yellow
 yet
 you
@@ -49716,6 +49734,9 @@ predictable
 peninsula
 performs
 prepping
+programs
+prevent
+podcasts
 kept
 know
 knew
@@ -51144,6 +51165,8 @@ kBTb
 kinematics
 kindly
 knowledgeable
+keybindings
+kite
 North
 No
 Newton
@@ -52660,6 +52683,8 @@ Naive
 Neither
 Nurture
 Nah
+Nvim
+Newsboat
 According
 Albert
 Avert
@@ -54148,6 +54173,8 @@ Astroterm
 African
 Americans
 Assume
+Afterwards
+Audiobooks
 Rough
 Readers
 Radkeha
@@ -57386,6 +57413,7 @@ Gnome
 Gert
 Grows
 Godspeed
+Gpodder
 He
 Hunt
 Heaven
@@ -58858,6 +58886,7 @@ Hector
 Highkey
 Helping
 Hinduism
+Hyprland
 Die
 Diathermal
 Do
@@ -60255,6 +60284,7 @@ Depth
 Dependent
 Deli
 Doom
+Dolphin
 Keter
 Knowing
 Kyling
@@ -61735,6 +61765,7 @@ Kubo
 Kincaid
 Keep
 Kitchen
+Kitty
 Land
 Lead
 Law
@@ -63199,6 +63230,7 @@ Least
 Linking
 Launching
 Lisa
+Lazy
 Johan
 Jupiter
 Jotuns
@@ -71990,6 +72022,7 @@ Yco
 Yup
 Young
 Yoga
+Yazi
 Using
 Until
 UNUSED
@@ -74936,6 +74969,7 @@ QPP
 Qto
 QIr
 QEAaE
+Qutebroswer
 Xt
 XZ
 Xr
