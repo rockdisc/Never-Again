@@ -80,14 +80,6 @@ conjugated: I/you/we/they dance. (plural + present) | He/She/It will dance. (sin
 incorrect: Because he were disqualified, he were being drops from the final event. (total chaos!)
 correct: Because he was disqualified, he has been dropped from the final event. (ordered)
 
-A verb is an action. An -ing word is the activity that the verb does. That activity is a thing called
-a gerund, which means it functions as a noun in the sentence.
-
-gerund (noun): Launching a rocket is expensive. (subject of the sentence)
-present participle: The cow was mooing menacingly. (part of the verb phrase "was mooing")
-gerund (noun): I looked into making a quiche. (object of the preposition "into")
-present participle: The soaring deficit is a predictable result. ("soaring" acts as an adjective)
-gerund (noun): I appreciate your lending me the car. ("lending" is the object of "your")
 
 Comma, Introductory, list, FANBOYS, Dependent clause first, 
 • Do NOT put a comma between two clauses that share a subject (if subject is not repeated).
@@ -115,6 +107,16 @@ a. adds information that only relates to the topic in a general way
 b. does not advance or support the central idea of the passage
 c. undermines the impact or obscures the intended meaning of nearby sentences
 d. adds information that is unhelpful to a reader at that specific point in the passage
+
+
+A verb is an action. An -ing word is the activity that the verb does. That activity is a thing called
+a gerund, which means it functions as a noun in the sentence.
+
+gerund (noun): Launching a rocket is expensive. (subject of the sentence)
+present participle: The cow was mooing menacingly. (part of the verb phrase "was mooing")
+gerund (noun): I looked into making a quiche. (object of the preposition "into")
+present participle: The soaring deficit is a predictable result. ("soaring" acts as an adjective)
+gerund (noun): I appreciate your lending me the car. ("lending" is the object of "your")
 
 Who = subject case (like he, she, they, or I = a person who performs an action)
 Whom = object case (like him, her, them, or me = a person to whom something happens)
