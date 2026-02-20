@@ -55,6 +55,8 @@ Rules for maximizing return on interest on the ACT English section
 
 #### 2.3.3.1 From Book 
 
+
+
 The predicate verb (main verb of a sentence) is the action that the subject (noun) is
 performing or having performed on it; it can also set up a description of them. To keep things
 simple, you can think of verbs as action words.
