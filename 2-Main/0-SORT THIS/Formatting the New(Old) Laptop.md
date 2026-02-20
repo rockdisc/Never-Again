@@ -23,4 +23,13 @@ Afterwards is my programs, I do not want a lot. Each one should be necessary for
 This is honestly all I should need for everything I want on this system, but you and I both know we are not done. 
 
 # 2 Ricing 
-I am going to call it "An Impression of Arch" and it will be based on impressionism. 
+I am going to call it "An Impression of Arch" and it will be based on impressionism. Here are the wallpapers I am thinking about:
+![[Arthur_Streeton_-_Golden_summer,_Eaglemont_-_Google_Art_Project.jpg|500]]
+
+![[Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg|500]]
+
+![[Claude_Monet,_Impression,_soleil_levant.jpg|500]]
+
+![[The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg|500]]
+
+Even though these all look different, the accent color should stay the same. A brownish orange. There can be some apps that use a blueish color to contrast with is, but the system theme should be orange. Might get aether to get that to work. 

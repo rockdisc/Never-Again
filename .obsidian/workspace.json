@@ -63,7 +63,8 @@
               "title": "POI Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Formatting the New(Old) Laptop"
             }
           },
           {
@@ -342,13 +343,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f16fdb242d64e75",
+  "active": "412353ea452d23e4",
   "lastOpenFiles": [
+    "6-Images/The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg",
+    "6-Images/Claude_Monet,_Impression,_soleil_levant.jpg",
+    "6-Images/Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg",
+    "6-Images/Arthur_Streeton_-_Golden_summer,_Eaglemont_-_Google_Art_Project.jpg",
+    "Home.md",
     "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Some Ideas.md",
     "2-Main/Misc/Linux X Windows.md",
-    "Home.md",
     "2-Main/0-SORT THIS/POI Outline.md",
     "2-Main/0-SORT THIS/Desiderata.md",
     "2-Main/0-SORT THIS/Backup.md",
@@ -371,7 +376,6 @@
     "3-Journal/2025/2025-07/2025-07-19.md",
     "3-Journal/2025/2025-07/2025-07-18.md",
     "3-Journal/2025/2025-07/2025-07-14.md",
-    "3-Journal/2025/2025-07/2025-07-09.md",
     "3-Journal/2026/2026-02",
     "6-Images/x7iHt42_d.webp",
     "6-Images/t5bj3fw_d.webp",
@@ -380,9 +384,6 @@
     "6-Images/waDOIYZ_d.webp",
     "6-Images/v33nska_d.webp",
     "6-Images/uB3DI0r_d.webp",
-    "6-Images/GSnffJs_d.webp",
-    "6-Images/okhmUHc_d.webp",
-    "6-Images/jn8JXRU_d.webp",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "5-School/12",
     "3-Journal/2026/2026-01",
