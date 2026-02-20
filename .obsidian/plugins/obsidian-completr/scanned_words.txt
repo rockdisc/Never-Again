@@ -4711,6 +4711,7 @@ Cava
 Comma
 ChatGPT
 CLI
+Customize
 Modern
 Mini
 My
@@ -45248,6 +45249,7 @@ relevant
 radiate
 rocket
 rofi
+rmpc
 yellow
 yet
 you

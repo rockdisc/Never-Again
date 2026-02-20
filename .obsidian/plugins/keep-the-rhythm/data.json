@@ -3070,6 +3070,38 @@
           }
         ],
         "id": 203
+      },
+      {
+        "date": "2026-02-20",
+        "filePath": "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
+        "wordCountStart": 591,
+        "charCountStart": 6697,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2026-02-20",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+        "wordCountStart": 1559,
+        "charCountStart": 8971,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2026-02-20",
+        "filePath": "2-Main/0-SORT THIS/POI Outline.md",
+        "wordCountStart": 236,
+        "charCountStart": 1358,
+        "changes": [],
+        "id": 206
+      },
+      {
+        "date": "2026-02-20",
+        "filePath": "Home.md",
+        "wordCountStart": 170,
+        "charCountStart": 1132,
+        "changes": [],
+        "id": 207
       }
     ],
     "wholeVaultWordCount": 165008,
