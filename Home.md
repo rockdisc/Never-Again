@@ -37,6 +37,7 @@ actions:
 > - [ ] Write about Buddism and Ego death
 > - [ ] Try Doom Emacs 
 > - [ ] Download music and anime 
+> - [ ] Customize rmpc
 > - [ ] Download podcasts and audiobooks 
 > - [ ] Set up extra laptop 
 > - [ ] Reinstall Spicetify 
