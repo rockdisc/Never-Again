@@ -3036,14 +3036,19 @@
           },
           {
             "timeKey": "21:15",
-            "w": 0,
-            "c": 374
+            "w": 6,
+            "c": 748
+          },
+          {
+            "timeKey": "21:20",
+            "w": 19,
+            "c": 0
           }
         ],
         "id": 202
       }
     ],
-    "wholeVaultWordCount": 164905,
-    "wholeVaultCharCount": 2269133
+    "wholeVaultWordCount": 164930,
+    "wholeVaultCharCount": 2269507
   }
 }
