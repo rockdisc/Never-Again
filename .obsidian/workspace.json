@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+                "file": "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACT"
+              "title": "Graph of Formatting the New(Old) Laptop"
             }
           },
           {
@@ -343,10 +343,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1fc4d2d660bcd3a",
+  "active": "412353ea452d23e4",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Some Ideas.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+    "2-Main/0-SORT THIS/Some Ideas.md",
     "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "2-Main/Misc/Linux X Windows.md",
     "Home.md",
