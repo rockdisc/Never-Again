@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "e2cae81a53628316",
+            "id": "c6852a3bcdeca05e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
+                "file": "2-Main/0-SORT THIS/POI Outline.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Formatting the New(Old) Laptop"
+              "title": "Graph of POI Outline"
             }
           },
           {
@@ -343,15 +343,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "412353ea452d23e4",
+  "active": "0a269ae5505fba90",
   "lastOpenFiles": [
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+    "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "6-Images/The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg",
     "6-Images/Claude_Monet,_Impression,_soleil_levant.jpg",
     "6-Images/Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg",
     "6-Images/Arthur_Streeton_-_Golden_summer,_Eaglemont_-_Google_Art_Project.jpg",
     "Home.md",
-    "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
-    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Some Ideas.md",
     "2-Main/Misc/Linux X Windows.md",
     "2-Main/0-SORT THIS/POI Outline.md",
@@ -383,7 +383,6 @@
     "6-Images/W4EM2zd_d.webp",
     "6-Images/waDOIYZ_d.webp",
     "6-Images/v33nska_d.webp",
-    "6-Images/uB3DI0r_d.webp",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "5-School/12",
     "3-Journal/2026/2026-01",
