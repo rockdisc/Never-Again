@@ -56,7 +56,6 @@ Rules for maximizing return on interest on the ACT English section
 #### 2.3.3.1 From Book 
 
 
-
 The predicate verb (main verb of a sentence) is the action that the subject (noun) is
 performing or having performed on it; it can also set up a description of them. To keep things
 simple, you can think of verbs as action words.
@@ -79,6 +78,7 @@ to dance (to + verb is the unconjugated form of a verb)
 conjugated: I/you/we/they dance. (plural + present) | He/She/It will dance. (singular + future)
 incorrect: Because he were disqualified, he were being drops from the final event. (total chaos!)
 correct: Because he was disqualified, he has been dropped from the final event. (ordered)
+
 
 
 Comma, Introductory, list, FANBOYS, Dependent clause first, 
