@@ -52,6 +52,8 @@ Rules for maximizing return on interest on the ACT English section
 - Do not spend too much time on a single problem, especially if you do not know, guess and move on. 
 - Its okay to bail on a problem if it takes too much time, just answer and move on, like if you do not know a grammar rule. 
 
+Figure out what the question is testing you on. 
+
 ### 2.3.3 Specific English Rules to know 
 
 The predicate verb (main verb of a sentence) is the action that the subject (noun) is
@@ -121,3 +123,5 @@ Whom = object case (like him, her, them, or me = a person to whom something happ
 
 ## 2.4 Math 
 ### 2.4.1 General 
+
+45 questions in 50 minutes. They get harder and harder they get sets of 5 at a time. The last 5 are extremely hard. 4 questions will not be graded. 
