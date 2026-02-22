@@ -3114,7 +3114,18 @@
         "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
         "wordCountStart": 1559,
         "charCountStart": 8971,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:00",
+            "w": 2,
+            "c": 14
+          },
+          {
+            "timeKey": "14:05",
+            "w": 4,
+            "c": 32
+          }
+        ],
         "id": 209
       },
       {
@@ -3126,7 +3137,7 @@
         "id": 210
       }
     ],
-    "wholeVaultWordCount": 165008,
-    "wholeVaultCharCount": 2270082
+    "wholeVaultWordCount": 165014,
+    "wholeVaultCharCount": 2270128
   }
 }

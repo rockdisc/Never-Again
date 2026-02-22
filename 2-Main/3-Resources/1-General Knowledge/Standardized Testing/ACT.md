@@ -28,6 +28,7 @@ There are 45 questions with 50 minutes to do them. The first 30 or so questions 
 ## 2.1 Prep 
 2 hours in a class, per week, and do 2 hours outside of class. 
 I will also be teaching people, that will be an hour most likely. 
+https://class101.myprepcourse.com/login
 
 ## 2.2 Format 
 English 50 questions in 35 minutes 
@@ -52,9 +53,6 @@ Rules for maximizing return on interest on the ACT English section
 - Its okay to bail on a problem if it takes too much time, just answer and move on, like if you do not know a grammar rule. 
 
 ### 2.3.3 Specific English Rules to know 
-
-#### 2.3.3.1 From Book 
-
 
 The predicate verb (main verb of a sentence) is the action that the subject (noun) is
 performing or having performed on it; it can also set up a description of them. To keep things
@@ -121,3 +119,5 @@ gerund (noun): I appreciate your lending me the car. ("lending" is the object of
 Who = subject case (like he, she, they, or I = a person who performs an action)
 Whom = object case (like him, her, them, or me = a person to whom something happens)
 
+## 2.4 Math 
+### 2.4.1 General 
