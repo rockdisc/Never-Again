@@ -2,7 +2,7 @@
   "cssTheme": "Omarchy",
   "showRibbon": false,
   "baseFontSizeAction": true,
-  "baseFontSize": 23,
+  "baseFontSize": 30,
   "enabledCssSnippets": [
     "dashboard",
     "timesNewRoman"
