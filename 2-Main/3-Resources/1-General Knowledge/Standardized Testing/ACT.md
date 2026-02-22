@@ -124,4 +124,5 @@ Whom = object case (like him, her, them, or me = a person to whom something happ
 ## 2.4 Math 
 ### 2.4.1 General 
 
-45 questions in 50 minutes. They get harder and harder they get sets of 5 at a time. The last 5 are extremely hard. 4 questions will not be graded. 
+45 questions in 50 minutes. They get harder and harder they get sets of 5 at a time. The last 5 are extremely hard. 4 questions will not be graded. They will go over algebra, numbers/quantity, functions, geometry, and stats. 
+The time I took it in class it I got a 32, which is one more than last time. I started getting them wrong past question 39. 
