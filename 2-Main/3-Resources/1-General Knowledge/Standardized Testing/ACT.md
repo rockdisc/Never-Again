@@ -80,21 +80,6 @@ incorrect: Because he were disqualified, he were being drops from the final even
 correct: Because he was disqualified, he has been dropped from the final event. (ordered)
 
 
-
-Comma, Introductory, list, FANBOYS, Dependent clause first, 
-• Do NOT put a comma between two clauses that share a subject (if subject is not repeated).
-incorrect:The house is affordable, but is near a landfill.(subject not repeated + comma)
-correct:The house is affordable but is near a landfill.(subject not repeated + no comma)
-correct:The house is affordable, but it is near a landfill. (repeated subject + comma)
-Do NOT put a comma directly before or after a preposition.*
-incorrect: After surfing, at the peninsula, since dawn, Lisa met Eric at, Nic's Deli, for a breakfast burrito, before heading to, campus, for class.
-correct: After surfing at the peninsula since dawn, Lisa met Eric at Nic's Deli for a breakfast burrito before heading to campus for class.
-Do NOT put a comma directly before or after the word "that." *
-incorrect:Ed was disappointed to learn, that Petunia had called him a toad.
-incorrect:Ed was disappointed to learn that, Petunia had called him a toad.
-correct:Ed was disappointed to learn that Petunia had called him a toad.
-The * have exceptions.  
-
 Information is RELEVANT if it:
 1. adds information that relates to the topic in a specific way
 2. advances or supports the central idea of the passage
@@ -120,6 +105,21 @@ gerund (noun): I appreciate your lending me the car. ("lending" is the object of
 
 Who = subject case (like he, she, they, or I = a person who performs an action)
 Whom = object case (like him, her, them, or me = a person to whom something happens)
+
+
+Comma, Introductory, list, FANBOYS, Dependent clause first, 
+• Do NOT put a comma between two clauses that share a subject (if subject is not repeated).
+incorrect:The house is affordable, but is near a landfill.(subject not repeated + comma)
+correct:The house is affordable but is near a landfill.(subject not repeated + no comma)
+correct:The house is affordable, but it is near a landfill. (repeated subject + comma)
+Do NOT put a comma directly before or after a preposition.*
+incorrect: After surfing, at the peninsula, since dawn, Lisa met Eric at, Nic's Deli, for a breakfast burrito, before heading to, campus, for class.
+correct: After surfing at the peninsula since dawn, Lisa met Eric at Nic's Deli for a breakfast burrito before heading to campus for class.
+Do NOT put a comma directly before or after the word "that." *
+incorrect:Ed was disappointed to learn, that Petunia had called him a toad.
+incorrect:Ed was disappointed to learn that, Petunia had called him a toad.
+correct:Ed was disappointed to learn that Petunia had called him a toad.
+The * have exceptions.  
 
 ## 2.4 Math 
 ### 2.4.1 General 
