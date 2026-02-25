@@ -5,7 +5,8 @@
   "baseFontSize": 30,
   "enabledCssSnippets": [
     "dashboard",
-    "timesNewRoman"
+    "timesNewRoman",
+    "two-column"
   ],
   "textFontFamily": "",
   "showViewHeader": true,

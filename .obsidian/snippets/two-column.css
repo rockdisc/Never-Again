@@ -1,0 +1,9 @@
+.markdown-preview-view {
+  column-count: 2;
+  column-gap: 40px;
+}
+
+.markdown-source-view.mod-cm6 .cm-content {
+  column-count: 2;
+  column-gap: 40px;
+}

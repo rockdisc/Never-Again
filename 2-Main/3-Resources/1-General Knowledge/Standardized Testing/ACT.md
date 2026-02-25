@@ -128,3 +128,5 @@ The * have exceptions.
 The time I took it in class it I got a 32, which is one more than last time. I started getting them wrong past question 39. The reason I got things wrong was because I did not check my answers and went too fast through the test. If I did not do that, there were only 3 questions I truly did not know how to do. This means I would have gotten a 36. 
 
 ### 2.4.2 Test Taking Tips 
+
+
