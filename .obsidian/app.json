@@ -6,7 +6,8 @@
   "newFileFolderPath": "2-Main/0-SORT THIS",
   "attachmentFolderPath": "6-Images",
   "showInlineTitle": true,
-  "showLineNumber": true,
-  "readableLineLength": true,
-  "spellcheck": true
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "strictLineBreaks": false
 }

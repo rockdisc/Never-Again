@@ -3317,6 +3317,20 @@
         "charCountStart": 965,
         "changes": [],
         "id": 225
+      },
+      {
+        "date": "2026-02-25",
+        "filePath": "2-Main/2-Areas/1-Writing/Oneoffs/There are No Tombs in the Desert.md",
+        "wordCountStart": 2538,
+        "charCountStart": 12969,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 226
       }
     ],
     "wholeVaultWordCount": 165308,
