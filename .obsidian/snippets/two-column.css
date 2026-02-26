@@ -1,9 +1,28 @@
-.markdown-preview-view {
+/* ===== TWO COLUMN LAYOUT ===== */
+
+/* Reading Mode */
+.markdown-reading-view .markdown-preview-sizer {
   column-count: 2;
-  column-gap: 90px;
+  column-gap: 100px;
 }
 
-.markdown-source-view.mod-cm6 .cm-content {
+/* Live Preview */
+.markdown-source-view.mod-cm6.is-live-preview .cm-contentContainer {
   column-count: 2;
-  column-gap: 90px;
+  column-gap: 100px;
+}
+
+/* Prevent headings from splitting */
+h1, h2, h3, h4, h5, h6 {
+  break-after: avoid-column;
+}
+
+/* Prevent images from splitting */
+img {
+  break-inside: avoid;
+}
+
+/* Make code blocks stay intact */
+pre {
+  break-inside: avoid;
 }
