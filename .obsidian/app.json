@@ -9,5 +9,7 @@
   "showLineNumber": false,
   "readableLineLength": false,
   "spellcheck": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true
 }
