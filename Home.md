@@ -22,9 +22,11 @@ actions:
 
 > [!todo]  Today
 > - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
-> - [ ] Create personal AI 
+
 
 > [!warning] Homework
+> - Physics 
+> - ELA
 
 > [!warning]  Run On
 > - [ ] Gnosticism 
@@ -39,8 +41,8 @@ actions:
 > - [ ] Download music and anime 
 > - [ ] Customize rmpc
 > - [ ] Download podcasts and audiobooks 
-> - [ ] Set up extra laptop 
-> - [ ] Reinstall Spicetify 
+> - [ ] Set up extra laptop
+> - [ ] Create personal AI 
 
 > [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
