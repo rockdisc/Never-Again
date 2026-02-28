@@ -45,16 +45,7 @@ Of the 50 questions: 38-43% is Grammar, such as commas. Another is Production of
 When I took this one at the start of second time prepping, I got a 28, which is higher by two. 
 
 ### 2.3.2 Test Taking Tips 
-Most of the question stems will be "Which is most grammatically correct?" And these stems have no use, skim over them and get to what it is telling you to look at. There are though some that are useful, and some that are really useful. Useful ones will isolate a few things you can look for in the text. And the really useful ones are checklists, honestly some of them you do not even need to look at the text to find the right answer for. 
-Use the other test taking strategies here as well, process of elimination, and narrowing it down to 2 answers. 20% of your answers will be no change. 
 
-Rules for maximizing return on interest on the ACT English section
-- Do not spend too much time on a single problem, especially if you do not know, guess and move on. 
-- Its okay to bail on a problem if it takes too much time, just answer and move on, like if you do not know a grammar rule. 
-
-Figure out what the question is testing you on. 
-
-### 2.3.3 Specific English Rules to know 
 
 
 The predicate verb (main verb of a sentence) is the action that the subject (noun) is
@@ -79,6 +70,18 @@ to dance (to + verb is the unconjugated form of a verb)
 conjugated: I/you/we/they dance. (plural + present) | He/She/It will dance. (singular + future)
 incorrect: Because he were disqualified, he were being drops from the final event. (total chaos!)
 correct: Because he was disqualified, he has been dropped from the final event. (ordered)
+
+
+Most of the question stems will be "Which is most grammatically correct?" And these stems have no use, skim over them and get to what it is telling you to look at. There are though some that are useful, and some that are really useful. Useful ones will isolate a few things you can look for in the text. And the really useful ones are checklists, honestly some of them you do not even need to look at the text to find the right answer for. 
+Use the other test taking strategies here as well, process of elimination, and narrowing it down to 2 answers. 20% of your answers will be no change. 
+
+Rules for maximizing return on interest on the ACT English section
+- Do not spend too much time on a single problem, especially if you do not know, guess and move on. 
+- Its okay to bail on a problem if it takes too much time, just answer and move on, like if you do not know a grammar rule. 
+
+Figure out what the question is testing you on. 
+
+### 2.3.3 Specific English Rules to know 
 
 
 

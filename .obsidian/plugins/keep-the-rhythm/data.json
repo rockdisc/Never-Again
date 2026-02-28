@@ -3415,14 +3415,6 @@
       },
       {
         "date": "2026-02-28",
-        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
-        "wordCountStart": 1694,
-        "charCountStart": 9676,
-        "changes": [],
-        "id": 236
-      },
-      {
-        "date": "2026-02-28",
         "filePath": "2-Main/2-Areas/1-Writing/Oneoffs/There are No Tombs in the Desert.md",
         "wordCountStart": 2538,
         "charCountStart": 12969,
@@ -3510,9 +3502,23 @@
         "charCountStart": 218,
         "changes": [],
         "id": 242
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+        "wordCountStart": 1428,
+        "charCountStart": 8041,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 266,
+            "c": 1638
+          }
+        ],
+        "id": 243
       }
     ],
     "wholeVaultWordCount": 165282,
-    "wholeVaultCharCount": 2272125
+    "wholeVaultCharCount": 2272128
   }
 }
