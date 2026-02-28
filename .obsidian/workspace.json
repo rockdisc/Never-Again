@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "a026fd2973c0e22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Main/2-Areas/1-Writing/Oneoffs/There are No Tombs in the Desert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "There are No Tombs in the Desert"
-            }
-          },
-          {
             "id": "df3464b5565b6727",
             "type": "leaf",
             "state": {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             }
           },
           {
-            "id": "b0569025ac4d56c9",
+            "id": "7e60811e7704fe5b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -193,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+                "file": "2-Main/0-SORT THIS/Wizard Towers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACT"
+              "title": "Graph of Wizard Towers"
             }
           },
           {
@@ -357,14 +343,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76aa0a8074bd04da",
+  "active": "2cb7c125ec09b5e3",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/Wizard Towers.md",
-    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "Home.md",
-    "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "2-Main/0-SORT THIS/Music I want Downloaded.md",
     "2-Main/2-Areas/1-Writing/Oneoffs/There are No Tombs in the Desert.md",
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+    "2-Main/0-SORT THIS/Wizard Towers.md",
+    "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "2-Main/0-SORT THIS/POI Outline.md",
     "6-Images/The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg",
     "6-Images/Claude_Monet,_Impression,_soleil_levant.jpg",

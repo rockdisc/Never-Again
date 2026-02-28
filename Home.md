@@ -23,7 +23,6 @@ actions:
 > [!todo]  Today
 > - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
 
-
 > [!warning] Homework
 > - Physics 
 > - ELA
