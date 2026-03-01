@@ -141,6 +141,8 @@ The time I took it in class it I got a 32, which is one more than last time. I s
 ### 2.5.1 General 
 4 passages, 1 not scored, though this will not be 1 and 4. A good strategy is to do passage 1 and 4. Do [[Active Reading]] and mark up the passage, along with process of elimination. Of the 4 passages, there could be ones with data graphs or twin passages. They will be humanities, social sciences, natural sciences, and literary narratives. 36 questions, 9 per passage. 40 minutes.
 
+I got a 33 this time, a lot more than my 28 last time. I might actually aim for a 36 on here as well. 
+
 Tips:
 Do not allow yourself to get stuck.
 Keep it literal for meaning.
