@@ -139,7 +139,7 @@ Spend more time on the harder questions.
 ## 2.5 Reading 
 
 ### 2.5.1 General 
-4 passages, 1 not scored, though this will not be 1 and 4. A good strategy is to do passage 1 and 4. Do [[Active Reading]] and mark up the passage, along with process of elimination. Of the 4 passages, there could be ones with data graphs or twin passages. They will be humanities, social sciences, natural sciences, and literary narratives. 36 questions, 9 per passage. 40 minutes. Spend 2-3 minutes on reading and the rest on questions. 
+4 passages, 1 not scored, though this will not be 1 and 4. A good strategy is to do passage 1 and 4. Do [[Active Reading]] and mark up the passage, along with process of elimination. Of the 4 passages, there could be ones with data graphs or paired passages. They will be humanities, social sciences, natural sciences, and literary narratives. 36 questions, 9 per passage. 40 minutes. Spend 2-3 minutes on reading and the rest on questions. 
 
 I got a 33 this time, a lot more than my 28 last time. I might actually aim for a 36 on here as well. 
 
@@ -162,5 +162,5 @@ Skim the passage (Mark up)
 There is really no need to read the passage word for word, as long as you create landmarks in the passage so you know where things are. 
 
 
-On twin passages the first 3 questions will be about the first, then the second, and finally both of them. Read the first passage, answer the first questions, and so on. 
+On paired passages the first 3 questions will be about the first, then the second, and finally both of them. Read the first passage, answer the first questions, and so on. 
 Localized questions first, then global questions, unless main idea, that can be answered without looking at the passage most of the time.

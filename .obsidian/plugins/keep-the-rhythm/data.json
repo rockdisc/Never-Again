@@ -3557,6 +3557,11 @@
             "timeKey": "15:00",
             "w": 3,
             "c": 20
+          },
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 4
           }
         ],
         "id": 244
@@ -3600,9 +3605,28 @@
         "charCountStart": 141,
         "changes": [],
         "id": 249
+      },
+      {
+        "date": "2026-03-01",
+        "filePath": "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
+        "wordCountStart": 591,
+        "charCountStart": 6697,
+        "changes": [
+          {
+            "timeKey": "15:05",
+            "w": 19,
+            "c": 97
+          },
+          {
+            "timeKey": "15:10",
+            "w": 4,
+            "c": -104
+          }
+        ],
+        "id": 250
       }
     ],
-    "wholeVaultWordCount": 165550,
-    "wholeVaultCharCount": 2273667
+    "wholeVaultWordCount": 165573,
+    "wholeVaultCharCount": 2273664
   }
 }
