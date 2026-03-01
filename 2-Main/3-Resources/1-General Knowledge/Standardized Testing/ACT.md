@@ -164,3 +164,9 @@ There is really no need to read the passage word for word, as long as you create
 
 On paired passages the first 3 questions will be about the first, then the second, and finally both of them. Read the first passage, answer the first questions, and so on. 
 Localized questions first, then global questions, unless main idea, that can be answered without looking at the passage most of the time.
+
+
+## 2.6 Science
+
+### 2.6.1 General 
+This is optional, but you should take it. 40 minutes and 40 questions. 6 will not be scored, aka one passage. 7 passages total. 2 will be data, 3 is a research summary, and 1 is conf

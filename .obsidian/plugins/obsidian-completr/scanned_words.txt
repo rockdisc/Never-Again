@@ -27395,6 +27395,7 @@ dawn
 disappointed
 dtmf
 dmenu
+debian
 and
 anything
 am
@@ -29065,6 +29066,7 @@ advances
 accent
 aether
 aim
+alternative
 mirages
 miles
 man
@@ -49789,6 +49791,7 @@ prepping
 programs
 prevent
 podcasts
+paired
 kept
 know
 knew
@@ -60345,6 +60348,7 @@ Doom
 Dolphin
 Dark
 DmTF
+Debian
 Keter
 Knowing
 Kyling
@@ -67843,6 +67847,7 @@ Fun
 Format
 FANBOYS
 Fantasy
+Firefox
 Veins
 Vim
 Venus
