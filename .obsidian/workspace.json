@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
+                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Colleges to Apply to"
+              "title": "Graph of ACT"
             }
           },
           {
@@ -371,8 +371,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "920fae5693a98c49",
+  "active": "a1f2b0ecf3c507b2",
   "lastOpenFiles": [
+    "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "Home.md",
     "2-Main/0-SORT THIS/Music I want Downloaded.md",
@@ -404,7 +405,6 @@
     "3-Journal/2025/2025-07/2025-07-24.md",
     "3-Journal/2025/2025-07/2025-07-23.md",
     "3-Journal/2025/2025-07/2025-07-22.md",
-    "3-Journal/2025/2025-07/2025-07-21.md",
     "3-Journal/2026/2026-02",
     "6-Images/x7iHt42_d.webp",
     "6-Images/t5bj3fw_d.webp",
