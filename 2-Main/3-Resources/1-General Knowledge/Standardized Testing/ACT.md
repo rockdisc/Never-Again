@@ -135,3 +135,23 @@ The time I took it in class it I got a 32, which is one more than last time. I s
 ### 2.4.2 Test Taking Tips 
 
 
+
+## 2.5 Reading 
+
+### 2.5.1 General 
+4 passages, 1 not scored, though this will not be 1 and 4. A good strategy is to do passage 1 and 4. Do [[Active Reading]] and mark up the passage, along with process of elimination. Of the 4 passages, there could be ones with data graphs or twin passages. They will be humanities, social sciences, natural sciences, and literary narratives. 36 questions, 9 per passage. 40 minutes.
+
+Tips:
+Do not allow yourself to get stuck.
+Keep it literal for meaning.
+
+Common wrong answers: 
+- One word of phrase that is wrong, it will normally be perfect without this part, even if this small thing is wrong, the whole answer is wrong. Prefer verbatim 
+- Over generalization 
+- True statement that does not answer the question 
+- Overly restrictive language 
+
+
+Strategy: 
+Map the passage(topic sentences)
+Skim the passage (Mark up)
