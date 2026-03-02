@@ -3119,6 +3119,8 @@ Enter
 Eric
 Editor
 Eyez
+Estimate
+Elementary
 Classic
 Consept
 Character
@@ -4719,6 +4721,8 @@ CLI
 Customize
 Clipse
 Carti
+Converting
+Chem
 Modern
 Mini
 My
@@ -11479,6 +11483,7 @@ Powerprofile
 Pimp
 Playboi
 Prefer
+Percent
 Worldbuilding
 WWII
 Wake
@@ -18844,6 +18849,7 @@ inspirations
 informational
 isolate
 impressionism
+introduction
 to
 the
 there
@@ -22213,6 +22219,7 @@ burrito
 breaks
 brownish
 blueish
+biology
 so
 sand
 spend
@@ -25694,6 +25701,7 @@ virtue
 valuing
 verb
 verbatim
+viewpoints
 desert
 due
 dark
@@ -29067,6 +29075,7 @@ accent
 aether
 aim
 alternative
+atmosphere
 mirages
 miles
 man
@@ -34424,6 +34433,7 @@ configuration
 cli
 cmus
 contrast
+conflicting
 entire
 endless
 everything
@@ -40532,6 +40542,7 @@ Tips
 Tuplas
 Twisted
 Team
+Trend
 goat
 going
 get
@@ -48036,6 +48047,7 @@ jobs
 jest
 journaled
 journaling
+jargon
 past
 people
 pink
@@ -52741,6 +52753,7 @@ Nah
 Nvim
 Newsboat
 Notifications
+Numbers
 According
 Albert
 Avert
@@ -72094,6 +72107,7 @@ Yup
 Young
 Yoga
 Yazi
+Yield
 Using
 Until
 UNUSED
