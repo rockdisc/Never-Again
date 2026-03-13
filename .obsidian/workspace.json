@@ -49,8 +49,7 @@
               "title": "Formatting the New(Old) Laptop"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Formatting the New(Old) Laptop"
+              "title": "Graph of Home"
             }
           },
           {
@@ -329,15 +328,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51c93ce4b88df98d",
+  "active": "6f16fdb242d64e75",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "Home.md",
     "Templates/Session Arouran.md~",
     "2-Main/0-SORT THIS/Music I want Downloaded.md",
     "2-Main/0-SORT THIS/Wizard Towers.md",
     "2-Main/3-Resources/3-Humanities/Esotericism/Kabbalah.md",
-    "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Illinois Tech.md",
     "2-Main/2-Areas/1-Writing/Oneoffs/There are No Tombs in the Desert.md",
