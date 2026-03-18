@@ -1,3 +1,3 @@
 #Worldbuilding/Location 
 
-Home of the [[Gods]]
+Home of the [[Gods(DND)]]

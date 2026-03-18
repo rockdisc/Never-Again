@@ -1,3 +1,3 @@
 #DND/Misadventurers/NPC 
 
-[[Gods]] of trickery 
+[[Gods(DND)]] of trickery 

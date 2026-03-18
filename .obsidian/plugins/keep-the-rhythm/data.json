@@ -393,7 +393,7 @@
       },
       {
         "date": "2025-12-28",
-        "filePath": "4-DND/Misadventurers/2-Main/Gods.md",
+        "filePath": "4-DND/Misadventurers/2-Main/Gods(DND).md",
         "wordCountStart": 25,
         "charCountStart": 179,
         "changes": [],
@@ -3874,6 +3874,22 @@
         "charCountStart": 1357,
         "changes": [],
         "id": 276
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "Home.md",
+        "wordCountStart": 166,
+        "charCountStart": 1102,
+        "changes": [],
+        "id": 277
+      },
+      {
+        "date": "2026-03-18",
+        "filePath": "4-DND/Misadventurers/2-Main/Gods(DND).md",
+        "wordCountStart": 25,
+        "charCountStart": 179,
+        "changes": [],
+        "id": 278
       }
     ],
     "wholeVaultWordCount": 168380,

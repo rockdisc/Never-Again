@@ -1,3 +1,3 @@
 #DND/Misadventurers/NPC 
 
-Dead [[Gods]] of Death
+Dead [[Gods(DND)]] of Death
