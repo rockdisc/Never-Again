@@ -6,7 +6,7 @@ Lives in the [[Mint Hook Mountains]]
 Sleeping in the Holy land of the [[Jotuns]] though supports the [[Vylers]]
 One of the [[Variables]]
 
-Due to the [[Vylers]] support, he gained the powers of a [[Gods]]
+Due to the [[Vylers]] support, he gained the powers of a [[Gods(DND)]]
 He is one of the [[Archspirits]]
 
 ## Powers

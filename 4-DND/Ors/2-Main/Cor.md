@@ -6,7 +6,7 @@ Lives near [[Elvaghiem]] and the [[Maelstrom]]
 Supports the [[Elvagars]]
 One of the [[Variables]]
 
-Due to the [[Elvagars]] support, he gained the powers of a [[Gods]]
+Due to the [[Elvagars]] support, he gained the powers of a [[Gods(DND)]]
 He is one of the [[Archspirits]]
 
 ## Powers

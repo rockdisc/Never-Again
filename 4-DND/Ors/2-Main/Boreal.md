@@ -7,7 +7,7 @@ Wants destruction for freedom and supports the [[Jotuns]]
 Caused the [[Devourment]] of the [[Tornado]]
 One of the [[Variables]]
 
-Due to the [[Vylers]] support, he gained the powers of a [[Gods]]
+Due to the [[Vylers]] support, he gained the powers of a [[Gods(DND)]]
 He is one of the [[Archspirits]]
 
 ## Powers
