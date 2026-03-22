@@ -84,5 +84,14 @@
       ],
       "key": "O"
     }
-  ]
+  ],
+  "footnotes:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": []
 }

@@ -21,13 +21,13 @@ actions:
 ## To-do
 
 > [!todo]  Today
-> - [ ] Make my POI, about colonialism and Debi tomar mas fotos 
 
 > [!warning] Homework
 
 > [!warning]  Run On
 > - [ ] Gnosticism 
 > - [ ] Start writing about my inspirations in media 
+> - [ ] Organize 
 > - [ ] Write something, preferably start CSULT 
 > - [ ] Hermeticism
 > - [ ] Neoplatonism
@@ -38,8 +38,6 @@ actions:
 > - [ ] Download music and anime 
 > - [ ] Customize rmpc
 > - [ ] Download podcasts and audiobooks 
-> - [ ] Set up extra laptop
-> - [ ] Create personal AI 
 
 > [!info] Later   
 > - [ ] Make the report pictures the poster or covers. 
