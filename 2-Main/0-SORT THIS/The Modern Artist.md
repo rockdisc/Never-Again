@@ -1,4 +1,6 @@
+#Speech/Info 
 
+# 0 Brainstorm 
 You walk into an art museum, renaissance paintings, statues depicting humans with perfect anatomical accuracy, and finally when you get near the end, the biggest and most important exhibit the museum wants you to remember, a giant canvas the size of a wall filled with red yellow and blue [PICTURE]. What is that? 
 There are a lot of ways to describe modern art, to the public a few come to mind. Useless, meaningless, excuse for money-laundering, or a disgrace on the history of art. But is that really the case? Why do enthusiasts like them so much?
 FRAMING DEVICE 
@@ -42,3 +44,14 @@ The Levitating stone 
 Money Laundering (is it about the price, and it is actually classical art where the money is at)
 Thomas King Cade and what is means to have a good painting
 Jean-Michel Basquiat and Untitled, the harsh
+
+# 1 First Draft 
+
+
+# 2 Revised Draft 
+Imagine this: you are walking through an art museum, renaissance paintings to your right, anatomically accurate sculptures to your left, and you entire this main hall, assuming you would see the greatest painting ever made, and you see this. {Picture} 
+What is that? Its just a block of red!
+Modern art has been described in a lot of ways: useless, meaningless, or just an excuse for money laundering, but if that's the case, why do so many art critics and museum curators love it so much? 
+To understand that we will have to go through that museum one more time and look around, what art belongs in a museum? Then lets put on our snobby glasses and really look at the paintings, how exactly are you supposed to look at art? And finally, take a step back and look at the art for what it is. 
+
+Walking through the museum we will see these two paintings{Picture}. The top is Lucifer by Jackson Pollock, below it is Christmas Service by Thomas Kincade. Starting with Pollock's work: according to the Stanford Gallery Lucifer is 8 feet wide and he painted it by getting a bucket of paint, dipping his brush and throwing it across the canvas
