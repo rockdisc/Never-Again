@@ -1581,6 +1581,7 @@ Beautiful
 Bunny
 Bachelor
 Brainstorm
+Beholder
 Ela
 Essay
 East
@@ -4726,6 +4727,7 @@ Converting
 Chem
 Coates
 Christmas
+Conlang
 Modern
 Mini
 My
@@ -6381,6 +6383,7 @@ Might
 Moral
 Misc
 Mecca
+Mapping
 Summary
 So
 Someone
@@ -8205,6 +8208,10 @@ Sort
 Sephirot
 Spend
 Skim
+STEM
+Stargazing
+Strangeness
+Sciences
 Interesting
 In
 If
@@ -22229,6 +22236,8 @@ brownish
 blueish
 biology
 belongs
+blank
+bares
 so
 sand
 spend
@@ -24435,6 +24444,7 @@ sciences
 statement
 sculptures
 snobby
+swapping
 vast
 very
 vibrant
@@ -27417,6 +27427,8 @@ dmenu
 debian
 disjointed
 dipping
+dotted
+distract
 and
 anything
 am
@@ -34452,6 +34464,7 @@ coach
 critics
 curators
 comments
+carefully
 entire
 endless
 everything
@@ -36086,6 +36099,7 @@ enhances
 elimination
 extremely
 express
+explanations
 life
 leather
 long
@@ -37628,6 +37642,8 @@ landfill
 lean
 literal
 landmarks
+lined
+locational
 on
 other
 of
@@ -40562,6 +40578,8 @@ Tuplas
 Twisted
 Team
 Trend
+Themes
+Tarrasque
 goat
 going
 get
@@ -42038,6 +42056,7 @@ godly
 graphs
 generalization
 glasses
+graphed
 use
 until
 used
@@ -52778,6 +52797,8 @@ Nvim
 Newsboat
 Notifications
 Numbers
+Niche
+Nature
 According
 Albert
 Avert
@@ -57514,6 +57535,8 @@ Grows
 Godspeed
 Gpodder
 Gallery
+Graphing
+Gnoll
 He
 Hunt
 Heaven
@@ -60388,6 +60411,8 @@ Dolphin
 Dark
 DmTF
 Debian
+Displacer
+Dotted
 Keter
 Knowing
 Kyling
@@ -63339,6 +63364,8 @@ Lotta
 Lit
 Localized
 Lot
+Lined
+Lich
 Johan
 Jupiter
 Jotuns
@@ -67890,6 +67917,7 @@ Format
 FANBOYS
 Fantasy
 Firefox
+Flayer
 Veins
 Vim
 Venus
@@ -70720,6 +70748,7 @@ Opacity
 OpenTabletDriver
 Off
 Overly
+Owlbear
 Yesterday
 Yellow
 Yggdrasil
