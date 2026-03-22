@@ -41,22 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Main/0-SORT THIS/New Notebooks.md",
+                "file": "2-Main/0-SORT THIS/Notebooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Notebooks"
-            }
-          },
-          {
-            "id": "5f7528ba3c49fdee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Notebooks"
             }
           }
         ],
@@ -175,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/New Notebooks.md",
+                "file": "2-Main/0-SORT THIS/Notebooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -203,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of New Notebooks"
+              "title": "Graph of Notebooks"
             }
           },
           {
@@ -341,6 +331,8 @@
   },
   "active": "a56567472038eda8",
   "lastOpenFiles": [
+    "2-Main/Misc/Book of Knowledge.md",
+    "2-Main/0-SORT THIS/Notebooks.md",
     "2-Main/0-SORT THIS/New Notebooks.md",
     "Home.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
@@ -370,8 +362,6 @@
     "6-Images/Claude_Monet,_Impression,_soleil_levant.jpg",
     "6-Images/Camille_Pissarro_-_Boulevard_Montmartre_-_Eremitage.jpg",
     "6-Images/Arthur_Streeton_-_Golden_summer,_Eaglemont_-_Google_Art_Project.jpg",
-    "2-Main/0-SORT THIS/Some Ideas.md",
-    "2-Main/Misc/Linux X Windows.md",
     "Backup 2-14-26.zip",
     "6-Images/Backup 2-14-26.zip",
     "3-Journal/2026/2026-02",
