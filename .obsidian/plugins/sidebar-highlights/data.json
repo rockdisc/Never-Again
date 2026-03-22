@@ -357,6 +357,22 @@
         "createdAt": 1774145212477,
         "isNativeComment": false,
         "type": "highlight"
+      },
+      {
+        "id": "s98ykxjpv",
+        "text": "throwing",
+        "tags": [],
+        "line": 56,
+        "startOffset": 3824,
+        "endOffset": 3836,
+        "filePath": "2-Main/0-SORT THIS/The Modern Artist.md",
+        "footnoteCount": 1,
+        "footnoteContents": [
+          "Add a lot of emphasis on this"
+        ],
+        "createdAt": 1774208520355,
+        "isNativeComment": false,
+        "type": "highlight"
       }
     ]
   },
@@ -368,9 +384,9 @@
   "showFilenames": true,
   "showTimestamps": false,
   "showHighlightActions": true,
-  "showToolbar": false,
+  "showToolbar": true,
   "autoToggleFold": true,
-  "useInlineFootnotes": true,
+  "useInlineFootnotes": false,
   "selectTextOnCommentClick": false,
   "excludeExcalidraw": true,
   "excludedFiles": [],
@@ -387,7 +403,7 @@
   "detectAdjacentNativeComments": true,
   "customPatterns": [],
   "customColors": {
-    "yellow": "#ffd700",
+    "yellow": "#c5b69b",
     "red": "#ff6b6b",
     "teal": "#4ecdc4",
     "blue": "#45b7d1",
@@ -400,14 +416,14 @@
     "blue": "",
     "green": ""
   },
-  "showCurrentNoteTab": true,
-  "showAllNotesTab": true,
-  "showCollectionsTab": true,
+  "showCurrentNoteTab": false,
+  "showAllNotesTab": false,
+  "showCollectionsTab": false,
   "showTasksTab": false,
-  "showCompletedTasks": true,
-  "showTaskContext": true,
+  "showCompletedTasks": false,
+  "showTaskContext": false,
   "taskDateFormat": "YYYY-MM-DD",
-  "showCurrentNoteTasksSection": true,
+  "showCurrentNoteTasksSection": false,
   "showOnlyCurrentNoteTasks": false,
   "displayModes": [],
   "currentDisplayModeId": null
