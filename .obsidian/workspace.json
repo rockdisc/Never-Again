@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACT"
+              "title": "Graph of Home"
             }
           },
           {
@@ -343,8 +343,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9d5eae3ba7be14e",
+  "active": "e6a9f4aea8cb1a7e",
   "lastOpenFiles": [
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "Home.md",
     "2-Main/0-SORT THIS/Notebooks.md",
     "2-Main/0-SORT THIS/Grip, Twist, and Split.md",
@@ -363,7 +364,6 @@
     "3-Journal/2026/2026-02/2026-02-04.md",
     "3-Journal/2026/2026-02/2026-02-05.md",
     "3-Journal/2026/2026-02/2026-02-06.md",
-    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Formatting the New(Old) Laptop.md",
     "2-Main/3-Resources/1-General Knowledge/Colleges/Colleges to Apply to.md",
     "Templates/Session Arouran.md~",
