@@ -135,6 +135,7 @@ The time I took it in class it I got a 32, which is one more than last time. I s
 ### 2.4.2 Test Taking Tips 
 Spend more time on the harder questions. 
 
+The equation for the area of a trapezoid is $a=h \frac{b_{1}+b_{2}}{2}$
 
 ## 2.5 Reading 
 
