@@ -1,5 +1,6 @@
 ---
 banner: "![[1373839.png]]"
+banner_y: 0.5
 ---
 
 
@@ -21,6 +22,7 @@ actions:
 ## To-do
 
 > [!todo]  Today
+> - [ ] find a way of adding comments 
 
 > [!warning] Homework
 

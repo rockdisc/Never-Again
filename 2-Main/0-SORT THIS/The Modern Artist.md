@@ -50,10 +50,8 @@ Jean-Michel Basquiat and Untitled, the harsh
 
 # 2 Revised Draft 
 Imagine this: you are walking through an art museum, renaissance paintings to your right, anatomically accurate sculptures to your left, and you entire this main hall, assuming you would see the greatest painting ever made, and you see this. {Picture}
-What is that? Its just a block of red!^1
+What is that? Its just a block of red!
 Modern art has been described in a lot of ways: useless, meaningless, or just an excuse for money laundering, but if that's the case, why do so many art critics and museum curators love it so much? 
 To understand that we will have to go through that museum one more time and look around, what art belongs in a museum? Then lets put on our snobby glasses and really look at the paintings, how exactly are you supposed to look at art? And finally, take a step back and look at the art for what it is. 
 
-Walking through the museum we will see these two paintings{Picture}. The top is Lucifer by Jackson Pollock, below it is Christmas Service by Thomas Kincade. Starting with Pollock's work: according to the Stanford Gallery Lucifer is 8 feet wide and he painted it by getting a bucket of paint, dipping his brush and throwing it across the canvas. He said in a radio interview that the renaissance styles of painting just could not express the modern day, they could not show the
-
-[^1]: Lot of Emphasis
+Walking through the museum we will see these two paintings{Picture}. The top is Lucifer by Jackson Pollock, below it is Christmas Service by Thomas Kincade. Starting with Pollock's work: according to the Stanford Gallery Lucifer is 8 feet wide and he painted it by getting a bucket of paint, dipping his brush and throwing it across the canvas. He said in a radio interview that the renaissance styles of painting just could not express the modern day, they could not show the 
