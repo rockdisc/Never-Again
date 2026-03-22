@@ -3933,14 +3933,14 @@
           },
           {
             "timeKey": "21:05",
-            "w": 0,
-            "c": 3
+            "w": -12,
+            "c": -57
           }
         ],
         "id": 280
       }
     ],
-    "wholeVaultWordCount": 168618,
-    "wholeVaultCharCount": 2292178
+    "wholeVaultWordCount": 168606,
+    "wholeVaultCharCount": 2292118
   }
 }
