@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "72a7d36121c79317",
+            "id": "ca823280ebdeae38",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -179,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+                "file": "2-Main/0-SORT THIS/Notebooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACT"
+              "title": "Graph of Notebooks"
             }
           },
           {
@@ -354,10 +354,10 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "d9d5eae3ba7be14e",
+  "active": "a56567472038eda8",
   "lastOpenFiles": [
-    "2-Main/0-SORT THIS/The Modern Artist.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+    "2-Main/0-SORT THIS/The Modern Artist.md",
     "Home.md",
     "2-Main/0-SORT THIS/Notebooks.md",
     "2-Main/0-SORT THIS/Grip, Twist, and Split.md",
