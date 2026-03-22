@@ -24,6 +24,7 @@ actions:
 > [!todo]  Today
 > - [ ] find a way of adding comments 
 > - [ ] Try out pi-hole 
+> - [ ] Cold email professors about asking to do summer internships and/or help with research 
 
 > [!warning] Homework
 
