@@ -24,7 +24,6 @@ actions:
 > [!todo]  Today
 > - [ ] find a way of adding comments 
 > - [ ] Try out pi-hole 
-> - [ ] Organize my room 
 
 > [!warning] Homework
 
