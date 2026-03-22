@@ -63,8 +63,7 @@
               "title": "Notebooks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+                "file": "2-Main/0-SORT THIS/The Modern Artist.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ACT"
+              "title": "Graph of The Modern Artist"
             }
           },
           {
@@ -354,11 +353,11 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "d9d5eae3ba7be14e",
+  "active": "455ea4e68326dd0b",
   "lastOpenFiles": [
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
     "Home.md",
-    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Notebooks.md",
     "2-Main/0-SORT THIS/Grip, Twist, and Split.md",
     "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
