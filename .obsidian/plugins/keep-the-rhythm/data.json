@@ -4098,6 +4098,11 @@
             "timeKey": "14:30",
             "w": 0,
             "c": 0
+          },
+          {
+            "timeKey": "14:35",
+            "w": 0,
+            "c": 4
           }
         ],
         "id": 285
@@ -4107,7 +4112,13 @@
         "filePath": "2-Main/0-SORT THIS/The Modern Artist.md",
         "wordCountStart": 722,
         "charCountStart": 3979,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:40",
+            "w": 7,
+            "c": 36
+          }
+        ],
         "id": 286
       },
       {
@@ -4139,7 +4150,7 @@
         "id": 288
       }
     ],
-    "wholeVaultWordCount": 169543,
-    "wholeVaultCharCount": 2303150
+    "wholeVaultWordCount": 169550,
+    "wholeVaultCharCount": 2303190
   }
 }

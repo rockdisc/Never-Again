@@ -50,7 +50,7 @@ Jean-Michel Basquiat and Untitled, the harsh
 
 # 2 Revised Draft 
 Imagine this: you are walking through an art museum, renaissance paintings to your right, anatomically accurate sculptures to your left, and you entire this main hall, assuming you would see the greatest painting ever made, and you see this. {Picture}
-What is that? Its just a block of red!
+==What is that? Its just a block of red!==^[Add a lot of emphasis on this]
 Modern art has been described in a lot of ways: useless, meaningless, or just an excuse for money laundering, but if that's the case, why do so many art critics and museum curators love it so much? 
 To understand that we will have to go through that museum one more time and look around, what art belongs in a museum? Then lets put on our snobby glasses and really look at the paintings, how exactly are you supposed to look at art? And finally, take a step back and look at the art for what it is. 
 
