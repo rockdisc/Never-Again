@@ -1583,6 +1583,8 @@ Bachelor
 Brainstorm
 Beholder
 Britannia
+Brooklyn
+Basqiuat
 Ela
 Essay
 East
@@ -4737,6 +4739,7 @@ Compendium
 Codex
 Chill
 Comprehension
+Collection
 Modern
 Mini
 My
@@ -6396,6 +6399,9 @@ Mapping
 Mental
 March
 Macbook
+Monet
+Marshall
+Museum
 Summary
 So
 Someone
@@ -8226,6 +8232,9 @@ Strangeness
 Sciences
 Scratch
 Subject
+Studios
+Sunrise
+Stedelijk
 Interesting
 In
 If
@@ -11512,6 +11521,9 @@ Playboi
 Prefer
 Percent
 Pollock
+Pollack
+Painted
+Paintings
 Worldbuilding
 WWII
 Wake
@@ -15776,6 +15788,8 @@ happiest
 hypothetical
 hobby
 heartwarming
+hence
+harshness
 never
 nothing
 not
@@ -17196,6 +17210,7 @@ notIt
 narrowing
 ncmpcpp
 narratives
+nukes
 imagined
 is
 in
@@ -18883,6 +18898,11 @@ impressionism
 introduction
 interview
 internships
+interviewed
+impression
+investigatory
+ingenuity
+iii
 to
 the
 there
@@ -20535,6 +20555,7 @@ tho
 themeing
 trapezoid
 therefore
+tic
 be
 bright
 but
@@ -24469,6 +24490,9 @@ sculptures
 snobby
 swapping
 subjects
+strokes
+scribbles
+smallest
 vast
 very
 vibrant
@@ -25747,6 +25771,7 @@ valuing
 verb
 verbatim
 viewpoints
+vivid
 desert
 due
 dark
@@ -27453,6 +27478,10 @@ disjointed
 dipping
 dotted
 distract
+dip
+drug
+dots
+directed
 and
 anything
 am
@@ -29128,6 +29157,9 @@ atmosphere
 anatomically
 accounts
 aurafarm
+artists
+abstract
+artworks
 mirages
 miles
 man
@@ -30833,6 +30865,10 @@ mooing
 menacingly
 mpd
 macros
+masterpiece
+marked
+meanings
+marvel
 for
 find
 face
@@ -34491,6 +34527,12 @@ critics
 curators
 comments
 carefully
+consumable
+curate
+costly
+criticism
+conception
+childrens
 entire
 endless
 everything
@@ -36129,6 +36171,10 @@ explanations
 explode
 educational
 emphasis
+expressing
+experimenting
+educated
+eggshells
 life
 leather
 long
@@ -37673,6 +37719,7 @@ literal
 landmarks
 lined
 locational
+laundered
 on
 other
 of
@@ -38977,6 +39024,7 @@ occupied
 ordered
 obscures
 organizer
+obscure
 Then
 The
 This
@@ -43532,6 +43580,7 @@ unconjugated
 undermines
 unhelpful
 understandable
+untitled
 robe
 red
 realize
@@ -45379,6 +45428,10 @@ revolutionary
 radio
 referencing
 retired
+radios
+realist
+revivalist
+revival
 yellow
 yet
 you
@@ -49884,6 +49937,10 @@ paired
 performance
 paint
 professors
+prints
+precariously
+pounds
+paints
 kept
 know
 knew
@@ -52837,6 +52894,7 @@ Numbers
 Niche
 Nature
 Notebooks
+Newman
 According
 Albert
 Avert
@@ -56139,6 +56197,7 @@ Rocky
 Revised
 Romance
 Rom
+Renaissance
 Gyles
 Giants
 God
@@ -59060,6 +59119,7 @@ Highkey
 Helping
 Hinduism
 Hyprland
+Hannibal
 Die
 Diathermal
 Do
@@ -61949,6 +62009,8 @@ Kitchen
 Kitty
 Kincade
 Keeping
+Kinkade
+Kiama
 Land
 Lead
 Law
@@ -72225,6 +72287,7 @@ Young
 Yoga
 Yazi
 Yield
+York
 Using
 Until
 UNUSED
