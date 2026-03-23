@@ -4173,11 +4173,55 @@
         "filePath": "2-Main/0-SORT THIS/Notebooks.md",
         "wordCountStart": 605,
         "charCountStart": 8228,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 290
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "2-Main/0-SORT THIS/The Modern Artist.md",
+        "wordCountStart": 732,
+        "charCountStart": 4034,
+        "changes": [],
+        "id": 291
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "2-Main/0-SORT THIS/Media I like.md",
+        "wordCountStart": 242,
+        "charCountStart": 1546,
+        "changes": [],
+        "id": 292
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "Home.md",
+        "wordCountStart": 190,
+        "charCountStart": 1241,
+        "changes": [
+          {
+            "timeKey": "10:05",
+            "w": -8,
+            "c": -42
+          }
+        ],
+        "id": 293
+      },
+      {
+        "date": "2026-03-23",
+        "filePath": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
+        "wordCountStart": 276,
+        "charCountStart": 2517,
+        "changes": [],
+        "id": 294
       }
     ],
-    "wholeVaultWordCount": 169553,
-    "wholeVaultCharCount": 2303209
+    "wholeVaultWordCount": 169545,
+    "wholeVaultCharCount": 2303167
   }
 }
