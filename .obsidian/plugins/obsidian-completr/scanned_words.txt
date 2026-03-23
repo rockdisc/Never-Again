@@ -8235,6 +8235,7 @@ Subject
 Studios
 Sunrise
 Stedelijk
+Specs
 Interesting
 In
 If
@@ -9935,6 +9936,8 @@ Introductory
 Impression
 Imagine
 Innocence
+Intel
+Iris
 Points
 Powers
 Protagonist
@@ -57653,6 +57656,7 @@ Gnoll
 GitHub
 Geology
 Gets
+Gram
 He
 Hunt
 Heaven
@@ -59127,6 +59131,7 @@ Helping
 Hinduism
 Hyprland
 Hannibal
+Hole
 Die
 Diathermal
 Do
@@ -60533,6 +60538,7 @@ Dotted
 Deeper
 Definitely
 Dogshit
+Driver
 Keter
 Knowing
 Kyling
@@ -63493,6 +63499,7 @@ Lich
 Late
 Loss
 Lelouch
+Laptop
 Johan
 Jupiter
 Jotuns
@@ -66442,6 +66449,7 @@ qmuY
 quality
 quietly
 quiche
+quickshell
 Future
 First
 For
