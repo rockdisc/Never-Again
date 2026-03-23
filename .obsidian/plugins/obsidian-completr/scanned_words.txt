@@ -15790,6 +15790,7 @@ hobby
 heartwarming
 hence
 harshness
+heritage
 never
 nothing
 not
@@ -18903,6 +18904,7 @@ impression
 investigatory
 ingenuity
 iii
+immigrant
 to
 the
 there
@@ -20556,6 +20558,7 @@ themeing
 trapezoid
 therefore
 tic
+trips
 be
 bright
 but
@@ -29160,6 +29163,7 @@ aurafarm
 artists
 abstract
 artworks
+assimilated
 mirages
 miles
 man
@@ -32514,6 +32518,7 @@ fists
 fireworks
 fotos
 film
+formatted
 can
 covered
 clad
@@ -36175,6 +36180,7 @@ expressing
 experimenting
 educated
 eggshells
+earliest
 life
 leather
 long
@@ -37720,6 +37726,7 @@ landmarks
 lined
 locational
 laundered
+legitimately
 on
 other
 of
@@ -62011,6 +62018,7 @@ Kincade
 Keeping
 Kinkade
 Kiama
+Kansas
 Land
 Lead
 Law

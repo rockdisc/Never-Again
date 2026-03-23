@@ -11,5 +11,6 @@
   "spellcheck": true,
   "strictLineBreaks": false,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "deleteUnlinkedAttachments": "always"
 }
