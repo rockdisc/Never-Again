@@ -20,9 +20,8 @@ actions:
 
 ```
 ## To-do
-    
-> [!todo]  Today
-> - [ ] find a way of adding comments 
+
+> [!todo]  Today 
 > - [ ] Try out pi-hole 
 > - [ ] Cold email professors about asking to do summer internships and/or help with research 
 > - [ ] Apply to AATEE KU summer program 

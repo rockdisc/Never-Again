@@ -384,7 +384,7 @@
   "showFilenames": true,
   "showTimestamps": false,
   "showHighlightActions": true,
-  "showToolbar": true,
+  "showToolbar": false,
   "autoToggleFold": true,
   "useInlineFootnotes": false,
   "selectTextOnCommentClick": false,
