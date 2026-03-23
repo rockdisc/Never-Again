@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "792070a3d9b6ef85",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "e6a9f4aea8cb1a7e",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               "title": "Small DND Bestiary Notebooks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             }
           },
           {
-            "id": "054e5d1578a88afd",
+            "id": "b5925ed8861015a7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -178,7 +191,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/The Modern Artist.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The Modern Artist"
+              "title": "Graph view"
             }
           },
           {
@@ -353,13 +365,13 @@
       "sidebar-highlights:Open highlights": false
     }
   },
-  "active": "455ea4e68326dd0b",
+  "active": "792070a3d9b6ef85",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Notebooks.md",
+    "Home.md",
     "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
-    "2-Main/0-SORT THIS/Notebooks.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
-    "Home.md",
     "2-Main/0-SORT THIS/Media I like.md",
     "2-Main/0-SORT THIS/Grip, Twist, and Split.md",
     "2-Main/Misc/Book of Knowledge.md",
