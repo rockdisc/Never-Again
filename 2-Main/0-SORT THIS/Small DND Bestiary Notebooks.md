@@ -16,15 +16,15 @@ I recently got these new small [[Notebooks]] that are themed like dnd monsters, 
 ## Tarrasque 
 
 ## Displacer Beast 
-This can be any video I watch, I should go back into the old ones and 
+This can be any video I watch, I should go back into the old ones and write them in here to remember. This might seem like something to put in the Compendium but these are only one video specific while those are a bunch of sources put together. 
 ## Beholder 
-
+I should have a format for this for both finding stars and constellations so that it will be easy for me to do so. The dots might make it harder to understand, but I do not think it will be that big of an issue. 
 ## Gnoll 
 
 ## Owlbear 
-
+I cannot draw so this might be an issue. I will figure something out, like maybe only drawing parts of the creatures but this is mainly to work out some worldbuilding ideas. 
 ## Lich 
-
+I have a lot of these in my Book of Knowledge already, so I am in between if I want to transfer them or not. I think I do because I like having my [[Media Reports.base]] where I can see all of them. This then will just be my original thoughts and understandings. 
 ## Mind Flayer 
 This is kind of taking from my Codex, but that is fine. I am mainly going to be listing the broad strokes of my hobbies here as I know that I have multiple that I know a lot about but have not written them down anywhere. Here is the working list:
 - Yo-yoing 
