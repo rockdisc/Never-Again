@@ -5,7 +5,7 @@ I recently got these new small [[Notebooks]] that are themed like dnd monsters, 
 | Monster         | Type     | Themes                      | Ideas                                                           | Final Use              |
 | --------------- | -------- | --------------------------- | --------------------------------------------------------------- | ---------------------- |
 | Tarrasque       | Blank    | Change, Niche but generic   | Mapping and other locational Worldbuilding,                     |                        |
-| Displacer Beast | Lined    | Space/Locations, swapping   | Understanding Classics,                                         |                        |
+| Displacer Beast | Lined    | Space/Locations, swapping   | Understanding Classics, Platonic Dialogue                       |                        |
 | Beholder        | Dotted   | Understanding               | Astronomy/Stargazing,                                           | Stargazing             |
 | Gnoll           | Graphing | Pain, Tools                 | Math notes and explanations, Survival guide                     |                        |
 | Owlbear         | Blank    | Nature, creatures           | Monster design and notes,                                       | Creature Bestiary      |
