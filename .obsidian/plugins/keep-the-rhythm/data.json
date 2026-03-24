@@ -4341,14 +4341,27 @@
         "changes": [
           {
             "timeKey": "17:45",
-            "w": 37,
-            "c": 230
+            "w": 69,
+            "c": 401
+          },
+          {
+            "timeKey": "17:50",
+            "w": 38,
+            "c": 183
           }
         ],
         "id": 300
+      },
+      {
+        "date": "2026-03-24",
+        "filePath": "2-Main/0-SORT THIS/The Spider Spins its Webs Away From Prying Eyes.md",
+        "wordCountStart": 267,
+        "charCountStart": 1377,
+        "changes": [],
+        "id": 301
       }
     ],
-    "wholeVaultWordCount": 170970,
-    "wholeVaultCharCount": 2311724
+    "wholeVaultWordCount": 171039,
+    "wholeVaultCharCount": 2312076
   }
 }

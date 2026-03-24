@@ -16,7 +16,7 @@ I recently got these new small [[Notebooks]] that are themed like dnd monsters, 
 ## Tarrasque 
 
 ## Displacer Beast 
-
+This can be any video I watch, I should go back into the old ones and 
 ## Beholder 
 
 ## Gnoll 
@@ -26,6 +26,10 @@ I recently got these new small [[Notebooks]] that are themed like dnd monsters, 
 ## Lich 
 
 ## Mind Flayer 
-This is kind of taking from my Codex, but that is fine. I am mainly going to be listing the broad strokes of my 
+This is kind of taking from my Codex, but that is fine. I am mainly going to be listing the broad strokes of my hobbies here as I know that I have multiple that I know a lot about but have not written them down anywhere. Here is the working list:
+- Yo-yoing 
+- Rubik's Cube 
+- Card Tricks 
+I want to eventually have notes for all of these in the [[Book of Knowledge]] but that is for the future. 
 ## Red Dragon 
 
