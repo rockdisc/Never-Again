@@ -1585,6 +1585,7 @@ Beholder
 Britannia
 Brooklyn
 Basqiuat
+Bestiary
 Ela
 Essay
 East
@@ -11527,6 +11528,7 @@ Pollock
 Pollack
 Painted
 Paintings
+Platonic
 Worldbuilding
 WWII
 Wake
@@ -60539,6 +60541,7 @@ Deeper
 Definitely
 Dogshit
 Driver
+Dialogue
 Keter
 Knowing
 Kyling

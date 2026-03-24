@@ -5,10 +5,27 @@ I recently got these new small [[Notebooks]] that are themed like dnd monsters, 
 | Monster         | Type     | Themes                      | Ideas                                                                                                                | Final Use              |
 | --------------- | -------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | Tarrasque       | Blank    | Change, Niche but generic   | Mapping and other locational Worldbuilding,                                                                          |                        |
-| Displacer Beast | Lined    | Space/Locations, swapping   | Understanding Classics, Platonic Dialogue about personal philosophy, video notes for worldbuilding or anything else, |                        |
+| Displacer Beast | Lined    | Space/Locations, swapping   | Understanding Classics, Platonic Dialogue about personal philosophy, video notes for worldbuilding or anything else, | Video analysis         |
 | Beholder        | Dotted   | Understanding               | Astronomy/Stargazing,                                                                                                | Stargazing             |
 | Gnoll           | Graphing | Pain, Tools                 | Math notes and explanations, Survival guide                                                                          |                        |
 | Owlbear         | Blank    | Nature, creatures           | Monster design and notes,                                                                                            | Creature Bestiary      |
 | Lich            | Lined    | Language, magic             | Creating a Conlang, Understanding Classics,                                                                          | Understanding Classics |
 | Mind Flayer     | Dotted   | Strangeness, Mental         | Learning and random topics I know, Page per hobby                                                                    | Page per hobby         |
 | Red Dragon      | Graphing | Big, important, generic use | Sciences including Physics and Chemistry, Astronomy/Stargazing, video notes for worldbuilding or anything else,      |                        |
+
+## Tarrasque 
+
+## Displacer Beast 
+
+## Beholder 
+
+## Gnoll 
+
+## Owlbear 
+
+## Lich 
+
+## Mind Flayer 
+This is kind of taking from my Codex, but that is fine. I am mainly going to be listing the broad strokes of my 
+## Red Dragon 
+

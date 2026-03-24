@@ -8,7 +8,6 @@
   "obsidian-latex-suite",
   "obsidian-leaflet-plugin",
   "obsidian-meta-bind-plugin",
-  "graph-nested-tags",
   "omnisearch",
   "obsidian-paste-image-rename",
   "quickadd",
@@ -17,10 +16,10 @@
   "zen",
   "obsidian-style-settings",
   "obsidian-banners",
-  "settings-search",
   "cmdr",
   "live-wallpaper",
   "obsidian-git",
   "chronos",
-  "sidebar-highlights"
+  "sidebar-highlights",
+  "obsifetch"
 ]
