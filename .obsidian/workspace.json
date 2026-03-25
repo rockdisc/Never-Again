@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Small DND Bestiary Notebooks"
             }
           },
           {
@@ -383,8 +383,9 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "171bced9f98a3749",
+  "active": "b8136bdb417e4e63",
   "lastOpenFiles": [
+    "Home.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Laptops.md",
     "2-Main/0-SORT THIS/Notebooks.md",
@@ -393,7 +394,6 @@
     "2-Main/0-SORT THIS/Old Laptop.md",
     "3-Journal/2026/2026-03/2026-03-24.md",
     "3-Journal/2026/2026-03",
-    "Home.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Book Reports/Of Mice and Men.md",
     "2-Main/3-Resources/3-Humanities/Media Reports/Media Reports.base",
     "2-Main/0-SORT THIS/Backup.md",

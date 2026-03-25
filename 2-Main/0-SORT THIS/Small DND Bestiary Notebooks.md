@@ -22,7 +22,8 @@ I should have a format for this for both finding stars and constellations so tha
 ## Gnoll 
 
 ## Owlbear 
-I cannot draw so this might be an issue. I will figure something out, like maybe only drawing parts of the creatures but this is mainly to work out some worldbuilding ideas. 
+I cannot draw so this might be an issue. I will figure something out, like maybe only drawing parts of the creatures but this is mainly to work out some worldbuilding ideas. Here are some monster ideas:
+- The Potman: lives inside of a pot with a nice design can sometimes comes out of it to take things. The opening of the pot is only a few inches wide, so the Potman goes one limb at a time to climb out, he is very thin but lanky, though no one can remember him. He will come out, take your pen, and climb back in without you even noticing it. 
 ## Lich 
 I have a lot of these in my Book of Knowledge already, so I am in between if I want to transfer them or not. I think I do because I like having my [[Media Reports.base]] where I can see all of them. This then will just be my original thoughts and understandings. This can be any video I watch, I should go back into the old ones and write them in here to remember. This might seem like something to put in the Compendium but these are only one video specific while those are a bunch of sources put together. I am putting both of these together as I do not know how many classics or others I will write about while I know I will do a lot of videos. And I had a better idea for the other one. 
 ## Mind Flayer 
