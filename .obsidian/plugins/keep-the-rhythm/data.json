@@ -4569,6 +4569,22 @@
           }
         ],
         "id": 316
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Asymptote.md",
+        "wordCountStart": 14,
+        "charCountStart": 91,
+        "changes": [],
+        "id": 317
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
+        "wordCountStart": 180,
+        "charCountStart": 1403,
+        "changes": [],
+        "id": 318
       }
     ],
     "wholeVaultWordCount": 171884,
