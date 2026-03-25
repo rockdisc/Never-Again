@@ -33,3 +33,19 @@ I am going to call it "An Impression of Debian" and it will be based on impressi
 ![[The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg|500]]
 
 Even though these all look different, the accent color should stay the same. A brownish orange. There can be some apps that use a blueish color to contrast with is, but the system theme should be orange. Might get aether to get that to work. 
+
+# 2 Home Server 
+A lot of things have changed, I am running Debian on it and there is really no need for the laptop as I realized that writing on it is a painful experience and I would rather just SSH into it which beats the whole purpose. So instead I am going to make it into a home server. Here are my goals for it:
+- Run pi-hole to block ads on devices of my choosing 
+- Make it always running 
+- Make it appear as a network on my laptop that I can send things to very easily 
+- Have a way to store my data on it like music and play them from my other machines 
+- Run docker on it for other things 
+- Back up all of my notes onto it just in case 
+Honestly not that hard, but it might still be a challenge knowing me. 
+## 2.1 Steps 
+1. I am going to need to download docker, should be easy to do and set up be who knows.
+2. Figure out how to make it always on, even if it is shut and its display is off. Make it not log out as well. 
+3. Download pi-hole on it and configure it so that it works 
+4. On my other devices get pi-hole to work 
+5. Figure out whatever I need to t

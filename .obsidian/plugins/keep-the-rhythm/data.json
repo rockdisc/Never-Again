@@ -4422,20 +4422,52 @@
       },
       {
         "date": "2026-03-24",
-        "filePath": "3-Journal/2026/2026-3/2026-03-24.md",
+        "filePath": "3-Journal/2026/2026-03/2026-03-24.md",
         "wordCountStart": 78,
         "charCountStart": 479,
         "changes": [
           {
             "timeKey": "21:05",
-            "w": 104,
-            "c": 506
+            "w": 144,
+            "c": 685
+          },
+          {
+            "timeKey": "21:10",
+            "w": 114,
+            "c": 538
           }
         ],
         "id": 307
+      },
+      {
+        "date": "2026-03-24",
+        "filePath": "2-Main/0-SORT THIS/Laptops.md",
+        "wordCountStart": 97,
+        "charCountStart": 1048,
+        "changes": [],
+        "id": 308
+      },
+      {
+        "date": "2026-03-24",
+        "filePath": "2-Main/0-SORT THIS/Old Laptop.md",
+        "wordCountStart": 614,
+        "charCountStart": 6690,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 76,
+            "c": 377
+          },
+          {
+            "timeKey": "21:15",
+            "w": 119,
+            "c": 565
+          }
+        ],
+        "id": 309
       }
     ],
-    "wholeVaultWordCount": 171160,
-    "wholeVaultCharCount": 2312474
+    "wholeVaultWordCount": 171534,
+    "wholeVaultCharCount": 2314258
   }
 }
