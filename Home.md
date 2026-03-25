@@ -22,10 +22,10 @@ actions:
 ## To-do
 
 > [!todo]  Today 
-> - [ ] Try out pi-hole 
 > - [ ] Cold email professors about asking to do summer internships and/or help with research 
 > - [ ] Apply to AATEE KU summer program 
 > - [ ] Apply to ASKC 
+> - [ ] Change the wallpaper to fix the AI marks 
 
 > [!warning] Homework
 

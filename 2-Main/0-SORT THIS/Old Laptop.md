@@ -52,3 +52,4 @@ Honestly not that hard, but it might still be a challenge knowing me.
 6. Back up my notes and music to get it on there 
 7. Find a docker music player that I can use with the music there. 
 
+Maybe try syncthing, it seems very easy to do. 

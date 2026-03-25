@@ -4509,11 +4509,69 @@
         "filePath": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
         "wordCountStart": 859,
         "charCountStart": 6343,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
         "id": 311
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "Home.md",
+        "wordCountStart": 177,
+        "charCountStart": 1175,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 5,
+            "c": 25
+          }
+        ],
+        "id": 312
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "2-Main/0-SORT THIS/Laptops.md",
+        "wordCountStart": 97,
+        "charCountStart": 1048,
+        "changes": [],
+        "id": 313
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "2-Main/0-SORT THIS/Backup.md",
+        "wordCountStart": 1075,
+        "charCountStart": 10167,
+        "changes": [],
+        "id": 314
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
+        "wordCountStart": 2135,
+        "charCountStart": 12197,
+        "changes": [],
+        "id": 315
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "2-Main/0-SORT THIS/Old Laptop.md",
+        "wordCountStart": 878,
+        "charCountStart": 7948,
+        "changes": [
+          {
+            "timeKey": "17:05",
+            "w": 9,
+            "c": 47
+          }
+        ],
+        "id": 316
       }
     ],
-    "wholeVaultWordCount": 171870,
-    "wholeVaultCharCount": 2316356
+    "wholeVaultWordCount": 171884,
+    "wholeVaultCharCount": 2316429
   }
 }
