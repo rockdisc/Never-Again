@@ -48,4 +48,7 @@ Honestly not that hard, but it might still be a challenge knowing me.
 2. Figure out how to make it always on, even if it is shut and its display is off. Make it not log out as well. 
 3. Download pi-hole on it and configure it so that it works 
 4. On my other devices get pi-hole to work 
-5. Figure out whatever I need to t
+5. Figure out whatever I need to do to make it show as a network and do it and get it to work 
+6. Back up my notes and music to get it on there 
+7. Find a docker music player that I can use with the music there. 
+
