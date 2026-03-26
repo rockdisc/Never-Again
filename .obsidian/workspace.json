@@ -235,7 +235,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Old Laptop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Old Laptop"
+              "title": "Graph view"
             }
           },
           {
@@ -411,10 +410,10 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "834202fadc32c2cb",
+  "active": "a8d855dae45ef459",
   "lastOpenFiles": [
-    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Old Laptop.md",
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Laptops.md",
     "2-Main/0-SORT THIS/Notebooks.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",

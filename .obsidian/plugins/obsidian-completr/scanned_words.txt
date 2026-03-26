@@ -24519,6 +24519,7 @@ speakers
 server
 syncthing
 ssh
+sftp
 vast
 very
 vibrant
