@@ -4709,7 +4709,18 @@
         "filePath": "2-Main/0-SORT THIS/Laptops.md",
         "wordCountStart": 97,
         "charCountStart": 1048,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:25",
+            "w": 19,
+            "c": 40
+          },
+          {
+            "timeKey": "18:30",
+            "w": 1,
+            "c": 15
+          }
+        ],
         "id": 327
       },
       {
@@ -4721,7 +4732,7 @@
         "id": 328
       }
     ],
-    "wholeVaultWordCount": 172135,
-    "wholeVaultCharCount": 2317470
+    "wholeVaultWordCount": 172155,
+    "wholeVaultCharCount": 2317525
   }
 }
