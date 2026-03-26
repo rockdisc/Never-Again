@@ -55,4 +55,6 @@ Honestly not that hard, but it might still be a challenge knowing me.
 Maybe try syncthing, it seems very easy to do. 
 
 ## 2.2 What I Actually Have 
-I did some tinkering and I got to so that it will always stay on, and right now I am pretty sure that it will only cost me 10 cents a month though I am not too sure on that number. I got it using ssh to make it a server that can connect to the 
+I did some tinkering and I got to so that it will always stay on, and right now I am pretty sure that it will only cost me 10 cents a month though I am not too sure on that number. I got it using ssh to make it a server that can connect to the laptop in the file browser. The thing is: sftp://user@192.168.1.10
+
+I also have pi hole in there as well, to access it, it is: http://192.168.1.10/admin/ and the password is scribe. 
