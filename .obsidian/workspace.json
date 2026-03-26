@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Small DND Bestiary Notebooks"
             }
           },
           {
@@ -272,7 +272,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -395,13 +395,13 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "0ae540956e96dfd2",
+  "active": "b8136bdb417e4e63",
   "lastOpenFiles": [
+    "Home.md",
     "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
     "3-Journal/2026-03-25.md",
     "2-Main/3-Resources/2-STEM/Sciences/Physics/2-Dynamics/0-General/Wave Mechanics.md",
     "3-Journal/2026/2026-03/2026-03-24.md",
-    "Home.md",
     "2-Main/3-Resources/2-STEM/Math/Algebra/Rational Function.md",
     "2-Main/0-SORT THIS/Old Laptop.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
