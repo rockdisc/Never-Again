@@ -27,7 +27,7 @@ actions:
 > - [ ] Apply to ASKC 
 > - [ ] Change the wallpaper to fix the AI marks 
 > - [ ] Add my own neofetch ascii art
-> - [ ] Learn tailscale, bittorrent, and arr suite 
+> - [ ] Learn tailscale, qbittorrent, and arr suite 
 
 > [!warning] Homework
 
