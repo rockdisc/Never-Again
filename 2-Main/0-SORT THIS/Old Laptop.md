@@ -60,3 +60,4 @@ I did some tinkering and I got to so that it will always stay on, and right now 
 I also have pi hole in there as well, to access it, it is: http://192.168.1.10/admin/ and the password is scribe. 
 
 to get to ssh it is ssh scribe@192.168.1.10 
+I just made a command to make it do that, just run connect in your terminal. 
