@@ -26,6 +26,7 @@ actions:
 > - [ ] Apply to AATEE KU summer program 
 > - [ ] Apply to ASKC 
 > - [ ] Change the wallpaper to fix the AI marks 
+> - [ ] Add my own neofetch ascii art
 
 > [!warning] Homework
 
