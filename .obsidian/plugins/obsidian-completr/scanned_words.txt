@@ -17234,6 +17234,7 @@ ncmpcpp
 narratives
 nukes
 network
+neofetch
 imagined
 is
 in
@@ -20583,6 +20584,7 @@ tic
 trips
 tinkering
 transverse
+tailscale
 be
 bright
 but
@@ -24530,6 +24532,7 @@ sftp
 speeches
 swimming
 streaming
+suite
 vast
 very
 vibrant
@@ -29199,6 +29202,8 @@ artists
 abstract
 artworks
 assimilated
+ascii
+arr
 mirages
 miles
 man
@@ -66511,6 +66516,7 @@ quietly
 quiche
 quickshell
 quite
+qbittorrent
 Future
 First
 For
