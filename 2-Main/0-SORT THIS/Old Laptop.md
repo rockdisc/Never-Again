@@ -61,3 +61,9 @@ I also have pi hole in there as well, to access it, it is: http://192.168.1.10/a
 
 to get to ssh it is ssh scribe@192.168.1.10 
 I just made a command to make it do that, just run connect in your terminal. 
+
+I also set up QBitTorrent, username is admin password is scribe at http://192.168.1.10:8080 
+and the rest of the arr stack follow this: 
+- Prowlarr at http://192.168.1.10:9696 
+- Sonarr at http://192.168.1.10:8989 
+- Radarr at http://192.168.1.10:7878

@@ -4817,9 +4817,36 @@
           }
         ],
         "id": 336
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "2-Main/0-SORT THIS/Laptops.md",
+        "wordCountStart": 117,
+        "charCountStart": 1103,
+        "changes": [],
+        "id": 337
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "2-Main/0-SORT THIS/Old Laptop.md",
+        "wordCountStart": 1006,
+        "charCountStart": 8576,
+        "changes": [
+          {
+            "timeKey": "21:25",
+            "w": 24,
+            "c": 141
+          },
+          {
+            "timeKey": "21:30",
+            "w": 15,
+            "c": 112
+          }
+        ],
+        "id": 338
       }
     ],
-    "wholeVaultWordCount": 172162,
-    "wholeVaultCharCount": 2317091
+    "wholeVaultWordCount": 172201,
+    "wholeVaultCharCount": 2317344
   }
 }
