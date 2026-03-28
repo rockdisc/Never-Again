@@ -4795,9 +4795,31 @@
           }
         ],
         "id": 333
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
+        "wordCountStart": 859,
+        "charCountStart": 6343,
+        "changes": [],
+        "id": 335
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "3-Journal/2026-03-27.md",
+        "wordCountStart": 57,
+        "charCountStart": 386,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 77,
+            "c": 320
+          }
+        ],
+        "id": 336
       }
     ],
-    "wholeVaultWordCount": 172260,
-    "wholeVaultCharCount": 2317816
+    "wholeVaultWordCount": 172162,
+    "wholeVaultCharCount": 2317091
   }
 }
