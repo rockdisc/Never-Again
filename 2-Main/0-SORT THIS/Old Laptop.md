@@ -67,3 +67,5 @@ and the rest of the arr stack follow this:
 - Prowlarr at http://192.168.1.10:9696 
 - Sonarr at http://192.168.1.10:8989 
 - Radarr at http://192.168.1.10:7878
+
+And there is Jellyfin, which finally gave a name to the server, Pleroma, and that also shares the same username and login at http://192.168.1.10:8096
