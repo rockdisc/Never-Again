@@ -25,7 +25,6 @@ actions:
 > - [ ] Cold email professors about asking to do summer internships and/or help with research 
 > - [ ] Apply to AATEE KU summer program 
 > - [ ] Apply to ASKC 
-> - [ ] Add my own neofetch ascii art
 
 > [!warning] Homework
 

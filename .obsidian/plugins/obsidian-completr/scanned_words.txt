@@ -8246,6 +8246,7 @@ Study
 Server
 Steps
 Studied
+Sonarr
 Interesting
 In
 If
@@ -11540,6 +11541,8 @@ Paintings
 Platonic
 Potman
 ProxMox
+Prowlarr
+Pleroma
 Worldbuilding
 WWII
 Wake
@@ -29204,6 +29207,7 @@ artworks
 assimilated
 ascii
 arr
+admin
 mirages
 miles
 man
@@ -37777,6 +37781,7 @@ laundered
 legitimately
 literacy
 longitudinal
+login
 on
 other
 of
@@ -43641,6 +43646,7 @@ unhelpful
 understandable
 untitled
 understandings
+username
 robe
 red
 realize
@@ -56268,6 +56274,7 @@ Renaissance
 Rubik
 Recap
 Radeon
+Radarr
 Gyles
 Giants
 God
@@ -63565,6 +63572,7 @@ Late
 Loss
 Lelouch
 Laptop
+Lidar
 Johan
 Jupiter
 Jotuns
@@ -65169,6 +65177,7 @@ Jerry
 Jess
 Joyce
 Jackson
+Jellyfin
 quarter
 questions
 quickly
@@ -75320,6 +75329,7 @@ Qto
 QIr
 QEAaE
 Qutebroswer
+QBitTorrent
 Xt
 XZ
 Xr
