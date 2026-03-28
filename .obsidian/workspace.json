@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Old Laptop.md",
+                "file": "3-Journal/2026-03-27.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Old Laptop"
+              "title": "Graph of 2026-03-27"
             }
           },
           {
@@ -286,7 +286,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "2-Main/0-SORT THIS/Old Laptop.md"
+                "file": "3-Journal/2026-03-27.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -409,14 +409,14 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "b4df6abc1d99fc41",
+  "active": "1c3069fb9f0958d9",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Old Laptop.md",
     "2-Main/0-SORT THIS/Laptops.md",
     "3-Journal/2026-03-27.md",
     "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
     "Home.md",
     "3-Journal/2026/2026-03/2026-03-26.md",
-    "2-Main/0-SORT THIS/Old Laptop.md",
     "2-Main/0-SORT THIS/Notebooks.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
     "3-Journal/2026/2026-03/2026-03-25.md",
