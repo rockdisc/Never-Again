@@ -26,6 +26,7 @@ actions:
 > - [ ] Apply to AATEE KU summer program 
 > - [ ] Apply to ASKC 
 > - [ ] Set up exit node
+> - [ ] Tranfer edited act file over to new draft
 
 > [!warning] Homework
 

@@ -168,8 +168,10 @@ Localized questions first, then global questions, unless main idea, that can be 
 
 Direct questions talk directly about information in the passage(According to... in line...), indirect questions are things like "strongly suggests" and the answer to these is most often not directly stated in a passage 
 
+PAGE 467
 There are questions that will ask you for meaning of words, if you do not know what the word means, get it through context clues 
-
+Detail questions are about specific details the author chooses, no need to make inferences or anything, it is in the author's own statements 
+Tone and attitude can be gotten from adjectives 
 
 ## 2.6 Science
 
