@@ -4954,7 +4954,13 @@
         "filePath": "Home.md",
         "wordCountStart": 172,
         "charCountStart": 1150,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 6,
+            "c": 25
+          }
+        ],
         "id": 345
       },
       {
@@ -5024,7 +5030,13 @@
         "filePath": "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
         "wordCountStart": 2135,
         "charCountStart": 12197,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "14:05",
+            "w": 59,
+            "c": 352
+          }
+        ],
         "id": 353
       },
       {
@@ -5052,7 +5064,7 @@
         "id": 354
       }
     ],
-    "wholeVaultWordCount": 172520,
-    "wholeVaultCharCount": 2318759
+    "wholeVaultWordCount": 172585,
+    "wholeVaultCharCount": 2319136
   }
 }

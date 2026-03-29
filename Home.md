@@ -25,6 +25,7 @@ actions:
 > - [ ] Cold email professors about asking to do summer internships and/or help with research 
 > - [ ] Apply to AATEE KU summer program 
 > - [ ] Apply to ASKC 
+> - [ ] Set up exit node
 
 > [!warning] Homework
 

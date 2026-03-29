@@ -166,6 +166,10 @@ There is really no need to read the passage word for word, as long as you create
 On paired passages the first 3 questions will be about the first, then the second, and finally both of them. Read the first passage, answer the first questions, and so on. 
 Localized questions first, then global questions, unless main idea, that can be answered without looking at the passage most of the time.
 
+Direct questions talk directly about information in the passage(According to... in line...), indirect questions are things like "strongly suggests" and the answer to these is most often not directly stated in a passage 
+
+There are questions that will ask you for meaning of words, if you do not know what the word means, get it through context clues 
+
 
 ## 2.6 Science
 
