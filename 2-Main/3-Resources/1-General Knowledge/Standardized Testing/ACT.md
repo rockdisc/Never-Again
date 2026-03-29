@@ -173,13 +173,15 @@ There are questions that will ask you for meaning of words, if you do not know w
 Detail questions are about specific details the author chooses, no need to make inferences or anything, it is in the author's own statements 
 Tone and attitude can be gotten from adjectives 
 
-Knowing a lot about various topics will also help as then you can have a deeper understanding of what the passages are talking about, but do not let this cloud your judgment e
+Knowing a lot about various topics will also help as then you can have a deeper understanding of what the passages are talking about, but do not let this cloud your judgment 
 ## 2.6 Science
 
 ### 2.6.1 General 
 This is optional, but you should take it. 40 minutes and 40 questions. 6 will not be scored, aka one passage. 7 passages total. 2 will be data(graphs & tables), 3 is a research summary, and 1 is conflicting viewpoints. The first and last will always be scored. Earth/Space 1-2, 2 biology, 1-2 physics, 1-2 chemistry. There are some common knowledge things you need to know like levels of the atmosphere or the pH scale. Numbers are in least to greatest. I need more practice on this. 
 
 It is best for me to read the introduction first and then go to the questions 
+
+hypotheses are not directly stated, use line or reasoning to get there 
 
 Tips: 
 - Learn figures and units(where to look)
