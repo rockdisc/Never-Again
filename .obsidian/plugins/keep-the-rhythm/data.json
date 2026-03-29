@@ -4964,9 +4964,23 @@
         "charCountStart": 9075,
         "changes": [],
         "id": 346
+      },
+      {
+        "date": "2026-03-29",
+        "filePath": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
+        "wordCountStart": 859,
+        "charCountStart": 6343,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 347
       }
     ],
-    "wholeVaultWordCount": 172481,
+    "wholeVaultWordCount": 172483,
     "wholeVaultCharCount": 2318501
   }
 }

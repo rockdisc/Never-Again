@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2-Main/0-SORT THIS/Old Laptop.md",
+                "file": "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Old Laptop"
+              "title": "Graph of Small DND Bestiary Notebooks"
             }
           },
           {
@@ -409,12 +409,12 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "b4df6abc1d99fc41",
+  "active": "b8136bdb417e4e63",
   "lastOpenFiles": [
+    "2-Main/0-SORT THIS/Old Laptop.md",
     "Home.md",
     "3-Journal/2026/2026-03/2026-03-28.md",
     "2-Main/0-SORT THIS/Small DND Bestiary Notebooks.md",
-    "2-Main/0-SORT THIS/Old Laptop.md",
     "3-Journal/2026/2026-03/2026-03-27.md",
     "2-Main/0-SORT THIS/Laptops.md",
     "3-Journal/2026/2026-03/2026-03-26.md",
