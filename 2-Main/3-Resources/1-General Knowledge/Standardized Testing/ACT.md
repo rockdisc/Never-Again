@@ -173,7 +173,7 @@ There are questions that will ask you for meaning of words, if you do not know w
 Detail questions are about specific details the author chooses, no need to make inferences or anything, it is in the author's own statements 
 Tone and attitude can be gotten from adjectives 
 
-Knowing a lot about various topics will also help as then you can have a deeper understanding of what the passages are talking about, but do not let this cloud your judgment 
+Knowing a lot about various topics will also help as then you can have a deeper understanding of what the passages are talking about, but do not let this cloud your judgment e
 ## 2.6 Science
 
 ### 2.6.1 General 
