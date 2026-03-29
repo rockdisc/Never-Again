@@ -295,7 +295,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -323,7 +324,7 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "b11d29358c074136",
+  "active": "0da96bb9f92f2c28",
   "lastOpenFiles": [
     "2-Main/Misc/Book of Knowledge.md",
     "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
