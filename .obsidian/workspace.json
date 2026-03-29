@@ -49,7 +49,8 @@
               "title": "Old Laptop"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Old Laptop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home"
+              "title": "Graph of Old Laptop"
             }
           },
           {
@@ -249,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "2-Main/0-SORT THIS/Old Laptop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Old Laptop"
             }
           },
           {
@@ -306,10 +307,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "2-Main/0-SORT THIS/Old Laptop.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Old Laptop"
             }
           },
           {
@@ -351,10 +352,10 @@
       "obsifetch:obsifetch": false
     }
   },
-  "active": "b11d29358c074136",
+  "active": "f44dd66b13c1fbd3",
   "lastOpenFiles": [
-    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "Home.md",
+    "2-Main/3-Resources/1-General Knowledge/Standardized Testing/ACT.md",
     "2-Main/0-SORT THIS/Old Laptop.md",
     "2-Main/Misc/Book of Knowledge.md",
     "2-Main/0-SORT THIS/The Modern Artist.md",
