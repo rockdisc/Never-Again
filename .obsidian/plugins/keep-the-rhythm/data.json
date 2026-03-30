@@ -4959,6 +4959,11 @@
             "timeKey": "14:05",
             "w": 16,
             "c": 75
+          },
+          {
+            "timeKey": "21:45",
+            "w": -22,
+            "c": -352
           }
         ],
         "id": 345
@@ -5095,9 +5100,33 @@
         "charCountStart": 724,
         "changes": [],
         "id": 355
+      },
+      {
+        "date": "2026-03-29",
+        "filePath": "3-Journal/2026-03-29.md",
+        "wordCountStart": 232,
+        "charCountStart": 1431,
+        "changes": [
+          {
+            "timeKey": "21:40",
+            "w": -162,
+            "c": -1035
+          },
+          {
+            "timeKey": "21:45",
+            "w": 123,
+            "c": 604
+          },
+          {
+            "timeKey": "21:50",
+            "w": 71,
+            "c": 326
+          }
+        ],
+        "id": 356
       }
     ],
-    "wholeVaultWordCount": 172673,
-    "wholeVaultCharCount": 2319633
+    "wholeVaultWordCount": 172683,
+    "wholeVaultCharCount": 2319176
   }
 }
