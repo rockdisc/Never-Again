@@ -1,4 +1,0 @@
-#Science/Physics 
-
-![[Electricity]]
-![[Magnetism]]

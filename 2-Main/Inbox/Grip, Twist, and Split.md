@@ -1,0 +1,14 @@
+---
+Area: []
+Category: []
+Topic: []
+aliases: []
+Status: Needs Sorting
+tags:
+  - Rough
+  - Writing/CSULT
+---
+
+#Rough #Writing/CSULT
+
+This was the fourth time I had seen this man today. First was at the city gates, then on a bench near center of the city, after was him passing by outside my inn window, finally here talking to the lady at the market stall next to me. I started noticing him from the bench, underestimating coincidences is an easy way to leave my line of work. Almost never have they truly been by happenstance. The man did not seem to notice me though, or if he did, his long, tan felt hat blocked me from noticing. Like the rest of his clothes, it was weathered and had the color beaten out of it. Being honest, I was not doing much better, though it would be considered a good thing. Standing out too much is a much faster way to retire than normal means. I keep my eye on this man, four is way too many times for him to be an above average mage, and the ones that got to the level he did should know to keep an eye out for these things, or he just does not care. That would raise its own issues. Though there is still the chance that he is a god, though it would not make sense for one to come to a random small town with no substantial pagan rituals and are confident in their faith if the tidy church means anything. He made polite conversation with the lady who is was buying from. 
