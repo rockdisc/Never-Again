@@ -15,7 +15,7 @@ tags:
   - reference
 MediaType: Book
 Author: Erich Maria Remarque
-banner: https://images.squarespace-cdn.com/content/v1/5aad39045ffd2005d9ba86ec/1666637556284-4IFADRJ0ELJG2O8XMM1S/allquietonthewesternfront_05.jpg
+banner: "https://images.squarespace-cdn.com/content/v1/5aad39045ffd2005d9ba86ec/1666637556284-4IFADRJ0ELJG2O8XMM1S/allquietonthewesternfront_05.jpg"
 Rating: 8.7
 banner_y: 0.032
 ---
